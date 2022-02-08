@@ -1,0 +1,179 @@
+﻿
+# https://ginikofaith.com/index.php
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/images/logo-dark.png" group-title="GinikoFaith",★★★★★★★★★★[COLOR red]G[/COLOR][COLOR white]iniko Faith TV[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/channels/logo/amazing-discoveries-tv.jpg" group-title="GinikoFaith",Amazing Discoveries TV
+http://1gbflu4.tulix.tv/gfaith-amazing/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/channels/logo/nrbtv.jpg" group-title="GinikoFaith",NRBTV
+http://1gbflu4.tulix.tv/gfaith-nrbtv/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/channels/logo/divine-tv.jpg" group-title="GinikoFaith",Divine TV
+http://1gbflu4.tulix.tv/gfaith-divine/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/channels/logo/bible-explorations.jpg" group-title="GinikoFaith",Bible Explorations
+http://1gbflu4.tulix.tv/gfaith-bibleexp/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/channels/logo/better-life-tv.png" group-title="GinikoFaith",Better Life TV
+http://1gbflu4.tulix.tv/gfaith-betterlife/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/channels/logo/secret-sun-sealed.png" group-title="GinikoFaith",Secrets Unsealed
+http://1gbflu4.tulix.tv/gfaith-secretsun/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://ginikofaith.com/channels/logo/watc-tv.png" group-title="GinikoFaith",WATC TV
+http://1gbflu4.tulix.tv/gfaith-watctv/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/watc-too-tv.png" group-title="GinikoFaith",WATC TOO TV
+http://1gbflu4.tulix.tv/gfaith-watctootv/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/jbs-live.jpg" group-title="GinikoFaith",JBS Live
+http://1gbflu4.tulix.tv/gfaith-jbs/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/thedove.jpg" group-title="GinikoFaith",theDove
+http://1gbflu4.tulix.tv/gfaith-thedove/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/forerunnerintl-com.png" group-title="GinikoFaith",ForerunnerIntl
+http://1gbflu4.tulix.tv/gfaith-forerministriesintl/tracks-v1a1/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/quo-vadis.jpg" group-title="GinikoFaith",Quo Vadis
+http://1gbflu4.tulix.tv/gfaith-qvm/tracks-v1a1/index.m3u8?token=37837c297b5e993953baf68315d8c004
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/firstlight-tv.png" group-title="GinikoFaith",Firstlight TV
+http://1gbflu4.tulix.tv/gfaith-firstlight/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/kqsl-8.jpg" group-title="GinikoFaith",KQSL 8
+http://1gbflu4.tulix.tv/gfaith-kqsl8/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/lifevision-tv.jpg" group-title="GinikoFaith",LIFEVISION TV
+http://1gbflu4.tulix.tv/gfaith-lifevision/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/harvest-usa.png" group-title="GinikoFaith",Harvest USA
+http://1gbflu4.tulix.tv/gfaith-harvestusa/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/harvest-english.png" group-title="GinikoFaith",Harvest English
+http://1gbflu4.tulix.tv/gfaith-harvestenglish/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/harvest-arabia.png" group-title="GinikoFaith",Harvest Arabia
+http://1gbflu4.tulix.tv/gfaith-harvestarabia/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/harvest-tv-malayalam.png" group-title="GinikoFaith",Harvest TV - Malayalam
+http://1gbflu4.tulix.tv/gfaith-harvestmalayalam/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/faith-usa.jpg" group-title="GinikoFaith",Faith USA
+http://1gbflu4.tulix.tv/gfaith-bnetwork2/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/faith-uk.jpg" group-title="GinikoFaith",Faith UK
+http://1gbflu4.tulix.tv:80/gfaith-bnetwork3/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/faith-africa.png" group-title="GinikoFaith",Faith Africa
+http://1gbflu4.tulix.tv:80/gfaith-bnetwork1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/chinese-hopetv.png" group-title="GinikoFaith",Chinese HopeTV
+http://1gbflu4.tulix.tv/gfaith-chinesehopetv/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/god-tv-africa.jpg" group-title="GinikoFaith",GOD TV AFRICA
+http://1gbflu4.tulix.tv/gfaith-godtvafrica/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/god-tv-asia.jpg" group-title="GinikoFaith",GOD TV ASIA
+http://1gbflu4.tulix.tv/gfaith-godtvasia/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/god-tv-australia.jpg" group-title="GinikoFaith",GOD TV AUSTRALIA
+http://1gbflu4.tulix.tv/gfaith-godtvaustralia/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/china-amazing-facts.jpg" group-title="GinikoFaith",China Amazing Facts
+http://1gbflu4.tulix.tv/gfaith-chinaamazingfacts/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/god-tv-special-events.jpg" group-title="GinikoFaith",GOD TV SPECIAL EVENTS
+http://1gbflu4.tulix.tv/gfaith-godtvevents/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/god-tv-uk.jpg" group-title="GinikoFaith",GOD TV UK
+http://1gbflu4.tulix.tv/gfaith-godtvuk/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/god-tv-usa.jpg" group-title="GinikoFaith",GOD TV USA
+http://1gbflu4.tulix.tv/gfaith-godtvusa/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/god-tv-prayer-room.jpg" group-title="GinikoFaith",GOD TV PRAYER ROOM
+http://1gbflu4.tulix.tv/gfaith-godtvprayer/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-hislight.jpg" group-title="GinikoFaith",LLBN His Light
+http://1gbflu4.tulix.tv/gfaith-llbnhislight/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-hisword.jpg" group-title="GinikoFaith",LLBN His WORD
+http://1gbflu4.tulix.tv:80/gfaith-llbnhisword/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-smart-lifestyle.jpg" group-title="GinikoFaith",LLBN SMART LifeStyle
+http://1gbflu4.tulix.tv/gfaith-smartlifestyle/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-arabic.jpg" group-title="GinikoFaith",LLBN Arabic
+http://1gbflu4.tulix.tv/gfaith-llbnarabic/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-chinese.jpg" group-title="GinikoFaith",LLBN Chinese
+http://1gbflu4.tulix.tv/gfaith-llbnchinese/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-korean.jpg" group-title="GinikoFaith",LLBN Korean
+http://1gbflu4.tulix.tv/gfaith-llbnkorean/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-latino.jpg" group-title="GinikoFaith",LLBN Latino
+http://1gbflu4.tulix.tv/gfaith-llbnlatino/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/llbn-south-asia.jpg" group-title="GinikoFaith",LLBN South Asia
+http://1gbflu4.tulix.tv/gfaith-llbnsouthasia/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/crown-of-life-global-tv.jpg" group-title="GinikoFaith",Crown of Life Global TV
+http://1gbflu4.tulix.tv/gfaith-colgtv/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/st-joseph-evangelization-network.jpg" group-title="GinikoFaith",St.Joseph Evangelization
+http://1gbflu4.tulix.tv/gfaith-sjentv/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/sat7-turk.png" group-title="GinikoFaith",Sat7 Turk
+http://1gbflu4.tulix.tv/gfaith-sat7turk/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/set-free-tv.jpg" group-title="GinikoFaith",Set Free TV
+http://1gbflu4.tulix.tv:80/gfaith-setfree/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/promise-tv.jpg" group-title="GinikoFaith",Promise TV
+http://1gbflu4.tulix.tv/gfaith-promisetv/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/southern-gospel-4u.jpg" group-title="GinikoFaith",Southern Gospel 4U
+http://1gbflu4.tulix.tv:80/gfaith-southerngospel4u/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/gospel-music-4u.jpg" group-title="GinikoFaith",Gospel Music 4U
+http://1gbflu4.tulix.tv/gfaith-gospel4u/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/breaking-the-brad.jpg" group-title="GinikoFaith",Breaking the Bread
+http://1gbflu4.tulix.tv/gfaith-breakingthebread/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/fndtv-english.jpg" group-title="GinikoFaith",FNDTV - English
+http://1gbflu4.tulix.tv/gfaith-fndtven/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/fndtv-french.jpg" group-title="GinikoFaith",FNDTV - French
+http://1gbflu4.tulix.tv/gfaith-fndtvfr/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/alkeraza-tv.jpg" group-title="GinikoFaith",Alkeraza TV
+http://1gbflu4.tulix.tv/gfaith-alkeraza/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/preach-the-word-network-tv.jpg" group-title="GinikoFaith",Preach The Word Network TV
+http://1gbflu4.tulix.tv:80/gfaith-ptwn/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/true-word-network.jpg" group-title="GinikoFaith",True Word Network
+http://1gbflu4.tulix.tv/gfaith-trueword/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/gracia-tv.png" group-title="GinikoFaith",GRACIA TV
+http://1gbflu4.tulix.tv/gfaith-graciatv/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/heart-ministry.jpg" group-title="GinikoFaith",Heart Ministry
+http://1gbflu4.tulix.tv/gfaith-heartministry/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/alfa-omega-tv.png" group-title="GinikoFaith",Alfa Omega TV
+http://1gbflu4.tulix.tv/gfaith-alfasiomega/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/iniyan-tv.png" group-title="GinikoFaith",INIYAN TV
+https://bozztv.com/36bay2/giniko_iniyantv/tracks-v1a1/mono.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/smtv.jpg" group-title="GinikoFaith",SMTV
+http://1gbflu4.tulix.tv/gfaith-smtv/tracks-v1a1/index.m3u8?token=d19295ccb0f98a2ed3c2f83bfba701ba
+
+#EXTINF:-1 tvg-logo="https://www.ginikofaith.com/channels/logo/kingdom-broadcast-network.jpg" group-title="GinikoFaith",Kingdom Broadcast Network (NA)
+0.0.0.0
+
