@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
+#EXTM3U
 #EXTINF:-1 channel-id="pluto-5f8eb66537867f0007146953" tvg-id="5f8eb66537867f0007146953" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="Divertissement",CATFISH TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f8eb71a26ed8300076433f9" tvg-id="5f8eb71a26ed8300076433f9" tvg-chno="515" tvg-logo="https://images.pluto.tv/channels/5f8eb71a26ed8300076433f9/colorLogoPNG.png" group-title="Divertissement",MADE TV
