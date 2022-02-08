@@ -1,0 +1,894 @@
+﻿#EXTM3U
+
+# Made By Sphinxroot QC ##
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/6hVCTCl.png" tvg-name="Arsenal Media" group-title="Radio QC",★★★★★★★★★★★★★★★[COLOR red]Arsenal Media Radio[/COLOR]★★★★★★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/Nuages-SDbleu.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/gJgzuBI.png" tvg-name="O" group-title="Radio QC",★★★★★★★★★★[COLOR gold]O[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/Nuages-SDbleu.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/B1QN6dW.png" tvg-name="O" group-title="Radio QC",O 95.3 Matane
+http://stream.statsradio.com:8026/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/i4WjvPp.png" tvg-name="O" group-title="Radio QC",O 97.1 La Tuque
+http://stream.statsradio.com:8018/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/tzelPZ8.png" tvg-name="O" group-title="Radio QC",O 97.3 Centre-du-Quebec et des Appalaches
+http://stream.statsradio.com:8012/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/7DU5J9n.png" tvg-name="O" group-title="Radio QC",O 98.3 Saguenay-Lac-Saint-Jean
+http://stream.statsradio.com:8064/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/OfpCTlP.png" tvg-name="O" group-title="Radio QC",O 99.1 Sept-Iles et Port-Cartier
+http://stream.statsradio.com:8020/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/lh7zAt6.png" tvg-name="O" group-title="Radio QC",O 101.5 Beauce,Rive-Sud et Québec
+http://stream.statsradio.com:8016/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/3smuDBA.png" tvg-name="O" group-title="Radio QC",O 103.5 Lanaudiere
+http://stream.statsradio.com:8024/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/u5Q0eGp.png" tvg-name="Plaisir" group-title="Radio QC",★★★★★★★★★★[COLOR gold]Plaisir[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/33024349-sd.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/bQYJaHg.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 94,1 Sept-Iles
+http://stream.statsradio.com:8034/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/U0pmW7i.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 101.9 Victoriaville
+https://stream.statsradio.com:8006/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/oUt2tlv.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 105,3 Matane
+http://stream.statsradio.com:8028/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/oHWNh8a.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 105,5 Thetford Mines
+http://stream.statsradio.com:8010/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/wD77aSH.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir 106,7 Lac-Megantic
+https://stream.statsradio.com:8008/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/VwsifC3.png" tvg-name="Hit Country" group-title="Radio QC",★★★★★★★★★★[COLOR gold]Hit Country[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/1009164518-sd.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/JQN5wNK.png" tvg-name="Hit Country" group-title="Radio QC",Hit Country 95,7 Centre-du-Quebec
+http://stream.statsradio.com:8014/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/CMjpiOQ.png" tvg-name="Hit Country" group-title="Radio QC",Hit Country 105,5 Saguenay
+http://stream.statsradio.com:8088/stream
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/KPQm8KD.png" tvg-name="Horizon" group-title="Radio QC",★★★★★★★★★★[COLOR gold]Horizon[/COLOR]★★★★★★★★★★
+http://arsenalmedia.com/wp-content/uploads/2019/09/1013360768-sd.mp4
+
+#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/ZlfTJ3l.png" tvg-name="Horizon" group-title="Radio QC",Horizon 95,5 temiscouata,Degelis
+http://podcast.servlinks.com/cfvd/get_shoutcast.php?1588741102243
+
+###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TtezLjB.png" group-title="Bell Media"Radio QC,★★★★★★★★★★[COLOR gold]Bell Media Radio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAdL2x1.png" group-title="Bell Media"Radio QC,[COLOR gold]TSN 690 AM Montreal[/COLOR]
+https://17343.live.streamtheworld.com/CKGMAM_ADP/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/amprZcm.png" group-title="Bell Media"Radio QC,[COLOR gold]CJAD 800 AM Montreal[/COLOR]
+https://20593.live.streamtheworld.com/CJADAMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gz4bhTq.png" group-title="Bell Media"Radio QC,[COLOR gold]Virgin 95.9 FM Montreal[/COLOR]
+https://16903.live.streamtheworld.com/CJFMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4In0Ol.png" group-title="Bell Media"Radio QC,[COLOR gold]CHOM 97.7 FM Montreal[/COLOR]
+https://19003.live.streamtheworld.com/CHOMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfvekhM.png" group-title="Bell Media"Radio QC,[COLOR gold]Boom 104.1 FM Saint-Jean-sur-Richelieu[/COLOR] 
+https://16923.live.streamtheworld.com/CFZZFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja1yhIB.png" group-title="Bell Media"Radio QC,[COLOR gold]Boom 106.5 FM Saint-Hyacinthe[/COLOR]
+https://15903.live.streamtheworld.com/CFEIFMAAC.aac
+
+###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Njjw5Cc.png" group-title="Bell Media"Radio QC,★★★★★★★★★★[COLOR mediumblue]Energie[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bxgkypF.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Drummondville 92.1[/COLOR]
+https://20263.live.streamtheworld.com/CJDMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H12iKH7.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Gatineau-Ottawa 104.1[/COLOR]
+https://20263.live.streamtheworld.com/CKTFFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgKt9B4.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Magog-Sherbrooke 106.1-106.9[/COLOR]
+https://22113.live.streamtheworld.com/CIMOFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgCQgKo.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Montreal 94.3[/COLOR]
+https://16613.live.streamtheworld.com/CKMFFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFY9hWE.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Quebec 98.9[/COLOR]
+https://18123.live.streamtheworld.com/CHIKFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1b33js.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Rimouski-Amqui 98.7-93.9[/COLOR]
+https://15903.live.streamtheworld.com/CIKIFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDpA7bG.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Rouyn-Noranda-La Sarre 99.1-92.5[/COLOR]
+https://18133.live.streamtheworld.com/CJMMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xSthDQW.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Saguenay 94.5[/COLOR]
+https://20263.live.streamtheworld.com/CJABFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYxLhFI.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Trois-Rivieres 102.3[/COLOR]
+https://17443.live.streamtheworld.com/CIGBFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tVWPuH.png" group-title="Bell Media"Radio QC,[COLOR gold]Energie Val-d'Or 102.7[/COLOR]
+https://20263.live.streamtheworld.com/CJMVFMAAC.aac
+
+###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51W9VBq.png" group-title="Bell Media"Radio QC,★★★★★★★★★★[COLOR red]Rouge FM[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6GPUZmB.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Amqui 99.9[/COLOR]
+https://17343.live.streamtheworld.com/CFVMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jh0vbk.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Drummondville 105.3[/COLOR]
+https://18363.live.streamtheworld.com/CHRDFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sG501KI.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Gatineau-ottawa 94.9[/COLOR]
+https://20263.live.streamtheworld.com/CIMFFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iz59VNG.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Montreal 107.3[/COLOR]
+https://19293.live.streamtheworld.com/CITEFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HmxwEj.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Quebec 107.5[/COLOR]
+https://20793.live.streamtheworld.com/CITFFMAACTEST_48.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjx6lLE.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Rimouski 102.9[/COLOR]
+https://17443.live.streamtheworld.com/CJOIFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqgw3Iu.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Saguenay 96.9[/COLOR]
+https://17343.live.streamtheworld.com/CFIXFMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDGfmzU.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Sherbrooke 102.7[/COLOR]
+https://17613.live.streamtheworld.com/CITE1FMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D65EJMR.png" group-title="Bell Media"Radio QC,[COLOR gold]Rouge FM Trois-Rivieres 94.7[/COLOR]
+https://18123.live.streamtheworld.com/CHEYFMAAC.aac
+
+###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/31rNkcM.png" group-title="Cogeco Média Radio"Radio QC,★★★★★★★★★★[COLOR gold]Cogeco Média Radio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8l7o3wv.png" group-title="Cogeco Média Radio"Radio QC,CFGE-FM Rythme FM 93.7-98.1 Sherbrooke / Magog
+https://cogecomedia.leanstream.co/cogecomedia/CFGEFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLi48aW.png" group-title="Cogeco Média Radio"Radio QC,CJEB-FM Rythme FM 100.1 Trois-Rivieres 
+https://cogecomedia.leanstream.co/cogecomedia/CJEBFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xuw3Lxn.png" group-title="Cogeco Média Radio"Radio QC,CFGL-FM Rythme FM 105.7 Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CFGLFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOpFiF9.png" group-title="Cogeco Média Radio"Radio QC,CJMF-FM - 93.3 FM  Quebec
+https://cogecomedia.leanstream.co/cogecomedia/CJMFFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhckfhq.png" group-title="Cogeco Média Radio"Radio QC,CHMP-FM - 98.5 FM  Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CHMPFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OBAWyU.png" group-title="Cogeco Média Radio"Radio QC,CKOF-FM - 104.7 FM  Gatineau
+https://cogecomedia.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gnbuMAe.png" group-title="Cogeco Média Radio"Radio QC,CKOB-FM - 106.9 FM  Trois-Rivieres
+https://cogecomedia.leanstream.co/cogecomedia/CKOBFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/odd6FZa.png" group-title="Cogeco Média Radio"Radio QC,CKOY-FM - 107.7 FM  Sherbrooke
+https://cogecomedia.leanstream.co/cogecomedia/CKOYFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3l3M2eP.png" group-title="Cogeco Média Radio"Radio QC,CKAC - Radio Circulation 730 AM Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CKACAM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bqmd9Ak.png" group-title="Cogeco Média Radio"Radio QC,CKLX-FM Sports 91.9 FM  Montreal
+https://stream.919sports.ca/cklx.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lb0sPs0.png" group-title="Cogeco Média Radio"Radio QC,CJEC-FM Wknd 91.9 FM Quebec
+http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lockk1p.png" group-title="Cogeco Média Radio"Radio QC,CKBE-FM The Beat 92.5 FM  Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CKBEFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zF0Lhul.png" group-title="Cogeco Média Radio"Radio QC,CKYK-FM KYK  95.7 FM Chicoutimi
+https://cogecomedia.leanstream.co/cogecomedia/CKYKFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1kZmVte.png" group-title="Cogeco Média Radio"Radio QC,CHGO-FM Capitale Rock 95.7 FM /104.3 FM /102.1 FM Val-d'Or Rouyn-Noranda
+https://cogecomedia.leanstream.co/cogecomedia/CJGOFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44dMnwA.png" group-title="Cogeco Média Radio"Radio QC,CFTX-FM Pop 96,5 FM Gatineau	
+https://stream.pop965.ca/cftx.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIoPN6b.png" group-title="Cogeco Média Radio"Radio QC,CKOI-FM CKOI 96.9 Montreal
+https://cogecomedia.leanstream.co/cogecomedia/CKOIFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZj2VCX.png" group-title="Cogeco Média Radio"Radio QC,CHOI-FM RadioX 98.1 FM Quebec
+https://lb0-stream.radiox981.ca/choi.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olKi6nw.png" group-title="Cogeco Média Radio"Radio QC,CHXX-FM Lavibe 100.9 FM Quebec
+https://stream.lavibe.fm/chxx.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGoCeDp.png" group-title="Cogeco Média Radio"Radio QC,CIME-FM  CIME  101.3 FM /103.9 FM Saint-Jerome / Mont-Tremblant
+https://cogecomedia.leanstream.co/cogecomedia/CIMEFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNoLAfH.png" group-title="Cogeco Média Radio"Radio QC,CFEL-FM BLVD 102.1 FM  Levis
+http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3T07NDY.png" group-title="Cogeco Média Radio"Radio QC,CFOM-FM M FM 102.9 Quebec
+https://cogecomedia.leanstream.co/cogecomedia/CFOMFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6hzz2I.png" group-title="Cogeco Média Radio"Radio QC,CKXO-FM Planete 93.5 FM Chibougamau
+https://cogecomedia.leanstream.co/cogecomedia/CKXOFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bER7S3R.png" group-title="Cogeco Média Radio"Radio QC,CHRL-FM  Planete 99.5 FM Roberval
+https://cogecomedia.leanstream.co/cogecomedia/CHRLFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcBmD3l.png" group-title="Cogeco Média Radio"Radio QC,CHVD-FM Planete 100.3 FM Dolbeau-Mistassini
+https://cogecomedia.leanstream.co/cogecomedia/CHVDFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYR2kia.png" group-title="Cogeco Média Radio"Radio QC,CFGT-FM Planete 104.5 FM Alma
+https://cogecomedia.leanstream.co/cogecomedia/CFGTFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUVd134.png" group-title="Cogeco Média Radio"Radio QC,CHOA-FM WOW 96.5 FM /103.5 FM /103.9 FM   Rouyn-Noranda/Val-d'Or/La Sarre
+https://cogecomedia.leanstream.co/cogecomedia/CHOAFM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvlEEq9.png" group-title="Cogeco Média Radio"Radio QC,CHLX-FM WOW 97.1 FM Gatineau
+https://stream.wow971.ca/chlx.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olNypFw.png" group-title="Cogeco Média Radio"Radio QC,CJLA-FM WOW 104.9 FM /102.1 FM Lachute / Hawkesbury
+https://cogecomedia.leanstream.co/cogecomedia/CJLAFM.stream/playlist.m3u8
+
+###
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lNrOvY.png",★★★★★★★★★★★★★★★★★★★★[COLOR gold]Radio-Canada[/COLOR]★★★★★★★★★★★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-RDI.png?raw=true" group-title="ICI RDI",ICI RDI Audio
+https://rcavliveaudio.akamaized.net/hls/live/2006978/RDI_RDI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/ICIMusic.png?raw=true" group-title="ICI Music",★★★★★★★★★★[COLOR orchid]ICI Musique[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Montreal
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Ottawa
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Moncton
+https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Edmonton
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Vancouver
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Rimouski
+https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Sherbrooke
+https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Winipeg
+https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Trois-Rivieres
+https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Quebec
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Saguenay
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Sudbury
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Musique.png?raw=true" group-title="ICI Music",Toronto
+https://rcavliveaudio.akamaized.net/hls/live/2006991/M-7OTOR0_TOR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/ICIMUSICCLA.png?raw=true" group-title="ICI Music",ICI Musique Classique
+https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/playlist.m3u8
+
+#########
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/IciPremiere.png?raw=true" group-title="ICI Premiere",★★★★★★★★★★[COLOR orchid]ICI Premiere[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Abitibi-Temiscamingue(Rouin-Noranda)
+https://rcavliveaudio.akamaized.net/hls/live/2006955/P-2QROU0_ROU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Alberta(Edmonton)
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Bas-Saint-Laurent(Rimouski)
+https://rcavliveaudio.akamaized.net/hls/live/2006651/P-2QRIM0_RIM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Colombie-Britannique-Yukon(Vancouver)
+https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Cote-Nord(Sept-Iles)
+https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Estrie(Sherbrooke)
+https://rcavliveaudio.akamaized.net/hls/live/2006971/P-2QSHE0_SHE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Gaspesie-Iles-de-la-Madeleine(Matane)
+https://rcavliveaudio.akamaized.net/hls/live/2006951/P-2QMAT0_MAT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Ile-du-Prince-Edouard(Charlottetown)
+https://rcavliveaudio.akamaized.net/hls/live/2006948/P-2EMCT3_CHR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Manitoba(Winipeg)
+https://rcavliveaudio.akamaized.net/hls/live/2006977/P-2MWIN0_WIN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Mauricie-Centre-du-Quebec(Trois-Rivieres)
+https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Montreal
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Nord de L Ontario(Sudbury)
+https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Nouveau-Brunswick(Moncton)
+https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Nouvelle-Ecosse(Halifax)
+https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Ottawa-Gatineau
+https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Quebec
+https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Saguenay-Lac-Saint-Jean
+https://rcavliveaudio.akamaized.net/hls/live/2006969/P-2QSAG0_SAG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Saskatchewan(Regina)
+https://rcavliveaudio.akamaized.net/hls/live/2006954/P-2SREG0_REG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Terre-Neuve-Et-Labrador(Halifax)
+https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Toronto
+https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.iptv.free/blob/master/Images/Logo%20Station%20QC/Premiere.png?raw=true" group-title="ICI Premiere",Windsor
+https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TN59hj.png" group-title="",★★★★★★★★★★[COLOR gold]Autre Radio[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+#https://radioendirect.net/canada/quebec/radio-communautaire
+
+
+#EXTINF:-1 tvg-logo="https://canalm.vuesetvoix.com/app/themes/canal-m/images/logo.png" group-title="",CanalM
+http://s4.streammonster.com:8460/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7kJZdc.jpg" group-title="",QUB radio
+https://19293.live.streamtheworld.com/QUB_RADIOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://cfnj.net/wp-content/uploads/2020/11/Logo-header-CFNJ.png" group-title="",CFNJ FM 99.1
+http://stream.statsradio.com:9700/stream
+
+#EXTINF:-1 tvg-logo="https://929cfut.com/wp-content/uploads/2020/04/929sansShawinigan_lg.jpg" group-title="",CFUT FM 92.9 Shawinigan
+http://stream2.statsradio.com:8092/stream
+
+#EXTINF:-1 tvg-logo="https://cfou.ca/wp-content/uploads/2020/02/Cfou-lg-Photo_Rouge-120x105.png" group-title="",CFOU FM 89.1 Trois-Rivieres
+http://132.209.25.7:5050/broadwave.mp3
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CKBN-FM.png" group-title="",Via 90.5 Bécancour
+http://stream.statsradio.com:8056/stream
+
+#EXTINF:-1 tvg-logo="http://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png" group-title="",CJSQ FM  92.7
+https://listen.radioking.com/radio/256885/stream/301510
+
+#EXTINF:-1 tvg-logo="https://www.truckstopquebec.com/wp-content/uploads/2013/10/tsq300x901.png" group-title="",Truck Stop Quebec
+http://canada1.reliastream.com:8052/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDejvba.png" group-title="",RQI
+http://104.194.9.142:8041/stream/;
+
+#EXTINF:-1 tvg-logo="https://ckaj.org/wp-content/uploads/2019/09/ckaj_new_black.png" group-title="",CKAJ FM 92.5 Saguenay
+http://stream.statsradio.com:8060/stream
+
+#EXTINF:-1 tvg-logo="https://streaming-player-assets.s3.amazonaws.com/JBCCS/custom/images/JBCCSDefault.jpg" group-title="",CHFG 101.1 Chisasibi
+https://ais-sa1.streamon.fm/7175_24k.aac
+https://ais-sa1.streamon.fm/7175_24k.aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cfak.ca/wp-content/uploads/2017/06/logo-web-cfak-blanc-1.png" group-title="",CFAK 88.3 Sherbrooke
+http://streamer01.sti.usherbrooke.ca:8000/cfak.mp3
+
+#EXTINF:-1 tvg-logo="https://www.cfbsradio.net/uploads/3/6/5/0/3650242/published/imageedit-8-9011571744.png" group-title="",CFBS 89.9 Blanc-Sablon
+http://stream02.ustream.ca:8000/cfbs128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radio-acton.com/1037/wp-content/uploads/2017/10/fm1037_ma_radio_ma_region-300x127.png" group-title="",CFID 103.7 Acton Vale
+http://stream02.ustream.ca:8000/cfid128.mp3
+
+#EXTINF:-1 tvg-logo="https://cfim.ca/wp-content/uploads/2019/05/Iles-de-la-Madeleine-CFIM-Logo.png" group-title="",CFIM 92.7 Cap-aux-Meules
+http://stream02.ustream.ca:8000/cfim128.mp3
+
+#EXTINF:-1 tvg-logo="https://passion-fm.com/img/layout/logo-passionfm.jpg" group-title="",CFIN 100.5 Lac-Etchemin
+https://streaming.cloudmjs.com:8002/cfin.mp3
+
+#EXTINF:-1 tvg-logo="http://www.cflo.ca/sites/default/files/logo_cflo.png" group-title="",CFLO 104.7 Mont-Laurier
+http://stream.statsradio.com:8088/stream
+
+#EXTINF:-1 tvg-logo="https://cflx.qc.ca/wp-content/uploads/2019/09/logo-100.jpg" group-title="",CFLX 95.5 Sherbrooke
+https://stream1.diffusionavw.com:8006/stream
+
+#EXTINF:-1 tvg-logo="https://cdnrf.securenetsystems.net/file_radio/stations_large/CFMB/v5/logo.png" group-title="",CFMB 1280 Montréal
+https://ice41.securenetsystems.net/CFMB
+
+#EXTINF:-1 tvg-logo="http://chandler.bleufm.ca/wp-content/uploads/2015/11/logo_bleu_96_3.png" group-title="",CFMV Bleu Fm 96.3 Chandler
+http://xltrax.com:8100/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GcQoNgi.png" group-title="",CFNJ 99.1 Saint-Gabriel
+http://stream.statsradio.com:9700/stream
+
+#EXTINF:-1 tvg-logo="https://foifm.com/wp-content/uploads/2020/07/logo_poisson_CFOI-FM-1.png" group-title="",CFOI 104.1 Quebec
+http://edge.sermon.net/live-edge/21230/livefor20591220_tb96_in1_vb0_ab96_fps0x0_uuid3f5350e553004398801c6fe563a7d9bf/chunklist_w83977092310.m3u8
+
+#EXTINF:-1 tvg-logo="https://m105.ca/wp-content/themes/LaWebShop2/img/logo.png" group-title="",CFXM 104.9 M105 Granby
+http://18123.live.streamtheworld.com/CFXMFMAAC.aac
+
+#EXTINF:-1 tvg-logo="http://www.radioboreale.com/wordpress/wp-content/uploads/2017/01/RB1053_LogoWeb.png" group-title="",CH0W 105.3 Radio Boréale Amos
+http://stream.statsradio.com:8022/stream
+
+#EXTINF:-1 tvg-logo="http://fm1033.ca/wp-content/uploads/2017/01/logo-fm1033-300x151.png" group-title="",CHAA 103.3 La Radio allumée Longueuil
+http://stream.statsradio.com:8062/stream
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHAI-FM.png" group-title="",CHAI 101.9 Châteauguay
+http://stream.statsradio.com:8078/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n1t4PtA.png" group-title="",CHEF 99.9 Matagami
+http://37.59.37.173:7370/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHGA-FM.png" group-title="",CHGA 97.3 Maniwaki
+http://stream02.ustream.ca/chga128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.1031fm.ca/assets/images/Autres/img_default_actualites_concours.jpg" group-title="",CHHO 103.1 Louiseville
+http://stream.statsradio.com:8076/stream
+
+#EXTINF:-1 tvg-logo="https://chicfm.weebly.com/uploads/1/1/7/5/117547971/published/chicfm3-1.png	" group-title="",CHIC 88.7 Rouyn-Noranda
+http://167.114.155.111:8888/chicradio.mp3
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CHIP-FM.jpeg" group-title="",CHIP 101.9 Fort-Coulonge
+http://stream02.ustream.ca:8000/chip128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.mix997.com/assets/img/logo-mix-997-entete.png" group-title="",CHJM 99.7 Saint-Georges
+http://stream.statsradio.com:8054/stream
+
+#EXTINF:-1 tvg-logo="http://www.chlc.com/templates/chlc/images/apple-touch-icon-144x144-precomposed.png" group-title="",CHLC 100.5 Baie-Comeau
+http://podcast.servlinks.com:8416/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jDiTSL.jpg" group-title="",CHME 94.9 Essipit
+http://chme949.com:8670/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCodGre.png" group-title="",CHMK 93.1 Manawan
+https://s33.myradiostream.com/15364/listen.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radiochnc.com/images/designs/logo_chnc.png" group-title="",CHNC 107.1 New Carlisle
+https://stream2.statsradio.com:8098/stream
+
+#EXTINF:-1 tvg-logo="http://www.chnt.ca/img/logo_big_transparent.png" group-title="",CHNT 92.3 Notre-Dame-Du-Nord
+http://198.50.204.108:9302/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s24690/images/logog.jpg" group-title="",CHOU 1450 Montréal
+https://s2.voscast.com:7387/stream
+
+#EXTINF:-1 tvg-logo="http://www.chox97.com/assets/img/facebook.png	" group-title="",CHOX 97.5 La Pocatière
+http://stream.statsradio.com:8052/stream
+
+#EXTINF:-1 tvg-logo="https://radiohumsafar.com/wp-content/uploads/2020/03/cropped-RHLOGO-1.png" group-title="",CHRN 1610 Montreal
+https://ice3.securenetsystems.net/HUMSAFAR
+
+#EXTINF:-1 tvg-logo="http://chrq1069.com/wp-content/uploads/2019/03/chrqlogo-cv2.jpg" group-title="",CHRQ 106.9 Listuguj
+http://162.210.196.142:29441/stream
+
+#EXTINF:-1 tvg-logo="https://cdnrf.securenetsystems.net/file_radio/stations_large/CHSV/v5/logo.png" group-title="",CHSV 106.7 St-Lazare
+https://ice10.securenetsystems.net/CHSV
+
+#EXTINF:-1 tvg-logo="http://chunfm.ca/WEFiles/Image/WEImage/Logo%20Sans%20fob-WEc8a702fd5d.png" group-title="",CHUN 98.3 Rouyn-Noranda
+http://198.50.204.108:9954/;
+
+#EXTINF:-1 tvg-logo="http://cdn.simplesite.com/i/a3/f1/282600881187451299/i282600889632562437._szw270h3500_.jpg" group-title="",CHVL 106.5 Val-des-lacs
+https://freeuk1.listen2myradio.com/live.mp3
+
+#EXTINF:-1 tvg-logo="http://media.chyz.ca/wp-content/uploads/2015/02/chyz_gros_signature.jpg" group-title="",CHYZ 94.3 Québec
+http://ecoutez.chyz.ca:8000/mp3
+
+#EXTINF:-1 tvg-logo="http://ciaxfm.net/wp-content/uploads/2018/04/CIAX_logotigre_rouge-300x232.png" group-title="",CIAX 98.3 Windsor
+http://ciaxfm.net:8000/radio
+
+#EXTINF:-1 tvg-logo="https://www.cibl1015.com/wp-content/uploads/2019/11/cibl-logo-transparent-mini-2.png" group-title="",CIBL 101.5 Montréal
+http://stream02.ustream.ca/cibl128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.cibm107.com/assets/img/facebook.png" group-title="",CIBM 107.1 Rivière-du-Loup
+http://stream.statsradio.com:8050/stream
+
+#EXTINF:-1 tvg-logo="http://www.ciel103.com/assets/img/facebook.png" group-title="",CIEL 103.7 Rivière-du-Loup
+http://stream.statsradio.com:8046/stream
+
+#EXTINF:-1 tvg-logo="https://www.cieufm.com/images/logo-cieu-fm.jpg" group-title="",CIEU 94.9 Carleton
+https://stream.statsradio.com:8074/stream
+
+#EXTINF:-1 tvg-logo="http://cignfm.ca/wp-content/themes/cign/img/cign-logo-400x200.png" group-title="",CIGN 96.7 Coaticook
+http://stream02.ustream.ca:8000/cignfm128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.cihofm.com/img/layout/logo-ciho.png" group-title="",CIHO 96.3 Charlevoix
+https://streaming.cloudmjs.com:8000/ciho.mp3
+
+#EXTINF:-1 tvg-logo="http://fmwendake.com/wp-content/uploads/2017/06/logo-big.png" group-title="",CIHW 100.3 Wendake
+http://mediacast.b2b2c.ca:8016/;
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/rtccable.com/wp-content/uploads/2019/07/rtc-cile.jpg" group-title="",CILE 95.1 Havre-Saint-Pierre
+http://stream02.ustream.ca:8000/cile128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.ntetemuk.com/images/logo.png" group-title="",CIMB 95.1 Pessamit
+http://curiosity.shoutca.st:6039/stream
+
+#EXTINF:-1 tvg-logo="http://cinifm.ca/wp-content/uploads/2015/04/172294_104696132944634_6950036_o-copy2-e1429108054810.png" group-title="",CINI 95.3 Mistissini
+https://ais-sa1.streamon.fm/7091_32k.aac
+
+#EXTINF:-1 tvg-logo="https://radio-centreville.com/wp-content/uploads/2019/09/logo-radio-centre-ville.png" group-title="",CINQ 102.3 Montréal
+https://players.rcast.net/stream/65388.mp3
+
+#EXTINF:-1 tvg-logo="http://radiogalilee.com/wp-content/uploads/2015/02/logo-medium.jpg" group-title="",CION 90.9 Québec
+http://radiogalilee.com:8000/cionfm.mp3
+
+#EXTINF:-1 tvg-logo="http://www.ciqifm.com/assets/img/facebook.png" group-title="",CIQI 90.3 Montmagny
+http://stream.statsradio.com:8044/stream
+
+#EXTINF:-1 tvg-logo="https://www.radiovm.com/sites/default/themes/at_panels_everywhere/logo.png" group-title="",CIRA 91.3 Montréal
+https://streamingv2.shoutcast.com/radiovm-cira-fm
+
+#EXTINF:-1 tvg-logo="https://cism893.ca/public/default/images/general/logo.png" group-title="",CISM 89.3 Montréal
+https://stream03.ustream.ca/cism128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.citkfm.ca/images/logo_citkfm1.jpg" group-title="",CITK 89.9 Obedjiwan
+http://stream.zoneplus.ca:9978/;audio.mp3
+
+#EXTINF:-1 tvg-logo="http://cjan.media/wp-content/uploads/2019/09/cropped-pagestandby-180x180.jpg" group-title="",CJAN 99.3 Asbestos
+https://stream2.statsradio.com:8018/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n0v7UM.png" group-title="",CJEU 1670 Gatineau
+http://icecastrjca.ddns.net:8000/cjeu
+
+#EXTINF:-1 tvg-logo="http://cjlo.com/logo.jpg " group-title="",CJLO 1690 Montréal
+http://rosetta.shoutca.st:8883/stream
+
+#EXTINF:-1 tvg-logo="http://1570.ca/wp-content/uploads/2019/02/CJLV-1570-AM.jpg" group-title="",CJLV 1570 Lasalle
+http://174.142.215.249:8620/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://steanne.bleufm.ca/wp-content/uploads/2016/01/Logo100_accueil.png" group-title="",CJMC 100.3 Sainte-Anne-des-Monts
+http://xltrax.com:8010/;
+
+#EXTINF:-1 tvg-logo="https://969fm.ca/css/img/logo.png" group-title="",CJMD 96.9 Lévis
+https://stream2.statsradio.com:8074/live
+
+#EXTINF:-1 tvg-logo="http://www.cjmq.fm/images/theqube1.jpg" group-title="",CJMQ 88.9 Sherbrooke
+http://the.radioservers.biz:9996/;
+
+#EXTINF:-1 tvg-logo="http://cjms1040.ca/logo_CJMS.jpg" group-title="",CJMS 1040 Saint-Constant
+http://xltrax.com:8860/;
+
+#EXTINF:-1 tvg-logo="https://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png" group-title="",CJPX 99.5 Montréal
+https://listen.radioking.com/radio/228241/stream/271804
+
+#EXTINF:-1 tvg-logo="https://www.radioclassique.ca/upload/design/5d1cc4fcaad749.59987287.png" group-title="",CJSQ 92.7 Quebec
+https://listen.radioking.com/radio/256885/stream/301510
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CJRG-FM.png" group-title="",CJRG 94.5 Gaspé
+http://stream02.ustream.ca:8000/cjrg128.mp3
+
+#EXTINF:-1 tvg-logo="http://radio-shalom.ca/wp-content/uploads/cropped-logo-radio-shalom-512x512-180x180.jpg" group-title="",CJRS 1650 Montréal
+http://a1team.net:8128/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.cjso.ca/wp-content/themes/cjso/img/cjso-75.png" group-title="",CJSO 101.7 Sorel-Tracy
+http://stream.statsradio.com:8032/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4wDiTCd.jpg" group-title="",CJVD 100.1 Vaudreuil-Dorion
+http://xlnetwork.info:8820/;
+
+#EXTINF:-1 tvg-logo="http://www.cpam1410.com/wp-content/uploads/2018/11/cpamlogoFinal.png" group-title="",CJWI 1410 Montréal
+https://streamingv2.shoutcast.com/CPAMRadioUnioncom
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CKAJ-FM.png" group-title="",CKAJ 92,5 Jonquière
+http://stream.statsradio.com:8060/stream
+
+#EXTINF:-1 tvg-logo="http://www.ckau.com/data/60-ckau/images/manual/logo_sml.png" group-title="",CKAU 104.5 Maliotenam
+http://173.236.19.90:8001/stream
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CKBN-FM.png" group-title="",CKBN 90.5 Wôlinak
+http://stream.statsradio.com:8056/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQAydgN.jpg" group-title="",CKCJ 97.9 Lebel-sur-Quévillon
+http://192.99.29.224:7004/ckcj
+
+#EXTINF:-1 tvg-logo="https://mikefm.ca/wp-content/uploads/2017/11/mikefmblanc.png" group-title="",CKDG 105.1 Montréal
+198.50.204.108:9300/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://z6xzibl61fpjr0k2ka47v165-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/drumbeat-logo-notext-400x388.png" group-title="",CKFF 104.1 Kebaowek
+https://streamingv2.shoutcast.com/drumbeat-radio
+
+#EXTINF:-1 tvg-logo="http://ckiafm.org/images/frontend/CKIA-martiens.png" group-title="",CKIA 88.3 Québec
+http://ecoutez.ckiafm.org:8000/live.mp3
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s126948g.png" group-title="",CKIN 106.3 Montreal
+http://ice64.securenetsystems.net/CKIN
+
+#EXTINF:-1 tvg-logo="https://cdnrf.securenetsystems.net/file_radio/stations_large/CINAFM3/v5/logo.png" group-title="",CINA 102.3 Montreal
+https://ice9.securenetsystems.net/CINAFM3
+
+#EXTINF:-1 tvg-logo="https://cdnrf.securenetsystems.net/file_radio/stations_large/CINA-FM/v5/logo.png" group-title="",CINA HITS Montreal
+https://ice7.securenetsystems.net/CINA-FM
+
+#EXTINF:-1 tvg-logo="http://www.899kic.com/wp-content/uploads/2015/08/KICLOGO.png" group-title="",CKKI 89.9 Kahnawake
+http://andromeda.shoutca.st:8221/stream
+http://andromeda.shoutca.st:8221/;
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CKMN-FM.png" group-title="",CKMN 96.5 Rimouski
+http://stream.statsradio.com:8070/stream
+
+#EXTINF:-1 tvg-logo="https://www.ckna.ca/wp-content/uploads/CKNAlogo-3-e1520086048995.png" group-title="",CKNA 104.1 Natashquan
+https://s25.myradiostream.com:10241/listen.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJdW9aC.png" group-title="",CKOD 103.1 Salaberry-de-Valleyfield
+http://72.1.219.225:8000/:stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.coolfm.biz/assets/img/facebook.png" group-title="",CKRB 103.5 Saint-Georges
+http://stream.statsradio.com:8040/stream
+
+#EXTINF:-1 tvg-logo="https://k1037.com/wp-content/uploads/2018/12/K1037-Logo.png" group-title="",CKRK 103.7 Kahnawake
+http://stream.statsradio.com:8092/stream
+
+#EXTINF:-1 tvg-logo="http://www.ckrl.qc.ca/wp-content/themes/ckrl2016/img/CKRL_Horizontal.png" group-title="",CKRL 89.1 Québec
+http://stream02.ustream.ca:8000/ckrl128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uOgfHE.png" group-title="",CKUJ 97.3 Kuujjuaq
+https://streamingv2.shoutcast.com/ckuj-fm-kuujjuaq-973
+
+#EXTINF:-1 tvg-logo="http://www.ckut.ca/sites/ckut.ca/themes/ckutlook/img/header_logo.png" group-title="",CKUT 90.3 Montreal
+http://icecast.ckut.ca/903fm-128-stereo
+
+#EXTINF:-1 tvg-logo="https://statsradio.azureedge.net/radios-logos/CKVL-FM.png" group-title="",CKVL 100.1 LaSalle
+http://stream.statsradio.com:8072/stream
+
+#EXTINF:-1 tvg-logo="https://www.ckvmfm.com/images/LOGO.png" group-title="",CKVM 93.1 Ville-Marie
+http://199.115.117.77:8655/;
+
+#EXTINF:-1 tvg-logo="http://classradio.atmjonquiere.com/wp-content/uploads/sites/2/2020/01/ATM1035_Bleu17582.jpg" group-title="",Class 103.5 Jonquière
+http://endirect.cegepjonquiere.ca:8000/Class
+
+#EXTINF:-1 tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png" group-title="",CNV WebRadios 24/7 Montreal
+http://xlnetwork.info:8880/;audio.mp3
+#EXTINF:-1 tvg-logo="http://cnv.ca/CNV-LecteurAudio%20copy.png" group-title="",cam en direct
+http://198.50.218.239:1935/cnv/cnv/playlist.m3u8
+http://198.50.218.239:1935/cnv/cnv/chunklist_w1927425322.m3u8
+
+#EXTINF:-1 tvg-logo="http://cnv.ca/CNVSA-LecteurAudio%20copy.png" group-title="",CNV2 WebRadios 24/7 Montreal
+http://the.radioservers.biz:9908/;audio.mp3
+#EXTINF:-1 tvg-logo="http://cnv.ca/CNVSA-LecteurAudio%20copy.png" group-title="",cam en direct
+http://198.50.218.239:1935/cnv2/cnv2/playlist.m3u8
+http://198.50.218.239:1935/cnv2/cnv2/chunklist_w1224343989.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s155473g.png" group-title="",CHIL 365 WebRadios 24/7 Montreal
+http://xltrax.com:9998/;
+http://xlnetwork.info:9998/stream
+
+#EXTINF:-1 tvg-logo="http://cnv.ca/CFNV-LecteurAudio%20copy.png" group-title="",CFNV 940 WebRadios 24/7 Montreal
+http://the.radioservers.biz:9926/;audio.mp3
+
+#EXTINF:-1 tvg-logo="http://crka.ca/wp-content/uploads/2018/06/cropped-IMG_3335c-180x180.jpg" group-title="",CRKA 106.9 Schefferville
+http://173.208.177.90:9740/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://myradiostream.com/station/uploads/logo/98eb5cc0003723aa94bde84baf972ea231cb0ced.png" group-title="",Freedom Rock Radio Québec
+http://s36.myradiostream.com:9322/listen.mp3
+
+#EXTINF:-1 tvg-logo="https://cfmf.rocks/wp-content/uploads/2017/02/facebook_app_thumb.png" group-title="",CFMF 103.1 Fermont
+http://stream.statsradio.com:8068/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hZWrvPz.png" group-title="",CIBO 100.5 Senneterre
+http://66.185.51.241:8000/
+
+#EXTINF:-1 tvg-logo="http://www.chunfm.ca/WEFiles/Image/WEImage/Logo%20Sans%20fob-WEc8a702fd5d.png" group-title="",Chun 98.3 Rouyn-Noranda
+http://198.50.204.108:9954/;
+
+#EXTINF:-1 tvg-logo="http://www.ckau.com/data/60-ckau/images/manual/logo_sml.png" group-title="",CKAU 104.5 Mani-utenam
+http://173.236.19.90:8001/stream
+
+#EXTINF:-1 tvg-logo="https://www.cieufm.com/images/logo-cieu-fm.jpg" group-title="",CIEU 94.9 Carleton
+https://stream.statsradio.com:8074/stream
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cidi991.home.blog/wp-content/uploads/2019/06/cropped-Townships-Radio-bw.png" group-title="",CIDI 99.1 Lac Brome
+http://s2.radioservers.biz:9998/;stream
+
+#EXTINF:-1 tvg-logo="http://www.irock247.com/uploads/1/1/2/4/112474927/logo-font2_2_orig.jpg" group-title="",IRock 247.com Québec
+https://streamer.radio.co/s493283a7e/listen
+
+#EXTINF:-1 tvg-logo="http://reliastream.com/player/JamminVibezRadio/tmp/images/default.png" group-title="",Jammin Vibez Radio Montréal
+https://443-1.reliastream.com/37/stream
+
+#EXTINF:-1 tvg-logo="http://reliastream.com/player/JamminVibezRadio/tmp/images/default.png" group-title="",Jammin Vibez Reggae Classics
+https://443-1.autopo.st/52/stream
+
+#EXTINF:-1 tvg-logo="http://johanneverdonmedia.net/themes/johanneverdonmedia/images/JVM_logo.png" group-title="",Johanne Verdon Média Montreal
+http://edge.mixlr.com/channel/ccntw
+
+#EXTINF:-1 tvg-logo="https://www.centreboncourage.org/wp-content/uploads/elementor/thumbs/radio-ommtcd9dy124hv0lgvzclpspz5swyu1u75msz23qw8.png" group-title="",La Voix de St-Lo 90.7 Montréal
+https://www.radioking.com/api/track/cover/3c38efe9-334c-425d-8ac0-11d84d462ae1	
+https://listen.radioking.com/radio/11310/stream/22574
+
+#EXTINF:-1 tvg-logo="https://www.maradiocountry.net/index_htm_files/Ma%20Radio%20Country%202.jpg" group-title="",Ma Radio Country Magog
+https://radio.maradiocountry.net:8000/mrc
+
+#EXTINF:-1 tvg-logo="https://images.radio.co/station_logos/s513d4e3ca.20190515010959.png" group-title="",Madelinot Radio Web Les Îles-de-la-Madeleine
+https://streaming.radio.co/s513d4e3ca/listen
+
+#EXTINF:-1 tvg-logo="https://plaisirscountry.com/wp-content/uploads/2020/05/Logo-Tunein.jpg" group-title="",Plaisir Country Victoriaville
+https://stream.mesradiosweb.ca/radio/8010/radio.mp3
+
+#EXTINF:-1 tvg-logo="http://quebec-country.com/wp-content/uploads/2019/10/RQC2017-1-1024x683.jpg" group-title="",Quebec Country Radio Thetford Mines
+http://play.quebec-country.com/
+
+#EXTINF:-1 tvg-logo="http://www.radioquebec.biz/images/img_2.jpg" group-title="",Radio Bizzz Classic Rock Quebec
+http://217.114.200.100/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radioquebec.biz/images/img_2.jpg" group-title="",RADIO BIZZZ METAL Quebec
+http://91.121.162.224:9012/stream/;
+
+#EXTINF:-1 tvg-logo="http://www.radioquebec.biz/1950/images/photo0.jpg" group-title="",Radio Bizzz
+http://94.23.26.193:9046/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSYRetL.jpg" group-title="",Radio Country Courcelles
+http://play.radiocountry.ca:7008/
+
+#EXTINF:-1 tvg-logo="http://www.radiocountryml.com/crbst%5fguitarB.png" group-title="",Radio Country ML Québec
+http://151.80.44.127:8498/;
+
+#EXTINF:-1 tvg-logo="https://rt2000.ca/wp-content/uploads/2017/07/cropped-radioduvieuxsainterose.jpg" group-title="",Radio du Vieux Sainte-Rose Laval
+http://xltrax.com:8630/;audio.mp3
+
+#EXTINF:-1 tvg-logo="https://radiogespeg.ca/wp-content/uploads/2018/03/logo-radio-gespeg-web.png" group-title="",Radio Gespeg Gaspé
+http://centova.radioservers.biz:8057/stream;
+
+#EXTINF:-1 tvg-logo="http://www.liscioefolk.com/assets/img/logo.png" group-title="",Radio Liscio e Folk Montréal
+http://dj.mediastreaming.it:7012/;stream.mp3
+
+#EXTINF:-1 tvg-logo="http://italiangraffiati.com/player/img/logo.png" group-title="",Italian Graffiati Montréal
+http://s6.mediastreaming.it:8500/stream
+http://kos.broadstreamer.com:8500/;
+
+#EXTINF:-1 tvg-logo="http://www.radionaples.com/assets/img/logo.png" group-title="",Radio Naples Montréal
+http://dj.mediastreaming.it:7018/;
+
+#EXTINF:-1 tvg-logo="http://www.radioskipper.com/assets/img/logo.png" group-title="",radio skipper Montréal
+http://s6.mediastreaming.it:8700/stream
+http://kos.broadstreamer.com:8700/;
+
+#EXTINF:-1 tvg-logo="http://www.allclassicradio.com/assets/img/logo.png" group-title="",classic radio Montréal
+http://kos.broadstreamer.com:9200/;
+
+#EXTINF:-1 tvg-logo="https://yimago.torontocast.stream/og/og_rnf.png" group-title="",Radio Neige-Folle Montréal
+https://str2b.openstream.co/873
+
+#EXTINF:-1 tvg-logo="http://www.radiorebel.ca/assets/images/logo.png" group-title="",Radio Rebel Montreal
+https://radiorebel.ca/shoutcast
+
+#EXTINF:-1 tvg-logo="https://radioskymusic.com/img/bg.png" group-title="",Radio SkyMusic Montmagny
+http://151.80.38.142:7006/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HK5YZiM.png" group-title="",Rétro Souvenirs Saint-Gabriel-de-Brandon
+https://listen.radioking.com/radio/108/stream/62716
+
+#EXTINF:-1 tvg-logo="https://samrocks.com/wp-content/uploads/2012/11/logo-os-sam-rocks-radio.png" group-title="",Sam Rocks Radio Laval
+http://64.118.87.22:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pF6c0KM.jpg" group-title="",Francophonie Express
+http://listen.radioking.com/radio/11098/stream/63439
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EYuBxJX.png" group-title="",Kebeka Liberata
+http://usa3.fastcast4u.com:5040/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38oYBUW.jpg" group-title="",103.1 FM Maskinongé
+http://www.ch2ofm.ca:85/broadwave.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WhFMLi.jpg" group-title="",RADIO MUSIQUE FOLKLORIQUE QUÉBÉCOISE (RMFQ)
+https://listen.radioking.com/radio/304750/stream/351535
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y6snEZk.png" group-title="",DJRADIO.ca – 100% HITS !
+https://n09.radiojar.com/c3729adtaseuv?rj-ttl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/abWn22C.png" group-title="",XpressCountry
+http://s7.streammonster.com:8385/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nboXjk5.jpg" group-title="",RetroSouvenirs
+http://listen.radioking.com/radio/108/stream/890
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/toNKi6X.jpg" group-title="",Radio Vallacquoise au 106.5 fm - Val-des-lacs
+https://freeuk7.listen2myradio.com/live.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmeIujE.png" group-title="",Radio Mieux-être
+http://174.142.215.249:9960/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vw1d1r.jpg" group-title="",Teerex Radio Teerex - Montreal
+http://192.211.51.158:5173/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IrvinNL.png" group-title="",jbccs - Dolbeau-Mistassini 
+https://ais-sa1.streamon.fm/7175_24k.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtKcjeN.png" group-title="",1450 AM Montreal
+https://s7.voscast.com:10567/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbqXFzX.png" group-title="",104.5 FM Montreal
+https://s2.voscast.com:7387/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km1jqfS.jpg" group-title="",CHNC FM
+http://stream02.ustream.ca:8000/cjrg32.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/km1jqfS.jpg" group-title="",CHNC FM 106.7 Rivière-au-Renard
+https://stream2.statsradio.com:8098/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CadQ13z.jpg" group-title="",CKIE Info Radio 88.1 FM Victoriaville
+http://slmusic.info:9984/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTIHQqA.png" group-title="",Radio VM 89.9 FM Trois-Rivieres
+https://s5.radio.co/sec326ff8a/listen
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxRlOEr.png" group-title="",CHYZ Radio Campus Laval  94.3 FM
+http://ecoutez.chyz.ca:8000/mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSorW6L.jpg" group-title="",Kebeka Liberata - La radio de la Nouvelle-France libre WebRadios
+http://usa3.fastcast4u.com:5040/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srh7D1t.jpg" group-title="",Le Disque WebRadios
+http://95.154.196.33:39154/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmyXh5v.png" group-title="",Rcmv Radio WebRadios
+https://stream.hosting-quebec.ca/radio/8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjXUZEF.jpg" group-title="",Le Montreal Africain Radio
+https://listen.radioking.com/radio/333169/stream/381568
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ueWxDf.png" group-title="",Montréal Radio Cité
+https://listen.radioking.com/radio/9894/stream/446
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2ODfjO.jpg" group-title="",P'tit Quebec Radio
+https://listen.radioking.com/radio/381109/stream/432178
+
+#EXTINF:-1 tvg-logo="http://radioinfocite.com/images/entete.png" group-title="",Radioinfocite
+http://curiosity.shoutca.st:8752/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxYH48M.jpg" group-title="",CSUR LA RADIO Vaudreuil-Dorion
+https://s2.citrus3.com:8304/stream?type=.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stFPdY1.jpg" group-title="",Radio Country Acadienne
+http://151.80.44.127:8293/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="",DJMIX.CA
+https://azct1.cheapazuracast.xyz/radio/8060/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNP5wjo.jpg" group-title="",★★★★★★★★★★ChroniX★★★★★★★★★★
+0.0.0.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihnR33t.png" group-title="",ChroniX | Radio
+https://streamingv2.shoutcast.com/ChroniXRadio-?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3%20&%20ad=radiono5%20&%20appName=website
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcb0NWu.jpg" group-title="",ChroniX | AGGRESSION
+https://usa17.fastcast4u.com/proxy/gebacher?mp=/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLOq0AI.jpg" group-title="",ChroniX | GRIT
+https://usa5.fastcast4u.com/proxy/chronixg?mp=/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bktwMBj.jpg" group-title="",ChroniX | METALCORE
+https://usa17.fastcast4u.com/proxy/chronixr?mp=/1
