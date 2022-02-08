@@ -1,0 +1,429 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IDrtNB.png" group-title="",★★★★★★★★★★World Shop & Craft★★★★★★★★★★
+0.0.0.0
+
+# https://www.1-2-3.tv/tv-auktion/ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiDnZ9q.png" group-title="",123tv TV-Auktion - Germany (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://edge0199-99ictmedia.flex-cdn.net/aabbaa/llabr/DASH/123tv/manifest.mpd
+
+# https://www.aactv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NCipJ2.png" group-title="",America's Auction Channel (AACTV) - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMeyWH1vyb1TT6Vimp4MqLA/live
+
+# https://btq.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyu3M7w.jpg" group-title="", Boutique TV (BTQ;Бутік ТВ) - Ukraine (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmGXuyddt_xg6ckdbGNPAjg/live
+
+# https://www.bulldogshoppingnetwork.com/onair/WatchUsLive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8p8oQs.jpg" group-title="",Bulldog Shopping Network (BSN) (STK) - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSjkdk0uRM3v6Z_4U-hk41Q/live
+
+# https://www.channel21.de/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wOAxLMR.png" group-title="",CHANNEL21 - Germany (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCcst6yHdE5Gdisu5YKCgc1g/live
+
+# https://www.youtube.com/user/CreateandCraftonTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVieUOt.jpg" group-title="",Create & Craft TV - UK (STK) (UPD)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_DpR8R_16_c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVieUOt.jpg" group-title="",Create and Craft - USA (STK) (UPD)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=XjxJE9FZpa8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVieUOt.jpg" group-title="",Create and Craft - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCx3FieGDzz8ttH_hmkgrNGA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOnrSzJ.jpg" group-title="",Cruise1st TV - UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9r76Tzp5HxeQG7SqZwV3OA/live
+
+# https://www.youtube.com/channel/UCOUcfteyoxIAa4Zhp0Ht9Ug
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnRfETk.jpg" group-title="",DataLover 24/7 live stock alert GPU (STK) (UPD)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=qEB1GgOi7AQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnRfETk.jpg" group-title="",DataLover 24/7 live stock alert GPU (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/datalovertv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnRfETk.jpg" group-title="",DataLover CANADA In-Stock Alert (STK) (UPD)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=-r9KMjg8M8w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnRfETk.jpg" group-title="",DataLover 24/7 PS5 and XBOX X/S live stock alert (STK) (UPD)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=JaZjaJARu24
+
+# https://diecasttv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0BEchWQ.png" group-title="",DiecastTV  - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCA8VzW1o0W0TNvP7PoZCulg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0BEchWQ.png" group-title="",DiecastTV - USA (TWITCH) (C_N) 
+plugin://plugin.video.twitch/?mode=play&channel_name=diecasttvlive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0BEchWQ.png" group-title="",DiecastTV - USA (STK) (OPT-2)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/diecasttvlive
+
+# https://www.donnashopping.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCYeHTC.png" group-title="",Donna Shopping - Italy
+https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
+
+# https://www.etmall.com.tw/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzYbtHX.png" group-title="",ET  Mall CH34 - Taiwan
+https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzYbtHX.png" group-title="",ET  Mall CH 46 - Taiwan
+https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzYbtHX.png" group-title="",ET  Mall CH 47 - Taiwan
+https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzYbtHX.png" group-title="",ET  Mall CH 60 - Taiwan
+https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall2.smil/playlist.m3u8
+
+# http://www.expochannel.com.au/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="",Expo Channel - Australia
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XLJNwt5.jpg" group-title="",fixitfixitfixit  24/7 In-Stock GPU Alerts (STK)
+plugin://plugin.video.sendtokodi/?http://www.youtube.com/channel/UC_T9_1FWhPeaNtQeZbD3u0A/live
+
+# https://www.gemporia.com/en-gb/auction/gemporia/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yu2KX5N.png" group-title="",Gemporia (Gem TV) - UK
+https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yu2KX5N.png" group-title="",Gemporia (Gem TV) - UK (OPT-2)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yu2KX5N.png" group-title="",Gemporia (Gem TV) - UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxF5Elrt7G-cFVWD_S-wBEA/live
+
+# https://www.gemshopping.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fIuxw0H.png" group-title="",Gem Shopping Network - USA
+https://stream.robertsstream.com/streammobile.m3u8?stream=gem_mbr&referer=GemShopping&t=1616370825&h=6f8abe8736a923ea793a9e57a52068fa&forceformat=ios&h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fIuxw0H.png" group-title="",Gem Shopping Network - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBROhZBlBQTxRW_3h6H-rlg/live
+
+# http://www.goodideatv.tv/index.html#live-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKx8IXY.png" group-title="",Good Idea TV (GTV) - USA Thai
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+
+# https://www.gm24.it/it-IT-it/Static/direttatv.aspx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOXiKiT.gif" group-title="",GM24 - Italy
+https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
+
+# https://www.gstv.jp/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="",GSTV - Japan
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+
+# https://www.gongyoungshop.kr/tvshopping/selectTvShopping.do?log=EC_GNB_2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nue3Xr2.png" group-title="",Gongyoung Shopping - South Korea
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+# https://www.gsshop.com/shop/tv/tvShopMain.gs#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V23vChS.jpg" group-title="",GS SHOP - South Korea
+https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
+
+# https://www.gsshop.com/shop/gsmyshop/index.gs?lseq=409693#1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKmNoK0.png" group-title="",GS MY SHOP - South Korea
+https://livem.gsshop.com/gsmyshop_hd/_definst_/gsmyshop_hd.stream/playlist.m3u8
+
+# https://gsshop.vn/tv-shopping/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajxi6Ci.png" group-title="",GS SHOP - Vietnam
+https://5bf6ea205fe60.streamlock.net/dn/_definst_/htvmuasam.stream/playlist.m3u8
+
+# https://www.hnsmall.com/display/onAir.do
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opBSp7C.png" group-title="",Home & Shopping - South Korea
+https://livevod.hnsmall.com:2935/live/mp4:a.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0cuoaxl.png" group-title="",Horse Shopping Channel - USA
+https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" group-title="",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn.png" group-title="",HSN
+https://v-pi.mybtv.net/event/41.1/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" group-title="",HSN
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn2.png" group-title="",HSN2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/hsn2.png" group-title="",HSN 2
+https://v-pi.mybtv.net/event/41.2/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375
+
+# https://www.gongyoungshop.kr/tvshopping/selectTvShopping.do?log=EC_GNB_2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nyMKyMr.jpg" group-title="",Hyundai Hmall - South Korea 1
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nyMKyMr.jpg" group-title="",Hyundai Hmall - South Korea 2
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4lRame.png" group-title="",Ideal World - UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ/live
+
+# https://www.italiachannel.it/live-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssf1GfC.png" group-title="",Italia Channel LCN 123 - Italy
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+
+# https://www.jewellerymaker.com/en-gb/watch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p69IFMX.jpg" group-title="",Jewellery Maker - UK
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="",Jewelry Television - USA
+https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="",Jewelry Television - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCv7IxJXF5EMgzZ77DVSx4IQ/live
+
+# https://ювелирочка.рф/online/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNf0Ej5.png" group-title="",Juvelirochka TV (Ювелирочка ТВ) - Russia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsxo83jFFZNC9woLRVG7d4w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNf0Ej5.png" group-title="",Juvelirochka TV (Ювелирочка ТВ) - Russia
+https://live4-uvelirochka.cdnvideo.ru/uvelir10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4i2FXF.jpg" group-title="",Lejel Home Shopping - Indonesia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFnsnth.jpg" group-title="",Leomax 24 - Russia
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFnsnth.jpg" group-title="",Leomax 24 - Russia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBu0BKbDNL09ihRHK5wWzvQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWRmEY2.jpg" group-title="",Leomax+ - Russia
+https://tvshops.bonus-tv.ru/cdn/discount/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWRmEY2.jpg" group-title="",Leomax+ - Russia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCf9drl7pFjRIZoVd7WXDW4g/live
+
+# https://www.lotteimall.com/main/viewMain.lotte#disp_no=5185770
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xX7hFEC.jpg" group-title="",Lotteimall - South Korea
+https://mohlslive.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6dtCjP.png" group-title="",Luxury - Russia
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Drxu8Du.png" group-title="",Mediashop TV - Liechtenstein
+https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ItPZj1m.png" group-title="",Melodie Express TV - Austria (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6jLHRD6GpYr101tWdBqWMQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryobVFo.jpg" group-title="",MOMO Shopping Channel CH35 - Japan (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDhA7JbV2QQ-Ic9FrbeEEHA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryobVFo.jpg" group-title="",MOMO Shopping Channel CH48 - Japan (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4_WjgHnlKssNxWo0uFzEcw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5d8iCqu.jpg" group-title="",NS Home Shopping - South Korea
+http://livestream.nsmall.com:1935/IPHONE/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZZJjM4J.png" group-title="",PearlTV - France (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvpCjGQASCazC-Vxcp9tgPA/live
+
+# https://www.pearl.de/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbFWldL.jpg" group-title="",Pearl TV - Germany (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCp0urejlDaYz4G8xpTxdIvw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sh0toA1.png" group-title="",Persian Bazar - Iran
+https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC - Germany
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC 2 - Germany
+http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC Beauty - Germany
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png" group-title="",QVC PLUS - Germany
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC Style - Germany
+http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC - Italy
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC - Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC - UK
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC Beauty - UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC Style - UK
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/qvcLive/logo_small.png" group-title="",QVC Live - USA
+http://n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC - USA
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC 2 - USA
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="",QVC 3 - USA
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qtirIFA.png" group-title="",QVC Beauty - USA
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+
+# https://shopch.in.th/web/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w112xoF.jpg" group-title="",SHOP CH - Thailand (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKrzHQD9zTLLhBAR8w4zaxA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="",Shop Channel- Japan
+https://stream3.shopch.jp/HLS/master.m3u8
+
+# https://www.shophq.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVAQvvX.jpg" group-title="",Shop HQ - USA
+https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
+https://aos01-evine.secure.footprint.net/evine/dirtyfeed/master.m3u8
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVAQvvX.jpg" group-title="",Shop HQ Health - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyCljI7PbGR7zOIHJXQSK2w
+
+# https://www.shoplc.com/livetv?menu=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3v7tVUT.jpg" group-title="",Shop LC - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCP_T_GqYquLmsIpmDpJvULw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3v7tVUT.jpg" group-title="",Shop LC - USA (STK)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3v7tVUT.jpg" group-title="",Shop LC - USA
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="",Shop LC (KCKS-LD10) - USA (STK)
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUQASCU.png" group-title="",Shop TV - Philippines
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvjVEWI.jpg" group-title="",Shopping 4U - USA
+https://broadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
+
+# https://www.21.tv/home/lineup?a=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0IK0mB.jpg" group-title="",Shopping 21TV - Israel
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moIQl6b.png" group-title="",Shopping Live - Russia
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moIQl6b.png" group-title="",Shopping Live - Russia (OPT-2)
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist.m3u8
+
+# https://www.shoptime.com.br/ofertasdatv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDDy29p.jpg" group-title="",ShopTime - Brasil (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCuYi5AP3gya6C5mdWYS6CQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1He6y7.jpg" group-title="",SLA-TV - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVbQc8XY2Cx-TgMHRHluOoQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Lhk6l1.png" group-title="", SNG-TV - USA
+https://d2xcv44k8d8mlk.cloudfront.net/v1/channel/Website/index.m3u8
+
+# https://shopandshow.ru/onair/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwVA25v.jpg" group-title="",Телеканал Shop&Show - Russia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWGkK1d7eUmK8XmJ4Kyu4MQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NFCKC7X.jpg" group-title="",The Coin Vault - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGbjb7FYYmj0z3_9iJ7dMPQ/live
+
+# https://thecraftstore.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/En7RSKE.jpg" group-title="",The Craft Store Hochanda - UK
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+
+# https://www.youtube.com/channel/UCU9OrfaS2Dn7UeW7YCxmBNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ReNkEaV.png" group-title="",The Craft Store - UK (STK) (UPD)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_lV0UE3_wPo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ReNkEaV.png" group-title="",The Craft Store - USA (STK) (UPD)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=__5Hj4T0kWQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gu7OkMI.jpg" group-title="",The Jewellery Channel (TJC) - UK (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(TJCOTT)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gu7OkMI.jpg" group-title="",The Jewellery Channel (TJC) - UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8dXdHZshMmgDmvFVzjl55Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4yqcmdT.jpg" group-title="",The Jewellery Channel (TJC Beauty) - UK (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(HDTJCBeauty)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ER1jWL3.jpg" group-title="",The Shopping Channel (TSC) - Canada
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNgwmz3.jpg" group-title="",Tommy Teleshopping - Netherlands
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTZeTvf.png" group-title="",Top Shop TV - Russia
+https://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmDco6P.jpg" group-title="",TV Piauí Shop - Brazil
+https://596639ebdd89b.streamlock.net/8036/8036/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0kyRSM.png" group-title="",TV Warehouse - UK
+https://tvwarehouse.r.worldssl.net/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/.jpg" group-title="",TVS Consumer Direct - USA
+https://rpn1.bozztv.com/36bay2/gusa-ConsumerDirect/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/rare-collectibles-televison.jpg" group-title="",TVS Rare Collectibles Televison - USA
+https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.watchyour.tv/channels/logo/tvs-silo-discount-network.png" group-title="",TVS Silo Discount Network - USA
+https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8	
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yX2rXyO.png" group-title="",TVSN TV Shopping Network - New Zealand
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vKSLNO.jpg" group-title="",Vitrina TV - Russia
+https://v4.proofix.ru/vitrina-live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xliVoIt.jpg" group-title="Shop",耀才財經台 Yao Cai Finance Channel - China
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+##############
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IDrtNB.png" group-title="", - Laos -
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/TeaTvLaoHDF.jpg" group-title="",TEA TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/ningtvHDF.jpg" group-title="",NING TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/airtvchannelHDF.jpg" group-title="",AIR TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laothaiusHDF.jpg" group-title="",LAO THAI TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/vatilaotv2016HDF.jpg" group-title="",VATI LAO - Laos
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/houngfaHDF.jpg" group-title="",HOUNG FA - Laos
+https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/khomsanhtvHDF.jpg" group-title="",KHOMSANH TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/pntvVshowHDF.jpg" group-title="",PNTV - Laos
+https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/LoneSinhLaov2HDF.jpg" group-title="",LONE SINH LAO TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/laoplanetHDF.jpg" group-title="",LAOS PLANET TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/lstv1v3HDF.jpg" group-title="",LS TV 1 - Laos
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/LOOKTHOONGTVNEW2HDF.jpg" group-title="",LOOK THOONG TV HD - Laos
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/UniquelyThaiHDF.jpg" group-title="",UNIQUELY THAI - Laos
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.malimarcdn.com/vanphenhHDF.jpg" group-title="",VANPHENH TV - Laos
+https://livefta.malimarcdn.com/ftaedge00/vanphenhtv.sdp/playlist.m3u8
+
+
+#EXTINF:-1,####Not Working####
+
+# https://nordstromrsvp.com/nlive
+
+#EXTINF:-1 ,telfar https://www.telfar.tv/
+https://install.telfarcontrol.com/speed/broadcast/12/file-4692k.m3u8
+
+#EXTINF:-1 ,open shop https://openshop.com.au/watchnow
+https://medialive.openshop.com.au/asn-live_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6dtCjP.png" group-title="",Japanet Channel DX - Japan
+https://live.chdrstatic.com/cbn/primary/index.m3u8
+
+# https://www.juwelo.de/live-auktion/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCzlTR0.png" group-title="",Juwelo - Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8?latency=low
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCzlTR0.png" group-title="",Juwelo - Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/26410621649_2110_18324video_360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCzlTR0.png" group-title="",Juwelo - Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/26410621649_2110_18326video_480.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCzlTR0.png" group-title="",Juwelo - Germany
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/26410621649_2110_18330video_720.m3u8
+
+#EXTINF:-1,citirus
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yntuT5o.png" group-title="",Mango TV - Poland
+https://stream.mango.pl:4443/mango/_definst_/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/01/Network_PCSN-1.jpg" group-title="",Planet Cannabis Shopping Network ( BAD LINK )
+https://broadcast.mytvtogo.net/shopping4u/shopping4u/playlist.m3u8
+

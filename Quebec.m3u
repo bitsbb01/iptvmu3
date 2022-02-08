@@ -1,0 +1,504 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec[/COLOR]★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzoMZR.jpg",MAJ: 22/01/15
+plugin://plugin.video.youtube/play/?video_id=t7Ix1-hmJSo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laNoumZ.jpg",Hymne du Quebec - National Anthem of Quebec (YT)
+plugin://plugin.video.youtube/play/?video_id=46IDituRcRY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sFDP4p7.png" group-title="",The Montreal Clock (YT)
+plugin://plugin.video.youtube/play/?video_id=biCCb0EB3g4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec Clock (YT)
+plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
+
+#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/AMI-audio.png" group-title="",AMIAudio
+http://encodercdn1.frontline.ca/kamino/output/amiaudio_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/AMI-tv.png" group-title="",AMI Tele
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_AMI-F_AtopItci_2015_01_12_SD/hls_sd.m3u8
+
+# http://m.assnat.qc.ca/fr/index.html
+#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat (360p)
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e_1_681984/chunklist.m3u8
+#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances de l'Assemblée 
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/76fda441/playlist.m3u8
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/76fda441_1_1536000/chunklist.m3u8
+#http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist_w592829221.m3u8
+#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances des commissions 1 
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/71602009/playlist.m3u8
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/71602009_1_1536000/chunklist.m3u8
+#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Conférence de presse
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/658a5e8d/playlist.m3u8
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/658a5e8d_1_1536000/chunklist.m3u8
+#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances des commissions 2
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/2602fd20/playlist.m3u8
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/2602fd20_1_1536000/chunklist.m3u8
+#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat Séances des commissions 3
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/fec39324/playlist.m3u8
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/fec39324_1_1536000/chunklist.m3u8
+
+# https://www.youtube.com/user/bellahdjel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (720p) (YT)  (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCtj2xA6lW9BPE4BxnhxQQkw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/user/bellahdjel/live
+
+# https://savoir.tv/endirect
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="Educatif",Canal Savoir (360p)
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p)
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/cbc/get_live_url/?item_id=cbc&language=Montreal
+
+#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/CPAC.png" group-title="",CPAC FR
+http://encodercdn1.frontline.ca/yavin/output/CPAC_French_720p/playlist.m3u8
+
+# https://www.cpac.ca/fr/direct/
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac (1080p) (Kodi Changez Param Audio)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac (Audio FR)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-audio_track_1_1_fre=96000.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac (Audio ENG)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-audio_track_2_2_und=96000.m3u8
+
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac 2 (1080p) (Kodi Changez Param Audio) (Non 24/7)
+https://d7z3qjdsxbwoq.cloudfront.net/groupb/live/84f27807-0966-40b5-b118-0517cc126808/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac 2 (Audio FR)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/84f27807-0966-40b5-b118-0517cc126808/live.isml/live-audio_track_1_1_fre=96000.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac 2 (Audio ENG)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/84f27807-0966-40b5-b118-0517cc126808/live.isml/live-audio_track_2_2_und=96000.m3u8
+
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac 3 (1080p) (Kodi Changez Param Audio) (Non 24/7)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/9132c6aa-475e-4621-9322-7fd065dbdc37/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac 3 (Audio FR)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/9132c6aa-475e-4621-9322-7fd065dbdc37/live.isml/live-audio_track_1_1_fre=96000.m3u8
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac 3 (Audio ENG)
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/9132c6aa-475e-4621-9322-7fd065dbdc37/live.isml/live-audio_track_2_2_und=96000.m3u8
+
+# https://ctbtv.ca/ #
+#EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Communautaire",CTB-TV (1080p)
+https://fl001.elpcinc.com/CTB-TV/index.m3u8
+#EXTINF:-1 tvg-id="ctbtv.ca" tvg-name="CTBTV CA" tvg-logo="https://ctbtv.ca/wp-content/uploads/2018/04/ctb-tv-logo-2018-s.png" group-title=""Communautaire",CTB-TV (1080p)
+https://fl001.elpcinc.com/CTB-TV/tracks-v1a1/mono.m3u8
+
+# https://www.twitch.tv/djmixradio https://djmix.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="Radio",DJMIX.CA - Montreal (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=djmixradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uhs15jc.png" group-title="Radio",DJMIX.CA - Montreal (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/djmixradio
+
+# https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqBkf3j.jpg" group-title="Religion",Église de la Victoire (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCY3_KU8qXQeNnPQ_YHI00mw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqBkf3j.jpg" group-title="Religion",Église de la Victoire (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCY3_KU8qXQeNnPQ_YHI00mw/live
+
+# https://emcitv.com/direct/
+#EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (Adaptative)
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
+#EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (1080p)
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/04.m3u8
+#EXTINF:-1 tvg-id="emcitv.ca" tvg-name="EMCI TV CA" tvg-logo="https://i.imgur.com/qDD9kqe.png" group-title="Religion",EMCI TV MTL (720p)
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDTuhkS.png" group-title="Film",Encan Horreur Fanatik (tous les samedis soirs, 18h à minuit!) (480p)
+https://svbell-hls.secdn.net/svbell-live/play/mp4:HFanatik/playlist.m3u8
+
+# https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q https://www.funkypanda.net
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (720p) (YT) (c_id) (OFFLINE)
+plugin://plugin.video.youtube/play/?channel_id=UCUHhoftNnYfmFp1jvSavB-Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cl6AjzK.jpg" group-title="Radio",Funky Way FM MTL (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUHhoftNnYfmFp1jvSavB-Q/live
+
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Adaptative)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_2500.m3u8
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_256.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Audio)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_128.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Audio)
+https://rcavlive.akamaized.net/hls/live/704026/canrdi/master_dv.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Adaptative) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (720p) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_256.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Audio) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_128.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Audio) (OPT-2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_dv.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Audio) (OPT-3)
+https://rcavliveaudio.akamaized.net/hls/live/2006978/RDI_RDI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/ICI_RDI.png" group-title="",ICI RDI
+http://encodercdn1.frontline.ca/encoder184/output/ICI_RDI_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Est-Quebec (Rimouski) (720p)
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Est-Quebec (Rimouski) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Rimouski
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstrie.ca" tvg-name="ICI Radio Canada Estrie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Estrie (Sherbrooke) (720p)
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaMauricie.ca" tvg-name="ICI Radio Canada Mauricie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Mauricie (Trois-Rivières) (720p)
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaMontreal.ca" tvg-name="ICI Radio Canada Montreal CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Montreal (1080p)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaMontreal.ca" tvg-name="ICI Radio Canada Montreal CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Montreal (1080p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Montr%C3%A9al
+#EXTINF:-1 tvg-id="ICIRadioCanadaOttawa-Gatineau.ca" tvg-name="ICI Radio Canada Ottawa-Gatineau CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Ottawa-Gatineau (720p)
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaOttawa-Gatineau.ca" tvg-name="ICI Radio Canada Ottawa-Gatineau CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Ottawa-Gatineau (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Ottawa
+#EXTINF:-1 tvg-id="ICIRadioCanadaQuebec.ca" tvg-name="ICI Radio Canada Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Quebec (720p)
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaQuebec.ca" tvg-name="ICI Radio Canada Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Quebec (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Qu%C3%A9bec
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaguenay.ca" tvg-name="ICI Radio Canada Saguenay CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Saguenay (720p)
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-name="ICI Radio Canada Acadie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Acadie (Moncton) (720p)
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-name="ICI Radio Canada Acadie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Acadie (Moncton) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Moncton
+#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-name="ICI Radio Canada Ontario CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Ontario (Toronto) (720p)
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-name="ICI Radio Canada Ontario CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Ontario (Toronto) (720p) (OPT-2)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ICIHT_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-name="ICI Radio Canada Ontario CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Ontario (Toronto) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Toronto
+#EXTINF:-1 tvg-id="ICIRadioCanadaAlberta.ca" tvg-name="ICI Radio Canada Alberta CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Alberta (Edmonton) (720p)
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaAlberta.ca" tvg-name="ICI Radio Canada Alberta CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Alberta (Edmonton) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Edmonton
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaskatchewan.ca" tvg-name="ICI Radio Canada Saskatchewan CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Saskatchewan (Regina) (720p)
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaskatchewan.ca" tvg-name="ICI Radio Canada Saskatchewan CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Saskatchewan (Regina) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Regina
+#EXTINF:-1 tvg-id="ICIRadioCanadaCB-Yukon.ca" tvg-name="ICI Radio Canada CB-Yukon CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele CB-Yukon (Vancouver) (720p)
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaCB-Yukon.ca" tvg-name="ICI Radio Canada CB-Yukon CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele CB-Yukon (Vancouver) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Vancouver
+#EXTINF:-1 tvg-id="ICIRadioCanadaManitoba.ca" tvg-name="ICI Radio Canada Manitoba CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Manitoba (Winnipeg) (720p)
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaManitoba.ca" tvg-name="ICI Radio Canada Manitoba CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Manitoba (Winnipeg) (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Winnipeg
+
+# update link: https://icitelevision.ca/ #
+#EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-name="ICI Television Montreal CA" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="Généraliste",ICI TV (720p)
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-name="ICI Television Montreal CA" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="Généraliste",ICI TV (720p)
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/cfc631f111e72b5321a69ddf4bacb1f0/1.m3u8
+
+# https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ https://kracradio.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (676p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNNsE_Xj2ndAAnQETObPrVQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNNsE_Xj2ndAAnQETObPrVQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypvprWd.png" group-title="Radio",kracradio (1080p) (TWITCH)
+plugin://plugin.video.twitch/?channel_id=426528251&amp;mode=play
+
+#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="Actualités",LCN (720p)
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="Actualités",LCN (Audio)
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
+
+#EXTINF:-1 tvg-id="MeteoMedia.ca" tvg-name="Meteo-Media CA" tvg-logo="https://i.imgur.com/nRvOVp3.png" group-title="Météo",MétéoMédia (720p)
+http://encodercdn1.frontline.ca/encoder181/output/Meteo_Media_720p/playlist.m3u8
+
+# http://greektimes.ca/greektv/
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
+http://94.130.180.175:8081/live/greektv/chunks.m3u8
+
+# https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg
+#EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="Affaires publiques",MTLVille (YT) (c_id) (720p) (lorsque diffusion) 
+plugin://plugin.video.youtube/play/?channel_id=UCCm3eAbiTKAowAPMpSdd1Xg&live=1
+#EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="Affaires publiques",MTLVille (720p) (lorsque diffusion) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg/live
+
+# https://www.noovo.ca/en-direct
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",Noovo (720p) (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd&title=Noovo
+#EXTINF:-1 tvg-id="Noovo.ca" tvg-name="Noovo CA" tvg-logo="https://i.imgur.com/uAnHJPd.png" group-title="Généraliste",Noovo (Audio)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+
+# https://ocpm.qc.ca/fr/en-direct
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="Affaires Publiques",OCPM (lorsque diffusion)
+https://5976193b91256.streamlock.net/live/canal325.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7JMyFL.png" group-title="Affaires Publiques",OCPM (lorsque diffusion)
+https://5976193b91256.streamlock.net/live/canal325.smil/chunklist_w455240206_b2628000.m3u8
+
+# https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="Religion",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec (YT) (c_id) (non 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC5juy2fbHq4kKmpUq3IkHoQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I7iCMNO.jpg" group-title="Religion",Radio Amour - Spiri-Maria, Lac-Etchemin, Québec (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5juy2fbHq4kKmpUq3IkHoQ/live
+
+# https://seletlumieretv.org/endirect/?muid=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKk1dfH.jpg" group-title="Religion",SL Media (1080p)
+https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKk1dfH.jpg" group-title="Religion",SL Media (1080p)
+https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/chunks.m3u8
+
+#  http://tcmontrealnetwork.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV) (480p)
+https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsN8wuu.png" group-title="Culturelle",Télé Culturelle Médias (TCM-TV) (480p)
+https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
+
+# https://zonevideo.telequebec.tv/endirect/
+#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (Adaptative)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (720p)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (720p) (OPT-2)
+https://www.streamaway.net/fra/telequebec/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Telequebec.php
+#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (720p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telequebec/get_live_url/?item_id=telequebec
+
+# https://www.youtube.com/user/ctmq # https://tele-mag.tv/
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (1080p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telemag/get_live_url/?item_id=telemag
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNKXYT-Nng5LBMUQrZJ9zWA&live=1
+#EXTINF:-1 tvg-id="tele-mag.ca" tvg-name="Télé-Mag CA" tvg-logo="https://i.imgur.com/i5Isrob.png" group-title="thématique",Télé-Mag Québec (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
+
+#EXTINF:-1 tvg-id="TeletoonFrench.ca" tvg-name="TéléToon CA" tvg-logo="https://i.imgur.com/3k0O7fv.png" group-title="Anime",Teletoon (576p) (TT1)
+plugin://plugin.video.tvone1112/play/2099/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Meteo",The Weather Network (event Only)
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/TV5.png" group-title="",TV5
+http://encodercdn1.frontline.ca/vantrix/ltv/ColbaNet_TV5_AtopItci_2015_01_12_SD/hls_sd.m3u8
+
+# https://www.qub.ca/tvaplus/tva/en-direct
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/0.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg"  group-title="Généraliste",TVA Audio
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/05.m3u8
+EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative) (OPT-2)
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative) (OPT-2b)
+https://tvalive.akamaized.net/hls/live/2012413-b/tva01/master.m3u8
+
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (1080p) (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/tva/get_live_url/?item_id=tva
+
+#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/TVA.png" group-title="",TVA Montreal
+http://encodercdn1.frontline.ca/encoder184/output/TVA_Montreal_720p/playlist.m3u8
+
+# https://www.youtube.com/user/CablevisionTVC9 https://tvc9.cablevision.qc.ca/en-direct # https://mediat.ca/tvc7/ https://tvc7.gnak.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="Communautaire",TVC9 (720p) (YT)  (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="communautaire",TVC9 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
+
+# https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live # http://temis.tv
+#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="Communautaire",TV Témis (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
+#EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="Communautaire",TV Témis (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
+
+#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/UNIS.png" group-title="",UnisTV
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_UNISH_AtopItci_2015_01_12_HD/hls_hd.m3u8
+
+#EXTINF:-1 tvg-id="Yoopa.ca" tvg-name="Yoopa CA" tvg-logo="https://i.imgur.com/mZmU170.png" group-title="Anime",Yoopa (TT1)
+plugin://plugin.video.tvone1112/play/2109/play.pvr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage)
+https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-e010830aa276)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Twitch Quebec[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+# https://www.twitch.tv/fm93quebec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=fm93quebec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/fm93quebec
+
+# https://www.twitch.tv/dupontlematin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 Dupont Le Matin (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=fm93quebec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKXEMN3.jpg" group-title="Radio",FM93 Dupont Le Matin (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/dupontlematin
+
+# https://www.twitch.tv/tvctklive/ https://www.tvctk.com/en_direct.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=tvctklive
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejnKXAf.jpg" group-title="",tvctk (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvctklive
+
+# https://www.twitch.tv/quebecreveille
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDLW3sX.png" group-title="Radio",Québec, réveille! (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=quebecreveille
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDLW3sX.png" group-title="Radio",Québec, réveille! (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/quebecreveille
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btITSSe.png" group-title="",peeweeradiodj (TWITCH) (non 24/7)
+plugin://plugin.video.twitch/?channel_id=534817449&amp;mode=play
+
+# https://www.radiotalbot.tv/ https://www.twitch.tv/radiotalbot
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDHgHJR.png" group-title="Podcast",RadioTalbot (TWITCH) (Mardi @ Jeudi . 20h00)
+plugin://plugin.video.twitch/?channel_id=51796296&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPoVJHO.jpg" group-title="Humour",SousEcoute (TWITCH)
+plugin://plugin.video.twitch/?mode=play&channel_name=sousecoute
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPoVJHO.jpg" group-title="Humour",SousEcoute (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/sousecoute
+
+# https://www.twitch.tv/lestudioquebecois
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8gRBva.png" group-title="",LeStudioQuebecois (TWITCH) (C_N) (non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=lestudioquebecois
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8gRBva.png" group-title="",LeStudioQuebecois (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/lestudioquebecois
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAVR5LP.png" group-title="Radio",AfterPT Jonquière (TWITCH)
+plugin://plugin.video.twitch/?channel_id=506887516&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUB6On4.png" group-title="Radio",DJ SHOO Québec COORS ATTACK!!!! (TWITCH)
+plugin://plugin.video.twitch/?channel_id=477666625&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red](OFFLINE)[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+# https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire",CILE Havre-Saint-Pierre  (c_id) (YT)
+plugin://plugin.video.youtube/play/?channel_id=UC0njl-y39pJOwd3iufK7RJQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9MC2Uj.png" group-title="Communautaire",CILE Havre-Saint-Pierre (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0njl-y39pJOwd3iufK7RJQ/live
+
+# http://www.ctrb.tv/CTRB-en-direct.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJeNba.jpg" group-title="Communautaire",CTRB  (OFFLINE)
+http://unifi.fleetinfo.info:1935/CTRB/myStream/playlist.m3u8
+
+# https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=kdei8o0LcJg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec 2 (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=_6_7wGYj2E4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c4Sl5z.png" group-title="Quebec TV",Reseau sismique du Quebec (OPT-2) (TWITCH) (OFFLINE)
+plugin://plugin.video.twitch/?channel_id=585407599&amp;mode=play
+
+# https://www.youtube.com/channel/UCsf94EmF1S2dgL9_EtQ3gJg #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=avqJMULh-WQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmjb3d5.png" group-title="Quebec TV",Intermède QC (OPT-2) (TWITCH) (OFFLINE)
+plugin://plugin.video.twitch/?channel_id=258878983&amp;mode=play
+
+# https://www.youtube.com/channel/UCTXxddY-rEtBTn1hMaqEaHQ https://tq5tv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV5APKr.png" group-title="généraliste",TQ5 (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=ak1hE3SnR4o
+
+# https://www.youtube.com/channel/UCIohu6mJVsgCc5khOkuG1aw #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Radio",Kushtard Media (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=Z0t8KczeFJA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16JkH3H.png" group-title="Radio",Kushtard Media (TWITCH)
+plugin://plugin.video.twitch/?channel_id=431778635&amp;mode=play
+
+# https://www.youtube.com/channel/UC4GvJl8GrRbb8YCI72oLVag
+EXTINF:-1 tvg-logo="https://i.imgur.com/2WlUYMQ.jpg" group-title="",Stevia on en parle? (YT)
+plugin://plugin.video.youtube/play/?video_id=FxZnGW0XthA
+
+# https://www.youtube.com/channel/UChb298sZlCxkN0BbyPdWYTg
+EXTINF:-1 tvg-logo="https://i.imgur.com/62pxYnU.jpg" group-title="",La chaîne Actualité Politique du Québec @18hr00 (YT)
+plugin://plugin.video.youtube/play/?video_id=M211lI1n48A
+
+# https://www.youtube.com/channel/UCWsHa6jitKzbw2f-3cTL6Dw
+EXTINF:-1 tvg-logo="https://i.imgur.com/uAZ58xj.jpg" group-title="",Action Coordination (YT)
+plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
+
+# https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
+EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
+plugin://plugin.video.youtube/play/?video_id=CjAFHFYgDvc
+
+# https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
+EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)
+plugin://plugin.video.youtube/play/?video_id=mjbAK-Au4uI
+
+####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec Non Geo : Hors Quebec Seulement[/COLOR]★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Est-Quebec (Rimouski) (720p)
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaEstrie.ca" tvg-name="ICI Radio Canada Estrie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Estrie (Sherbrooke) (720p)
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaMauricie.ca" tvg-name="ICI Radio Canada Mauricie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Mauricie (Trois-Rivières) (720p)
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaMontreal.ca" tvg-name="ICI Radio Canada Montreal CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Montreal (1080p)
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaOttawa-Gatineau.ca" tvg-name="ICI Radio Canada Ottawa-Gatineau CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Ottawa-Gatineau (720p)
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaQuebec.ca" tvg-name="ICI Radio Canada Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Quebec (720p)
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaguenay.ca" tvg-name="ICI Radio Canada Saguenay CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Saguenay (720p)
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaAcadie.ca" tvg-name="ICI Radio Canada Acadie CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Acadie (Moncton) (720p)
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-name="ICI Radio Canada Ontario CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Ontario (Toronto) (720p)
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaAlberta.ca" tvg-name="ICI Radio Canada Alberta CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Alberta (Edmonton) (720p)
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaSaskatchewan.ca" tvg-name="ICI Radio Canada Saskatchewan CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Saskatchewan (Regina) (720p)
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaCB-Yukon.ca" tvg-name="ICI Radio Canada CB-Yukon CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele CB-Yukon (Vancouver) (720p)
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="ICIRadioCanadaManitoba.ca" tvg-name="ICI Radio Canada Manitoba CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Manitoba (Winnipeg) (720p)
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="Actualités",LCN (720p)
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (Adaptative)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative)
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8|X-Forwarded-For=24.37.42.200
+
+#####
+
+#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Debrouillage.PNG?raw=true",★★★★★[COLOR black]Debrouillage Terminer[/COLOR]★★★★★
+plugin://plugin.video.youtube/play/?video_id=MJLB4Qv38vM
+
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN master
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/master.m3u8
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 1080
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
+
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 720 (OFFLINE)
+https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_950_av-p.m3u8?sd=10&rebase=on
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 480 (OFFLINE)
+https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_750_av-p.m3u8?sd=10&rebase=on
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/lcn.png?raw=true" group-title="Quebec TV",LCN 240 (OFFLINE)
+https://chainelcn-lh.akamaihd.net/i/chainelcn_1@1000622/index_400_av-p.m3u8?sd=10&rebase=on
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/BWsxm4p.png" group-title="Quebec TV",MOI ET CIE (OFFLINE)
+https://chaine_tva_uls-lh.akamaihd.net/i/MOIETCIE_1@697478/master.m3u8
+
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Low (OFFLINE)
+https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/low_720p/low_720p.m3u8
+
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa 720p Med (OFFLINE)
+https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/med_720p/med_720p.m3u8
+
+EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Yoopa.png?raw=true" group-title="Canadian TV",Yoppa HD (OFFLINE)
+https://tvayoopa.akamaized.net/hls/live/2013885/tvayoopa01/high_1080p/high_1080p.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Quebec TV",Zeste (OFFLINE)
+https://chaine_tva_uls-lh.akamaihd.net/i/zeste01_1@853162/master.m3u8

@@ -1,0 +1,80 @@
+#EXTM3U
+
+# https://ipgo.xyz/app/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrdbYb.jpg" group-title="",★★★★★★★★★★IP-GO★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CGHGR5.png" group-title="",CHANNEL 1 - Promo
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQD2Iua.png" group-title="",RETRÔ CARTOON CHANNEL
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RpwlTKp.png" group-title="",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VMTLb5.png" group-title="",CLASSIQUE TV Cult Movies
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZu12CR.png" group-title="",CLASSIQUE TV Cinema Noir
+https://stmv1.srvif.com/classiquen/classiquen/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RwjE4c7.png" group-title="",CLASSIQUE WESTERN
+https://stmv1.srvif.com/classique2/classique2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SiPEPb4.png" group-title="",GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/inDyrJ6.png" group-title="",GOSPEL CARTOON TV
+https://stmv1.srvif.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LWZPsLf.jpg" group-title="",GOSPEL MUSIC SHOWS
+https://stmv1.srvif.com/gmusic2/gmusic2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LWZPsLf.jpg" group-title="",GOSPEL MUSIC TELEVISION
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMzPDry.jpg" group-title="",TV SÉRIES - As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMjNFP8.jpg" group-title="",TV SÉRIES 2 - Mulher Biônica
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtXXf8N.jpg" group-title="",TV SÉRIES 3 - STAR TREK
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jYtvOM0.jpg" group-title="",TV SÉRIES 4 - CHIPS
+https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcagVE4.jpg" group-title="",TV SÉRIES - HOGAN'S HEROES
+https://stmv1.srvstm.com/tvserie5/tvserie5/playlist.m3u8
+
+# https://www.youtube.com/channel/UCUmEPYxmnyQDeRUcFkslmQw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4wnUyc.jpg" group-title="",EURO NEWS EM PORTUGUÊS (YT)
+plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlrjGeO.jpg" group-title="",ANIME TV
+https://stmv1.srvstm.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXijwA4.jpg" group-title="",JETSONS TV
+https://stmv1.srvstm.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zrRveZo.png" group-title="",NATURE TV
+https://stmv1.srvstm.com/nattv/nattv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",## Other channel ##
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8e5Fti.png" group-title="",Vintage TV (Cotia-SP)
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xtEA1Hx.jpg" group-title="",PORTAL NEWS TV
+https://stmv1.srvstm.com/portalnews/portalnews/chunklist_w241261746.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzfqirm.jpg" group-title="",REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1Uj4Va.jpg" group-title="",TV Ouro Negro (Salvador-BA)
+https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+

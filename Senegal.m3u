@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gYn9QRc.jpg" group-title="",★★★★★★★★★★Senegal★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=K4G_0B6vZSE
+
+#EXTINF:-1 tvg-id="2STV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="",2STV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7vidbb&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-id="2STV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="",2STV (720p)
+https://iptv.dc-team.com/query?url=streaming-ip=https://www.dailymotion.com/video/x7vidbb
+#EXTINF:-1 tvg-id="2STV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/3mbeewx.png"  group-title="",2STV (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=d0Yalxc4A10
+#EXTINF:-1 tvg-id="2STV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/3mbeewx.png"  group-title="",2STV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeLEGbj240J6JhpP7ba8GwA&live=1
+#EXTINF:-1 tvg-id="2STV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="",2STV
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCeLEGbj240J6JhpP7ba8GwA/live
+
+#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Music",A2i Music (720p)
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iNaja.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="",A2i Naja (720p)
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iRadio.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/skIizXt.jpg" group-title="",A2i Radio (OFFLINE)
+https://stream.sen-gt.com/A2iRadio/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion (720p)
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iTV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="",A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Africa7.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/ncOuLg6.jpg" group-title="",Africa 7 (DM)
+plugin://plugin.video.dailymotion_com/?url=x7xq2d&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-id="Africa7.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/ncOuLg6.jpg" group-title="",Africa 7 (720p)
+https://iptv.dc-team.com/query?url=streaming-ip=https://www.dailymotion.com/video/x7xq2dw
+
+#EXTINF:-1 tvg-id="Africa24.sn" tvg-country="FR;SN" tvg-language="French" tvg-logo="https://i.imgur.com/jsdMuyy.png" group-title="",Africa24 (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=L5Ppr0JvPws
+#EXTINF:-1 tvg-id="Africa24.sn" tvg-country="FR;SN" tvg-language="French" tvg-logo="https://i.imgur.com/jsdMuyy.png" group-title="",Africa24 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmEcEP_oCZJ6Mr1uxhUFyRg&live=1
+#EXTINF:-1 tvg-id="Africa24.sn" tvg-country="FR;SN" tvg-language="French" tvg-logo="https://i.imgur.com/jsdMuyy.png" group-title="",Africa24
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCmEcEP_oCZJ6Mr1uxhUFyRg/live
+
+#EXTINF:-1 tvg-id=".sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/W3Cb9zO.png" group-title="",DTV Sénégal (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=nhqdOetY8uY
+#EXTINF:-1 tvg-id=".sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/W3Cb9zO.png" group-title="",DTV Sénégal (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCtLYFnVYZk8UVPDAwjy5TdA&live=1
+#EXTINF:-1 tvg-id=".sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/W3Cb9zO.png" group-title="",DTV Sénégal
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UCtLYFnVYZk8UVPDAwjy5TdA/live
+
+#EXTINF:-1 tvg-id="Rfm.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/TN9SHFj.png" group-title="",RFM (DM)
+plugin://plugin.video.dailymotion_com/?url=x7wi5y1&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-id="Rfm.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/TN9SHFj.png" group-title="",RFM (720p)
+https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x7wi5y1
+
+#EXTINF:-1 tvg-id="Senegal7.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/zEJrnzf.jpg" group-title="",Senegal7 (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=nt8Oj5oPXeo
+#EXTINF:-1 tvg-id="Senegal7.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/zEJrnzf.jpg" group-title="",Senegal7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5eVGjO4ITJA1KM_tva_OSQ&live=1/
+#EXTINF:-1 tvg-id="Senegal7.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/zEJrnzf.jpg" group-title="",Senegal7
+https://iptv.dc-team.com/query?url=https://www.youtube.com/channel/UC5eVGjO4ITJA1KM_tva_OSQ/live
+
+#EXTINF:-1 tvg-id="Tfm.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/tT3YSNF.png" group-title="",TFM (DM)
+plugin://plugin.video.dailymotion_com/?url=x7wcr45&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-id="Tfm.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/tT3YSNF.png" group-title="",TFM (720p)
+https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x7wcr45
+
+#EXTINF:-1 tvg-id="WalfTV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/gsAeNOd.png" group-title="",Walf TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x5s5vw3&amp;mode=playLiveVideo
+#EXTINF:-1 tvg-id="WalfTV.sn" tvg-country="SN" tvg-language="Wolof;French" tvg-logo="https://i.imgur.com/gsAeNOd.png" group-title="",Walf TV (720p)
+https://iptv.dc-team.com/query?url=https://www.dailymotion.com/video/x5s5vw3
+
+#EXTINF:-1,Tele Musik Senegal https://telemusik.live/  OFFLINE
+https://58e4d59f4ba2c.streamlock.net/rezopropartner_1/rezopropartner_1/chunklist.m3u8
+
+#EXTINF:-1,Manquant : RTS1 RTS2 (RTS3 RTS4 RSI A venir) SEN TV LABEL TV 7TV Sénégal = token stream
+0.0.0.0

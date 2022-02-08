@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpyUFfT.jpg" group-title="",★★★★★★★★★★Martinique★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=aZ-ptcdxYOg
+
+# http://www.aptv.fr/video.html
+#EXTINF:-1 tvg-id="APTV.mq" tvg-name="APTV" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/9q3DlpW.jpg" group-title="",Albert Palmier Télévision (APTV)
+http://51.91.247.187/hls/stream.m3u8
+
+# http://esperancetv.org/direct-tv/
+#EXTINF:-1 tvg-id="EspéranceTV.mq" tvg-name="Espérance TV" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/n15BG3r.png" group-title="",Espérance TV
+https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8
+
+# https://www.youtube.com/channel/UCgA9V57lQlZFXkDfhVGTWSg
+#EXTINF:-1 tvg-id="Martinique1ère.mq" tvg-name="Martinique 1ère" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/T21zCNs.jpg" group-title="",Martinique 1ère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCgA9V57lQlZFXkDfhVGTWSg&live=1
+#EXTINF:-1 tvg-id="Martinique1ère.mq" tvg-name="Martinique 1ère" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/T21zCNs.jpg" group-title="",Martinique 1ère (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgA9V57lQlZFXkDfhVGTWSg/live
+
+# http://tmacaraibes.com/
+#EXTINF:-1 tvg-id="TMA.mq" tvg-name="TMA CARAIBES" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/wkLTYqc.png" group-title="",TMA CARAIBES
+http://hls.tmacaraibes.com/live/index.m3u8
+
+# https://viaatv.tv/direct-tv/
+#EXTINF:-1 tvg-id="ViàATV.fr" tvg-name="ViàATV" tvg-country="MQ;FR" tvg-language="French" tvg-logo="https://i.imgur.com/jNuBQS1.png" group-title="",ViàATV
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
+
+####
+
+# http://www.madininatv.com/direct.html VOD Playlist
+EXTINF:-1 tvg-id="-" tvg-name="-" tvg-country="MQ" tvg-language="French" tvg-logo="-" group-title="",Madinina TV
+0.0.0.0
+# http://www.sucretv.fr/live.html VOD Playlist
+EXTINF:-1 tvg-id="-" tvg-name="-" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/iZvbCVu.png" group-title="",Sucre TV
+0.0.0.0

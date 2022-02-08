@@ -1,0 +1,360 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]WebCam Quebec[/COLOR]★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=AnhHhm7_ppU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",### Notez que les (YT) OFFLINE  ont le dernier stream dispo ### M.A.J 21/11/03
+0.0.0.0
+
+# https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg https://www.portquebec.ca/a-propos-du-port/webcam/vue-sur-le-fleuve
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZdjU2sWPeLjmh75zOxekUg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec  (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec 
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCZdjU2sWPeLjmh75zOxekUg/live
+
+# https://www.youtube.com/channel/UCgTZT2xEi6slMcLA69Nm3eA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec 2 (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCgTZT2xEi6slMcLA69Nm3eA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgTZT2xEi6slMcLA69Nm3eA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqvNbhS.png" group-title="Cam",Port de Quebec 2
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCgTZT2xEi6slMcLA69Nm3eA/live
+
+# https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hotel du Parlement du Québec (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBUbqDfsNeg03Kzafi0kBmg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hotel du Parlement du Québec (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Hotel du Parlement du Québec (1080p)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCBUbqDfsNeg03Kzafi0kBmg/live
+
+# https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Chateau Frontenac (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7PSbagDNdbl9QLC2Uu7jrQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Chateau Frontenac (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Chateau Frontenac (1080p)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC7PSbagDNdbl9QLC2Uu7jrQ/live
+
+# https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D Youville (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCE_gsQRBrM5JSGQiINk8kmw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D Youville (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Place D Youville (1080p)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCE_gsQRBrM5JSGQiINk8kmw/live
+
+# https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Videotron (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Videotron (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Centre Videotron (1080p)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCDLBcPh0MklNkVUSKObceJA/live
+
+# https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency  (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfLMqgrQxpCP06-26Mpgu8A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ntiGzYu.png" group-title="Cam",Parc de la Chute-Montmorency  (1080p)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCfLMqgrQxpCP06-26Mpgu8A/live
+
+# https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_Ch-3wys3clM24wr3zTSxQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RrNpqj.png" group-title="Cam",Promotion Saguenay (1080p)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_Ch-3wys3clM24wr3zTSxQ/live
+
+# https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g https://meteochicoutimi.com/cameras-en-direct/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Saint-Bruno ( Rte 170/ Rang 6) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCs8dZuZefPeyzG-Hn4V6v0g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Saint-Bruno ( Rte 170/ Rang 6) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Saint-Bruno ( Rte 170/ Rang 6)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCs8dZuZefPeyzG-Hn4V6v0g/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Le Valinouët (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCs8dZuZefPeyzG-Hn4V6v0g&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Le Valinouët (STK) (UDP)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=NDAseUxzxng
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmLSZhX.png" group-title="Cam",MeteoChicoutimi - Le Valinouët (UDP)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/watch?v=NDAseUxzxng
+
+# https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (720p) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCuzgHxvrQYJ0J8mT-I4B8ZA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",Sommet du mont Tremblant (1080p)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCuzgHxvrQYJ0J8mT-I4B8ZA/live
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",mont Tremblant Base Nord (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=KXAViX03qBI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",mont Tremblant Base Sud (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=f3cQ20CAhO0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",mont Tremblant Place Saint-Bernard (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=CRRmFqVm-LQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3bQ5Q.png" group-title="Cam",mont Tremblant Place des Voyageurs (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=FZL2b9Wn7yk
+
+# https://www.youtube.com/channel/UCo8iejNpzPUCa7bkoKMNW_Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu a (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=qqLwNpI8ok8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fHfJ0It.png" group-title="Cam",Saint-Jean-sur-Richelieu b (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=0mXfTYRMI6k
+
+# https://www.youtube.com/channel/UCTa_gibTHUjXqybtEpEH7GQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Centre Ville Est (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=LniRdNDkfZk
+
+# https://www.youtube.com/channel/UCOfTJ2Bx0NANF26D44We_Lg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal - Mont-Royal (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=LgsrygiCfjw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvygPNg.png" group-title="",Montreal Trudeau International Airport Webcam
+http://207.164.90.146:747/mjpg/video.mjpg
+
+# https://www.youtube.com/channel/UC4sV5M5L86DfidH0Aeq1YcQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRAked1.png" group-title="",Montreal Aeroport Trudeau (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=KM-DeIjVAow
+
+# https://www.youtube.com/channel/UCGqncD4C_A-Vqi7exzIsMCQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwqLUyy.png" group-title="Cam",Aéroport Saint-Mathieu de Beloeil CSB3 (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=z0_dk7SP_eE
+
+# https://www.youtube.com/channel/UCBF_Zr3t_6-vRsQrqe-BTDA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDBqyXC.jpg" group-title="",Cathédrale Marie-Reine-du-Monde Montréal (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=QUmzgRF0y8Y
+
+# https://www.youtube.com/user/diocesemtl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3PIT6d.jpg" group-title="", Église catholique à Montréal (YT) (UPD)
+plugin://plugin.video.youtube/play/?video_id=7ZnawiMpxE8
+
+# https://jacquescartierchamplain.ca/circulation-travaux/reseau-en-direct/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier vers Montreal (360p)
+https://wowzaprod124-i.akamaihd.net/hls/live/508629/d094e21b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier vers Rive-sud (360p)
+https://wowzaprod124-i.akamaihd.net/hls/live/508629/4e912ed0/playlist.m3u8
+
+# https://www.youtube.com/channel/UCNZhr7PC5ehkf7Rqom1GfYA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9NIvFt.png" group-title="Cam",Pont Jacques Cartier / La Ronde (YT) (UPD) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=qd6QmN5cQag
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rno3D34.png" group-title="",Campus nordique de l'Universite Laval (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=h3Q13Ra8Uxs
+
+# https://www.youtube.com/channel/UC7SNvPidqlswgbV1-W2Z8vw
+#EXTINF:-1 tvg-logo="" group-title="",Riviere Richelieu (YT) (v_id)  (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=vizETSu3Y2Q
+
+
+##################
+
+# https://www.youtube.com/channel/UCt9lhgKwKl4GHGpgQdGy1AA  NBSL Public Video Streaming
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM01 BROSSARD - Camera en direction de Montréal (YT)
+plugin://plugin.video.youtube/play/?video_id=zllUR8rdjD8
+
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM02 ILE-DES-SOEURS - Camera en direction de Montréal (YT)
+plugin://plugin.video.youtube/play/?video_id=iu8OWVLBek0
+
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM03 BROSSARD - Camera en direction de Brossard et de A-10 (YT)
+plugin://plugin.video.youtube/play/?video_id=OiiHLfe2JZ8
+
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM04 BROSSARD - Camera en direction de Brossard et de A-10 (YT)
+plugin://plugin.video.youtube/play/?video_id=zIPKVojgh4E
+
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM 05 PONT ÎLE-DES-SOEURS - Caméra en direction du Pont Samuel-De Champlain (YT)
+plugin://plugin.video.youtube/play/?video_id=83CV9u4l1jk
+
+#EXTINF:-1 tvg-logo="https://www.pontsamueldechamplain.ca/wp-content/themes/champlain/images/logos/logo_fr.png" group-title="Cam",CAM06 BLVD. GAÉTAN-LABERGE - Caméra en direction du Pont de l'Île-des-soeurs (YT)
+plugin://plugin.video.youtube/play/?video_id=pZC4Kl2jMYs
+
+# https://www.vision-environnement.com/livecams/webcam.php?webcam=grande-riviere https://rtsp.me/embed/3yB3SNsr/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwhH0gm.png" group-title="Cam",Grande Riviere (1080p) (UPD)
+https://mia.rtsp.me/YTFxYwIQA35pBI9aDYbnjg/1630131579/hls/3yB3SNsr.m3u8
+
+# https://www.vision-environnement.com/livecams/webcam.php?webcam=islet-sur-mer https://rtsp.me/embed/7H9hbRNZ/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6d28hf.jpg" group-title="Cam",L Islet-sur-Mer (1080p) (UPD)
+https://mia.rtsp.me/l2GdOvqLK7xMOUMOPv4UzA/1630131709/hls/7H9hbRNZ.m3u8
+
+# https://www.youtube.com/channel/UCBTEDJknS_R16IVvcX7kkrQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmtKCw8.jpg" group-title="",Club de curling de Grand-Mère (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCBTEDJknS_R16IVvcX7kkrQ&live=9
+
+# https://www.youtube.com/channel/UCAb9PHxdXpeQnC65KmnF_fw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Basilique en direct (YT)
+plugin://plugin.video.youtube/play/?video_id=QGppPIIP5Yg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct (YT)
+plugin://plugin.video.youtube/play/?video_id=iCxCTAhk97w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EahACyV.png" group-title="Cam",Petit Sanctuaire en direct 2 (YT)
+plugin://plugin.video.youtube/play/?video_id=mEFyZaHKap0
+
+# https://www.youtube.com/channel/UCCwETdRBGMzrHa1yXs8NETw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXKcDp.png" group-title="",Paroisse Ste-Hélène de Pointe-à-la-Croix (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=qmkQpDvBsJ0
+
+# update link: https://www.shmp.qc.ca/
+#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-1
+http://24.122.251.104:8082/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
+#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-2
+http://24.122.251.104:8083/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
+#EXTINF:-1 tvg-logo="http://www.shmp.qc.ca/img/logowebshmplong.png" group-title="Cam",Pointe-au-Pere Cam-3
+http://24.122.251.104:8084/cgi-bin/encoder?USER=webguest&PWD=46214&CHANNEL=1&GET_STREAM
+
+# update link: https://webcamendirect.net/webcam/5052-capauxmeules-iles-de-la-madeleine.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJhANxd.png" group-title="Cam",port de Cap-aux-Meules
+http://205.237.248.39/axis-cgi/mjpg/video.cgi?resolution=635x476&dummy=1597946072826
+
+# update link: https://golfatlantide.com/parcours-en-direct/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-1
+http://24.37.234.6:8080/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-2
+http://24.37.234.6:8081/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-3
+http://24.37.234.6:8082/mjpg/video.mjpg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qfr0yvS.png" group-title="Cam",Club Golf Atlantide-4
+http://24.37.234.6:8083/mjpg/video.mjpg
+
+# update link: https://www.youtube.com/channel/UCMZT-xluBrA0ja-ezETqjcg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcqOJMs.png" group-title="Cam",Cap-Colombier,Québec (YT) (c_id) (OFFLINE)
+plugin://plugin.video.youtube/play/?channel_id=UCMZT-xluBrA0ja-ezETqjcg&live=1
+
+# https://www.youtube.com/channel/UCUTzWTksDV44Es911pRCKpQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Levis (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=ZPmKYWbct6U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bU13ZUm.png" group-title="Cam",rue Augustin-Carrier,Levis 2 (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=PAGz5XdwZV8
+
+# 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kQmO7T.jpg" group-title="",Club de Voile,Drummondville
+http://207.164.82.197:8001/mjpg/video.mjpg
+
+# https://www.youtube.com/channel/UCY58ggqQB70vAG_ZEce4U8g http://marinadeneuville.org/nouveau/index.php/webcams
+#EXTINF:-1 tvg-logo="http://marinadeneuville.org/nouveau/images/CNV1/LOGO%20CNV_petit_n.png" group-title="Cam",Marina de Neuville (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCY58ggqQB70vAG_ZEce4U8g&live=1
+#EXTINF:-1 tvg-logo="http://marinadeneuville.org/nouveau/images/CNV1/LOGO%20CNV_petit_n.png" group-title="Cam",Marina de Neuville (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCY58ggqQB70vAG_ZEce4U8g
+#EXTINF:-1 tvg-logo="http://marinadeneuville.org/nouveau/images/CNV1/LOGO%20CNV_petit_n.png" group-title="Cam",Marina de Neuville
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCY58ggqQB70vAG_ZEce4U8g
+
+# https://montcastor.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BGndFto.png" group-title="Cam",Mont-Castor,Matane
+http://montcastor.axiscam.net:9000/mjpg/video.mjpg
+
+# https://www.youtube.com/channel/UCjBAKoKan7DGOHCjIdt99_w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EyyVyU.jpg" group-title="cam",Zoo de Granby (YT) (UPD)  (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=7YfRIkHTThQ
+
+# https://www.youtube.com/channel/UCpV6Dn5hiout62phgZk9oEw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCpV6Dn5hiout62phgZk9oEw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmRYFaC.png" group-title="Cam",Faucons de l'UdeM 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCpV6Dn5hiout62phgZk9oEw&live=2
+
+# https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cKQq5p6.png" group-title="Cam",Les Abeilles de Longueuil (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCP75K5I7jvpakDxSYthM8TQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cKQq5p6.png" group-title="Cam",Les Abeilles de Longueuil (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cKQq5p6.png" group-title="Cam",Les Abeilles de Longueuil
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCP75K5I7jvpakDxSYthM8TQ/live
+
+# https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCURjrBQ-UcxspbA7bEPxIMA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LkqoYa2.jpg" group-title="",Bird Watching Montreal Live Stream
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCURjrBQ-UcxspbA7bEPxIMA/live
+
+# https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWVJdQnJhHT60DF9yfKESjA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pf96NB.jpg" group-title="",Bird Feeders From Montreal
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCWVJdQnJhHT60DF9yfKESjA/live
+
+# https://www.youtube.com/channel/UCQ9A7p6ZCy6dFEwQ_nEYllg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAD9tzy.jpg" group-title="",Montreal/Verdun Quiet Street and Bird Feeder Cam (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=nYTGzJvbrgk
+
+#EXTINF:-1 tvg-logo="" group-title="cam",Nichoir pour mésanges à tête noire (YT)  (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=VCnFUaC7oYw
+
+# https://www.youtube.com/channel/UCUioB5e7rgqjAOjJUtwme1Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/usG2vgO.jpg" group-title="",Fermette Douce Sérénité (Drummondville) (YT) (OFFLINE)
+plugin://plugin.video.youtube/play/?video_id=g10G5jOx3mk
+
+# https://roulezelectrique.com/webcam/ #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aon4gD9.png" group-title="Cam",Roulez Electrique 1 (Trois-Rivieres)
+https://stream-ue1-delta.dropcam.com/nexus_aac/3be32e8fae8549af94cb0b529620e20f/playlist.m3u8?public=R3STi1PWyD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aon4gD9.png" group-title="Cam",Roulez Electrique 2 (Trois-Rivieres)
+https://stream-us1-charlie.dropcam.com/nexus_aac/d7cafad4b123472f98368b92242a9ccc/playlist.m3u8?public=Oz02RhBwP6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xtoB8O9.jpg" group-title="",cam Levis
+http://74.58.127.206:83/GetData.cgi?CH=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xtoB8O9.jpg" group-title="",cam Levis
+http://74.58.127.206:83/GetData.cgi?CH=2
+
+#EXTINF:-1 tvg-logo="" group-title="",MTL ?
+http://69.70.89.58:8001/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H3wssHJ.jpg" group-title="",Sainte-Anne-Des-Lacs
+http://209.54.75.46/mjpg/video.mjpg
+
+# http://marina.ifix.email/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXiqeme.png" group-title="Cam",Lac-Brome Marina Knowlton - Queue Cam
+http://148.59.220.54:8082/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXiqeme.png" group-title="Cam",Lac-Brome Marina Knowlton - Lake Cam 
+http://148.59.220.54:8081/hls/live.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXiqeme.png" group-title="Cam",Lac-Brome Marina Knowlton - Ramp Cam 
+http://148.59.220.54:8080/hls/live.stream.m3u8
+
+# https://parcmarin.qc.ca/webcam/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZ0UH5D.png" group-title="",Parc Marin DU SAGUENAY–SAINT-LAURENT
+http://70.28.40.47:8080/axis-cgi/mjpg/video.cgi
+
+# https://www.skigarceau.com/-webcam-ski-st-donat-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm Sommet (TK) (OFFLINE)
+https://s59.ipcamlive.com/streams/3bzd69wfysuyusq5j/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm b1 (TK) (OFFLINE)
+https://s28.ipcamlive.com/streams/1ca0fmnrhjdfevct7/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm b2 (TK) (OFFLINE)
+https://s47.ipcamlive.com/streams/2f46vxblpwjidsggt/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkfJ1va.jpg" group-title="",Ski Garceau - Saint-Donat-de-Montcalm PE (TK) (OFFLINE)
+https://s54.ipcamlive.com/streams/36mra1ygz2gnqvzkj/stream.m3u8
+
+# https://www.ville.senneterre.qc.ca/TOURISME/CAMERAS_PUBLIQUES
+# https://www.ipcamlive.com/5d78fe151bfad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbGq7gK.png" group-title="",Senneterre coucher de soleil (TK)
+https://s49.ipcamlive.com/streams/31mm1iabepjrtwq6u/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbGq7gK.png" group-title="",Senneterre coucher de soleil (Pour VLC)
+rtsp://206.167.65.192:5541/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+https://s49.ipcamlive.com/streams/31uxq7lmdhpkjujmi/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbGq7gK.png" group-title="",Senneterre la fresque  (Pour VLC)
+rtsp://206.167.65.192:5542/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+
+# https://mont-comi.ca/ https://www.ipcamlive.com/5a348b49b950e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNJ2VW8.png" group-title="",Parc du Mont-Comi (TK)
+https://s13.ipcamlive.com/streams/0dxf8w3zvmv2e9mbg/stream.m3u8

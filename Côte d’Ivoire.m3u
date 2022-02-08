@@ -1,0 +1,119 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDdvIUp.png" group-title="",★★★★★★★★★★Côte d’Ivoire★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=O4JnxkVmROE
+
+# https://a12television.com/index.php
+#EXTINF:-1 tvg-id="A12Television.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/9jS9LUw.jpg" group-title="",A12 Television
+https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfroCultureTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/B5ZmFUV.png" group-title="",Afroculture TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7t09ft&mode=playLiveVideo
+#EXTINF:-1 tvg-id="AfroCultureTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/B5ZmFUV.png" group-title="",Afroculture TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7t09ft
+
+# http://alpha-et-omega.com/topic/index.html
+#EXTINF:-1 tvg-id="AlphaETOmega.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/IynEwZX.jpg" group-title="",ALPHAETOMEGA TV
+https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
+
+# http://www.benie.tv/index.php/livestream
+#EXTINF:-1 tvg-id="Benitv.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/q3HkCqA.png" group-title="",Benie TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_tv.m3u8
+
+# https://www.business24tv.com/regarder-business-24-en-direct/
+#EXTINF:-1 tvg-id="Business24tv.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/LuljPoF.jpg" group-title="",Business 24 Africa (TK) (UPD)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video_token/hdntl-_-ZXhwPTE2Mzk0NzQ1ODl+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmYnVzaW5lc3MyNF90diUyZmhsc192aWRlb190b2tlbiUyZip+aG1hYz0xMGM4MzJhOTYxYTBjOGI5MTFhNGY4YmY2MzAwOTJlNzk0ZGFlNDdhZmE4OGNjZGZmMjE0NjMzM2M3ZmNjMTg1/index.m3u8
+
+#EXTINF:-1 tvg-id="ChristLive.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/lxpi2I0.png" group-title="",Christ Live (DM)
+plugin://plugin.video.dailymotion_com/?url=x7liq2i&mode=playLiveVideo
+#EXTINF:-1 tvg-id="ChristLive.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/lxpi2I0.png" group-title="",Christ Live (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7liq2i
+
+#EXTINF:-1 tvg-id="ChristLive2.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/lxpi2I0.png" group-title="",Christ Live 2 (DM)
+plugin://plugin.video.dailymotion_com/?url=x7mfhwo&mode=playLiveVideo
+#EXTINF:-1 tvg-id="ChristLive2.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/lxpi2I0.png" group-title="",Christ Live 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7mfhwo
+
+#EXTINF:-1 tvg-id="CIE-MIA.ci" tvg-country="CI" tvg-language="French"  tvg-logo="https://i.imgur.com/zQqJctY.jpg" group-title="",CIE-MIA COTE D'IVOIRE (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqk0k4EKJuUkuUUJasa0d-Q&live=1
+# https://www.youtube.com/channel/UCqk0k4EKJuUkuUUJasa0d-Q
+#EXTINF:-1 tvg-id="CIE-MIA.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/zQqJctY.jpg" group-title="",CIE-MIA COTE D'IVOIRE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqk0k4EKJuUkuUUJasa0d-Q/live
+
+#EXTINF:-1 tvg-id="DivinAmourTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/GbcZrek.jpg" group-title="",Divin Amour TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x79lpxh&mode=playLiveVideo
+#EXTINF:-1 tvg-id="DivinAmourTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/GbcZrek.jpg" group-title="",Divin Amour TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x79lpxh
+
+#EXTINF:-1 tvg-id="Ecclesia.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/KjTtIta.png" group-title="",ECCLESIA TV
+https://video1.getstreamhosting.com:1936/8252/8252/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EMTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/LZIreOU.jpg" group-title="",EMTV
+https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""zivoireChannel.ci tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/ikVXLgc.png" group-title="",Ivoire Channel
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+
+# https://www.lintelligent.tv/Web
+#EXTINF:-1 tvg-id="lintelligentTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/SHlzplx.jpg" group-title="",L’Intelligent TV
+https://video1.getstreamhosting.com:1936/8210/8210/playlist.m3u8
+
+# https://www.lumieredumonde.tv/
+#EXTINF:-1 tvg-id="LMTVFR.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/a79KLfj.png" group-title="",LMTV FR (DM)
+plugin://plugin.video.dailymotion_com/?url=x7x3gqy&mode=playLiveVideo
+#EXTINF:-1 tvg-id="LMTVFR.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/a79KLfj.png" group-title="",LMTV FR (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7x3gqy
+#EXTINF:-1 tvg-id="LMTVENG.ci" tvg-country="CI" tvg-language="English" tvg-logo="https://i.imgur.com/a79KLfj.png" group-title="",LMTV ENG (DM)
+plugin://plugin.video.dailymotion_com/?url=x7x1q78&mode=playLiveVideo
+#EXTINF:-1 tvg-id="LMTVENG.ci" tvg-country="CI" tvg-language="English" tvg-logo="https://i.imgur.com/a79KLfj.png" group-title="",LMTV ENG (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7x1q78
+
+#EXTINF:-1 tvg-id="MondialWebTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/0O4CR4A.jpg" group-title="",Mondial Web Tv
+https://video1.getstreamhosting.com:1936/8312/8312/playlist.m3u8
+
+# https://www.player.easybroadcast.fr/events/23_nci_ahq1x4w
+#EXTINF:-1 tvg-id="nci.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/8pYDZIq.png" group-title="",NCI (1080p)
+https://nci.cdn.easybroadcast.fr/NCI_HEVC/index.m3u8
+https://nci.cdn.easybroadcast.fr/NCI_HEVC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nci.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/8pYDZIq.png" group-title="",NCI (OPT-2)
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
+
+# https://www.gamako.net/novelachannel/
+#EXTINF:-1 tvg-id="NovellaChannel.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/NX7UBog.jpg" group-title="",NOVELA CHANNEL
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+
+# https://www.ntv.ci/
+#EXTINF:-1 tvg-id="ntv.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/TEmtKV0.png" group-title="",NTV (1080p)
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+https://strfla72.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+
+# https://www.rti.ci/
+#EXTINF:-1 tvg-id="rti1.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title="",RTI 1
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rti2.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title="",RTI 2 (OFFLINE)
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rti3.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/logo.png" group-title="",RTI 3 (OFFLINE)
+https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRCI.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_radioci_gris.png" group-title="",Radio RCI (OFFLINE)
+https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Frequence2.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://www.rti.ci/radio/frequence2/images/logo_frequence2.png" group-title="",Frequence2 (OFFLINE)
+https://www.enovativecdn.com:4433/rticdn/smil:rtif2.smil/playlist.m3u8
+
+# https://surnatureltv.com/
+#EXTINF:-1 tvg-id="SurnaturelTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/wCs0j42.jpg" group-title="",Surnaturel TV
+https://video1.getstreamhosting.com:1936/8858/8858/playlist.m3u8
+#EXTINF:-1 tvg-id="SurnaturelTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/wCs0j42.jpg" group-title="",Surnaturel TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7t0ln7&mode=playLiveVideo
+#EXTINF:-1 tvg-id="SurnaturelTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/wCs0j42.jpg" group-title="",Surnaturel TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7t0ln7
+
+# http://tchamantv.atwebpages.com/Live.html https://www.tchamantv.ci/
+#EXTINF:-1 tvg-id="Tchamantv.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/E7TOm10.png" group-title="",TCHAMAN TV
+http://207.180.246.101:1935/live/smil:myStream.smil/playlist.m3u8
+http://207.180.246.101:1935/live/smil:myStream.smil/chunklist_w274234037_b978000_sleng.m3u8
+
+
+# https://www.aplusivoire.ci/live GEO
+# https://www.7info.ci/
+# https://www.facebook.com/tvalbayane/
+# IvoireTv music https://www.youtube.com/channel/UCRIdBk9om8sDozNEVJeCbTg

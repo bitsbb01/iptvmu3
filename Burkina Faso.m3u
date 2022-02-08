@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikOidP1.png" group-title="",★★★★★★★★★★Burkina Faso★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=DzzPfNLJ4hY
+
+# https://www.twitch.tv/3tvbf https://3tv.bf/index.php/le-direct
+#EXTINF:-1 tvg-id="3tv.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/lWPDNx3.png" group-title="",3TV  (TWITCH) (C_N) (Non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=3tvbf
+#EXTINF:-1 tvg-id="3tv.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/lWPDNx3.png" group-title="",3TV  (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/3tvbf
+
+# https://bf1.tv/
+#EXTINF:-1 tvg-id="BF1TV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/37fYxhp.png" group-title="",BF1 TV
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index_3.m3u8
+
+# https://fasotv.net/
+#EXTINF:-1 tvg-id="FasoTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/sKLN7zA.png" group-title="",Faso TV
+https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/sCGRccj.png" group-title="Religious",Impact TV
+https://edge7.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8
+
+# https://www.youtube.com/channel/UCgU0s7hLJZ5TzzF_IT1Q2uw https://www.omegamedias.info/tv/
+#EXTINF:-1 tvg-id="OmegaTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/vlLukSP.jpg" group-title="",OMEGA TV (YT) (c_id) (non 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCgU0s7hLJZ5TzzF_IT1Q2uw&live=1
+#EXTINF:-1 tvg-id="OmegaTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/vlLukSP.jpg" group-title="",OMEGA TV (STK) (non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgU0s7hLJZ5TzzF_IT1Q2uw/live
+
+#EXTINF:-1 tvg-id="RTB.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/qfuejyS.png" group-title="",RTB
+https://edge17.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
+
+# https://savanemedias.net/tv-direct/
+#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/i8jNODC.png" group-title="",Savane TV
+https://streaming.savanemedias.com:5443/LiveApp/streams/705889905014877706871735.m3u8
+
+# https://www.twitch.tv/elbetheltv https://www.mbiie.net/el-bethel-tv/
+#EXTINF:-1 tvg-id="ElbethelTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/8F38bpa.jpg" group-title="",TV el-Bethel (TWITCH) (C_N) (Non 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=elbetheltv
+#EXTINF:-1 tvg-id="ElbethelTV.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/8F38bpa.jpg" group-title="",TV el-Bethel (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/elbetheltv
+
+
+# https://www.youtube.com/channel/UCpf_uZB_T3RQT6gKhKMegOw
+# Burkina Info
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzAa5AL.png" group-title="",Smtv (DM) (offline)
+plugin://plugin.video.dailymotion_com/?url=x7mfhwo&amp;mode=playLiveVideo

@@ -1,0 +1,131 @@
+#EXTM3U
+
+
+# http://www.trt.net.tr https://www.trtizle.com/yayin-akisi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RwPMQLD.png" group-title="",★★★★★★★★★★TRT TV★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VemFQXo.png" group-title="",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TmC4wC1.jpg" group-title="",TRT 2 (GEO)
+https://tv-trt2.live.trt.com.tr/master.m3u8
+https://tv-trt2.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6JTcaUW.png" group-title="",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PxNrWTg.jpg" group-title="",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f71zCCr.png" group-title="",TRT Spor 1 (GEO)
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9YtFik.jpg" group-title="",TRT Spor 2 (GEO)
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sa97jvP.png" group-title="",TRT Avaz
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
+https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6dzfznT.png" group-title="",TRT Çocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mizYSTL.jpg" group-title="",TRT Belgesel
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyrDqI0.jpg" group-title="",TRT MÜZİK
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aK03QSq.jpg" group-title="",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl2JoKs.jpg" group-title="",TRT TÜRK
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21VJrii.jpg" group-title="",TRT Kurdî-Zindî TV
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZsKZGR.png" group-title="",TRT EBA İlkokul
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
+https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9foLtVY.png" group-title="",TRT EBA Ortaokul
+https://tv-e-okul01.live.trt.com.tr/master.m3u8
+https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Itzzv1K.jpg" group-title="",TRT EBA Lise
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
+https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
+
+#####
+
+# http://radyo.trt.net.tr/AnaSayfa.aspx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vW9NQCh.png" group-title="",TRT Radyo
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFFx7S1.png" group-title="",TRT Radyo 1
+https://radio-trtradyo1.live.trt.com.tr/master.m3u8
+https://radio-trtradyo1.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WEoeTbP.png" group-title="",TRT FM
+https://radio-trtfm.live.trt.com.tr/master.m3u8
+https://radio-trtfm.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tOSeLU.png" group-title="",TRT Radyo 3
+https://radio-trtradyo3.live.trt.com.tr/master.m3u8
+https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpYLdl7.png" group-title="",TRT Nagme
+https://radio-trtnagme.live.trt.com.tr/master.m3u8	
+https://radio-trtnagme.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOjCtjC.png" group-title="",TRT Turku
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+https://radio-trtturku.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6JFOgj.png" group-title="",TRT Radyo Haber
+https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+https://radio-trtradyohaber.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gurMhDS.png" group-title="",TRT Radyo Trabzon
+https://radio-trttrabzon.live.trt.com.tr/master.m3u8	
+https://radio-trttrabzon.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8V4dAM.png" group-title="",TRT Gap
+https://radio-trtgap.live.trt.com.tr/master.m3u8
+https://radio-trtgap.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBchN5t.png" group-title="",TRT Antalya
+https://radio-trtantalya.live.trt.com.tr/master.m3u8
+https://radio-trtantalya.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ol9BndI.png" group-title="",TRT Erzurum
+https://radio-trterzurum.live.trt.com.tr/master.m3u8
+https://radio-trterzurum.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sjbhVc8.png" group-title="",TRT Cukurova
+https://radio-trtcukurova.live.trt.com.tr/master.m3u8	
+https://radio-trtcukurova.live.trt.com.tr/master_128.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

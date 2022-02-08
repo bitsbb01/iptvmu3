@@ -1,0 +1,592 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fi9SBqu.jpg" group-title="",★★★★★★★★★★World News - English★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qVYHHG6.png" group-title="",ABC News - Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7HFtoo.jpg" group-title="",ABC News - USA
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MgcXJ53.jpg" group-title="",AfricaNews - Congo
+https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lp6PoH6.jpg" group-title="",Al Jazeera - Qatar
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="",Americas Voice - USA
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaHiYu1.jpg" group-title="",Americas Voice - USA (OPT-2)
+https://p1media-americasvoice-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIhtAyG.png" group-title="",ANews - Turkey (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-LRBEUet4xX2fRB3JitFxg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVxbtzO.jpg" group-title="",Arirang TV - South Korea (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ/live
+
+#EXTINF:-1 tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-arise-tv-hsslive-25f-16x9-thumb-large.jpg.png" group-title="",Arise News
+https://api.visionip.tv/live/ASHTTP/visiontvuk-news-arise-tv-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jG8fBNJ.png" group-title="",Astro Awani - Malaysia  Malaysian:English
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lwj7v6G.png" group-title="",Australia Channel - Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC World News - UK
+http://ott-cdn.ucom.am/s24/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+
+# https://www.livenewsmag.com/bbc-world-news-live-stream/
+EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="",BBC News - UK
+https://bbc.newscdn.org/vcwGGW1UplYsEbWdyolrLg==,1634613178/LS-ATL-54548-6/index.m3u8
+
+# https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="",BBC World Service (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqWo1w0.png" group-title="",BeritaSatu - Indonesia
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2jHj1t.jpg" group-title="",Black News Channel - USA
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210512T004108.png" group-title="",BNC GO
+https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGbZKbJ.png" group-title="",CBC News - Canada
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRYQSbC.jpg" group-title="",CBN News - USA
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRYQSbC.jpg" group-title="",CBN News - USA (OPT-2)
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="",CBS News - USA
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCzf1jp.png" group-title="",CBS News - USA (OPT-2)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="",CBS News - USA (OPT-3)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="",CBSN - USA
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="",CBSN - USA (OPT-2)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="",CBSN - USA (OPT-3)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="Local",CBSN Live Event - USA
+https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20J8y4b.png" group-title="",CGTN - China
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHpiKZw.jpg" group-title="",Channels Television - Nigeria (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXzK8nt.png" group-title="",Cheddar News - USA
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XIz0iN.jpg" group-title="",CNA - Malaysia
+https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap-southeast-1/6057994443001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VtYdCLt.jpg" group-title="",CNBC Africa - South Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zd1JQwZ.jpg" group-title="",CNBC Europe
+https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmYZb6f.jpg" group-title="",CNBC TV18 - India
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNNB06W.jpg" group-title="",CNC - China
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="",CNET
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=228&deviceId=56283c8769ba54637dea0464&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="",CNN - USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="",CNN - USA (OPT-2)
+https://1176700211.rsc.cdn77.org/DfsebhIT41cm0CCHBjMliw==,1634600078/1176700211/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUzqKAg.png" group-title="",CNN International - USA
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN International - Europe 
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN International - Germany 
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN International - UK 
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ixsSXBy.png" group-title="",CNN Philippines - Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w36527446.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQI8SnK.png" group-title="",CVM TV - Jamaica
+https://api.new.livestream.com/accounts/28804553/events/8882602/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BECWTyh.jpg" group-title="",CVR News - India (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCo1SikMuMQ1jDQBwO9N0ocA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZyR2y5.jpg" group-title="",DD - India (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NAvh8Xf.jpg" group-title="",Deutsche Welle - Germany
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2lPX4P.jpg" group-title="",DZRH News Television (DZRH TV) - Philippines  Filipino:English (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCcTiBX8js_djhSSlmJRI99A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQGZsge.jpg" group-title="",EAC News - Cambodia
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaAUvDSYpreMi8QnMHiGhuQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1L2yCtt.jpg" group-title="",EuroNews - France
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+# https://home.frankspeech.com/live-stream/lindell-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eq0ufqD.png" group-title="",Frank Speech - Lindell TV - USA
+https://cdn3.wowza.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eq0ufqD.png" group-title="",Frank Speech - Lindell TV - USA
+https://live-dl.frankspeech.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/live/playlist.m3u8
+# https://home.frankspeech.com/live-stream/overcomerstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXszxei.png" group-title="",Frank Speech - Overcomers.TV - USA
+https://frnksocial.mmdlive.lldns.net/frnksocial/a5e6157524ce49e3a0653d5841619ac3/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ixp9SLn.png" group-title="",Free Speech TV - USA
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="",Fox News - USA
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yRs6AC.jpg" group-title="",Fox News Now - USA
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="",France 24 - France
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZEKNdL.jpg" group-title="",GB News - UK
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1gI2GM.jpg" group-title="",Global News National - Canada
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43KzVyU.jpg" group-title="",Goa365 - India
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ja4ofUz.jpg" group-title="",India Today - India
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars - USA
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars The Alex Jones Show - USA
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="",InfoWars War Room - USA
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
+# https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOMgZvF.png" group-title="",JoyNews - Ghana (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7w7197
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NS6EMEA.png" group-title="",KTN News - Kenya (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lr74LAf.jpg" group-title="",Mirror Now - India
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1" group-title="",MSNBC - USA
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF4Bqg0.jpg" group-title="",NBC News Now - USA
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/244416207.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF4Bqg0.jpg" group-title="",NBC News Now - USA (OPT-2)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="",NBC News Now - USA (OPT-3)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="",NBC News Now - USA (OPT-4)
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4i15HFL.png" group-title="",NDTV - India
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+# https://newscentral.africa/watch-live/ https://www.youtube.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="",News Central TV - Africa
+https://helga.iptv2022.com/news_central/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="",News Central TV - Africa (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPLKy4Ypb4mfblbjJI8Aljw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="",News Central TV - Africa (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxSjxFL.jpg" group-title="",Newsmax - USA
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxSjxFL.jpg" group-title="",Newsmax - USA (OPT-2)
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fc40om4.jpg" group-title="",NewsNet - USA
+https://newsnetnational.akamaized.net/hls/live/2031673/newsnetnational_OUT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHKiw4d.png" group-title="",NewsX - India
+https://itvoign.multitvsolution.com/hls/newsx.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uZ0Qhp.png" group-title="",Newsy - USA
+https://newsy.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="",Newsy - USA (OPT-2)
+https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+# https://www.twitch.tv/newsweather
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPhxqHy.png" group-title="",NewsWeather - 24/7 International (TWITCH)
+plugin://plugin.video.twitch/?channel_id=549245702&amp;mode=play
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="",NHK World - Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4TjsDG.png" group-title="",Northeast Live - India
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/15/CAAJ1700005IA_20210525T053233.png" group-title="",NowThis - USA
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-nowthis/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=%7BUS_PRIVACY%7D&coppa=0&app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2VbU3w.jpg" group-title="",One America News - USA
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m8LloCA.jpg" group-title="",Pluto TV News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L357mjp.gif" group-title="",Press TV - Iran
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJ4ZNII.jpg"group-title="",PTV - Pakistan
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vBtSPx.png" group-title="",PTV (People's Television) - Philippines  Filipino:English (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJCUbMaY593_4SN1QPG7NFQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gof8oQV.jpg" group-title="",Republic TV - India (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WR8h4Uo.jpg" group-title="",Reuters - UK
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBJUP4O.png" group-title="",RSBN - USA
+https://live-fd164e1.rmbl.ws/slot-18/ngrp:73cv-qia5_all/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2F7cTw.jpg" group-title="",RT America - Russia
+https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eF6FLVV.jpg" group-title="",RT News - Russia
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLYHIz1.jpg" group-title="",RT UK - Russia
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lrdjaNo.jpg" group-title="",SANSAD TV - India (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCISgnSNwqQ2i8lhCun3KtQg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcwod7F.jpg" group-title="",Silverbird TV - Nigeria (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x81uq2d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BetCsWZ.png" group-title="",Sky News - Australia
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master1920x1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ytdZUkC.png" group-title="",Sky News - UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMGonRp.png" group-title="",Sky News - UK
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMGonRp.png" group-title="",Sky News - UK (OPT-2)
+https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.smashmalta.com/Icons/1080news.png" group-title="",Smash 7 News - Malta
+http://a3.smashmalta.com:82/live/smash/smash/29.ts
+
+# https://www.twitch.tv/startvtanzania
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z3uIMQ.png" group-title="",StarTv Tanzania (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=startvtanzania
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z3uIMQ.png" group-title="",StarTv Tanzania (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/startvtanzania
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGOpnyW.png" group-title="",Stirr News 24/7
+https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCT1iE4.png" group-title="",Talk Radio TV 
+https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="",TeleSUR - Venusuela
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SLsjRww.jpg" group-title="",The First - USA
+https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SLsjRww.jpg" group-title="",The First - USA (OPT-2)
+https://thefirst-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2TutBr.jpg" group-title="",The Recount - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmsrXvrQ1S_61vVO-fNL-Mg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="",The Wall Street Journal Live
+https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="",The Wall Street Journal Live
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+# http://www.wsj.com/public/page/live-video-event.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="",The Wall Street Journal Live
+https://d3qk889yj9a2d2.cloudfront.net/out/v1/3d9b79bc1a934ac9bcd088e3554e91bb/index.m3u8
+
+# https://tickernews.co/where-to-watch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/netrt12.jpg" group-title="",Ticker NEWS - Australia
+https://helga.iptv2022.com/Ticker_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/netrt12.jpg" group-title="",Ticker NEWS - Australia (OPT-2)
+https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.visionip.tv/portals/VisionTVUK/news/thumbs/visiontvuk-news-times-now2-hsslive-25f-4x3-thumb-large.jpg.png" group-title="",TIMES NOW
+https://news.sechls01.visionip.tv/live/visiontvuk-news-times-now2-hsslive-25f-4x3-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYzsMaO.png" group-title="",TRT World - Turkey
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hM3ahZP.jpg" group-title="",TVC News - Nigeria (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rI7I8w.jpg" group-title=""Twit TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/twit
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rI7I8w.jpg" group-title=""Twit TV (STK) (OPT-2)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwY9B5_8QDGP8niZhBtTh8w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rI7I8w.jpg" group-title="",Twit (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=twit
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="",TYT Network - USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/13797035/content/1625690096623_tv_ch_256X256_UK_News.png" group-title="",U.K. News - UK
+https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-UKNews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BA0asHd.png" group-title="",USA Today - USA
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png" group-title="",USA TODAY - USA (OPT-2)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60df3e18541143002f3b8607
+
+# https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="",United Nations (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5O114-PQNYkurlTg6hekZw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="",United Nations (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
+
+#EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/13797033/content/1625681252387_tv_ch_256X256_World_News.png" group-title="",Video Elephant World News
+https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-VidElephantWorldNews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OCYQsxN.png" group-title="",WION News - India
+https://dqkpvuuvaruk2.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2019-09/7ce28da0-de21-11e9-8ef3-b3d0b3dcfb8b" group-title="",Yahoo! News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8We8lU.jpg" group-title="",★★★★★★★★★★Business News - Stock Market - Crypto★★★★★★★★★★
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_daTfgc4u3k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="",30A Investment Pitch
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="",ausbiz TV - Australia
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="",Bloomberg Asia Event
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90vvgua.jpg" group-title="",Bloomberg Australia
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="",Bloomberg Europe Event
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noNHhnL.png" group-title="",Bloomberg Politics
+https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1yvuKi.jpg" group-title="",Bloomberg QuickTake Explained (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCU1Pp4a-TwbrB40ja-4JG_Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NH91EXs.jpg" group-title="",Bloomberg QuickTake Global Financial News
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnRKh7h.jpg" group-title="",Bloomberg QuickTake Now (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1ddbaY.png" group-title="",Bloomberg TV+
+https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1ddbaY.png" group-title="",Bloomberg TV+ (OPT-2)
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEDkIBr.png" group-title="",Bloomberg US
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEDkIBr.png" group-title="",Bloomberg US Event
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgxvEex.jpg" group-title="",Business Rockstars
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbYGN3Q.jpg" group-title="",CoinGecko Directory (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cLrUK6mgSGWkW4G5_XvHQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OH1AmU9.jpg" group-title="",Crypto Miki : Ethereum (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_i68tipo4IpVBsS_x6eDMQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pp0mZtK.png" group-title="",Decentric Media
+https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rl4nROp.png" group-title="",DeFinance
+https://decentric-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f7656f4095fd738e74dbc53_defiance-live/b67fe0d4-a8eb-45c9-b750-c58119ae477e/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KbDOQsS.png" group-title="",ET Now - India
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LrGBkOh.png" group-title="",Fat Pig Signals Trading Live : Bitcoin Live Algorithm and Cryptocurrency (STK)
+plugin://plugin.video.sendtokodi/https://www.youtube.com/channel/UCqSyTmrtDHEkOJca6h92hoA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live
+https://tx.flv.nimo.tv/live/su2449511729040r40cfc3650e424dbfdd6264bad6a79200.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (TWITCH)
+plugin://plugin.video.twitch/?channel_id=192354183&amp;mode=play
+# https://www.youtube.com/channel/UCqSyTmrtDHEkOJca6h92hoA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (YT)
+plugin://plugin.video.youtube/play/?video_id=7jH535uXB74
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Live Trading DOW (US30) & S&P (US500) Signals (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC53vvfdlTgtACVRbusR1u7Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : EURUSD & GBPUSD M5 Scalping System Live Forex Signals 24/7 (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=cOsxqcp1lSk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Gold Live Signals - XAUUSD TIME FRAME 5 Minute M5 (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=63ujCFWrC8k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Live Bitcoin - Ethereum 24/7 Signals - 5 Minute Candles (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=fijq8NOvb7M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Gold XAUUSD Intraday Live Signals - XAU/USD M1 H1 Forex Scalping Signals (UDP) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=bifTKjKwMWE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="",Forex Signals : Gold Market - XAUUSD - DXY (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUzLC52WcYBRNiw7yvtai8Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="",Forex Signals : XAUUSD TIMEFRAMES M5-M15-H1 TREND & POWER INDICATORS (STK) (UDP)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=3TRNoUxnY_4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="",Forex Signals : GOLD SPOT MARKET FORECAST CRONOS SIGNALS (STK) (UDP)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=emP2_42yODA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ptMFe1V.jpg" group-title="",Global Market Coverage (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCphlOCvEn2FbNjTMutlHEGg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tu8IS7F.jpg" group-title="",Himurafx Official (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7O2MfJaDVPUXA7Saej2nBg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jgEKj6t.jpg" group-title="",Kalkine TV : Business News - Australia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCqqvuhldqUbRrvfek50N9w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8XNVkrJ.png" group-title="",NDTV Profit - India
+https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="",Real Vision - USA
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itAmJ1w.jpg" group-title="",Secure Trading Institute (STI) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9voNLQa-0dTZFRgK8O3fMw/live
+
+#EXTINF:-1 tvg-logo="https://d.stockcharts.com/img/scc-logo-light.png" group-title="",StockCharts TV
+https://iptv-all.lanesh4d0w.codes/united-states/stockchartstv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwMBiKJ.png" group-title="",TastyTrade - USA
+https://bcovlive-a.akamaihd.net/r85c9d6fdf4a549089fcbd16f45b4cf3a/us-west-2/6057994532001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="",TD Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="",TD Ameritrade (STK) (OPT-2)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqoSrYgusd8ZddtMoWhjHYA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oq3Le9Q.jpg" group-title="",TFNN LIVE - Stocks and Options Trading News and Education (STK)
+plugin://plugin.video.sendtokodi/https://www.youtube.com/channel/UCq7gWVoeUqWZhPjiel9bAdg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfuklsn.png" group-title="",Yahoo! Finance
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZJ1hp4.png" group-title="",Yahoo! Finance (OPT-2)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4k3Iiq.jpg" group-title="",★★★★★★★★★★Earth Monitoring★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="" group-title="",CarlSim : YELLOWSTONE ---- LIVE SEISMIC MONITORING (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3BwNN_1uT00Nd7pGKoyDA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bezteDr.jpg" group-title="",Chill Weather - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVnIpb1nmVE-urVRoDE90sQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jwgM2eX.jpg" group-title="",Earthquake monitoring Worldmap (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCi3T_esus8Sr9I-3W5teVQQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpCuZZa.png" group-title="",Force Thirteen : Au - Australia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXWD4Mhv_GeINfjymzjaCsg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X32xBYc.jpg" group-title="",Force Thirteen : Earthquakes (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXWD4Mhv_GeINfjymzjaCsg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ojLdgOg.png" group-title="",Fox Wheather - USA
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45RcXcp.jpg" group-title="",Kiwi Quakes International Spectros (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCH6R4iekU7HkCMTGIfURK7w/live
+
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="",Pattrn - USA
+https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9uTw2tH.jpg" group-title="",WatchWx - USA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHqm6pHW77RGi6nlMvK0yMQ/live
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="",The Weather Channel - USA
+https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="",The Weather Channel (Alternative) - USA
+https://cdn88.theus6tv.tk/united-states/cable/the-weather-channel-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X23p0GB.png" group-title="",Weather Nation - USA
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="",WeatherNation (OPT-2)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="",WeatherNation (KCKS-LD6) - USA
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOOkSCE.png" group-title="Weather",The Weather Network Event - Canada
+https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="",Weather News - Japan
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="",WeatherSpy - USA
+https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="",WeatherSpy - USA (OPT-2)
+https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
+
+# https://www.youtube.com/channel/UCf92Atj0eNFKOBBdZfiIwsQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1wy0wx.jpg" group-title="",Solar Monitoring (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCf92Atj0eNFKOBBdZfiIwsQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1wy0wx.jpg" group-title="",Solar Monitoring (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCf92Atj0eNFKOBBdZfiIwsQ/live
+
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/U1lxFpZ.jpg" group-title="",STIRR - NASA TV
+https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 1
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 2
+http://hls.ums.ustream.tv/playlist/directhls/channel/10414700/playlist.m3u8?sgn=57455aba98cbb70ca5cd6606142f1ec0b10aef6b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 3
+http://hls.ums.ustream.tv/playlist/directhls/channel/17074538/playlist.m3u8?sgn=23d01ff63b69b7f4c64f8b170e0cbf8b196af2da
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 1
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 2
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 3
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1lxFpZ.jpg" group-title="",NASA TV 4
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
