@@ -1,0 +1,455 @@
+#EXTM3U
+
+# https://explore.org/livecams
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGBMnZg.jpg" group-title="",★★★★★★★★★★[COLOR green]EXPLORE.org[/COLOR]★★★★★★★★★★
+0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon Guillemot Burrow Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=gUE9QzQp2pE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon Puffin Burrow (YT)
+plugin://plugin.video.youtube/play/?video_id=Gzl4WsHDvDQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon Puffin Loafing Ledge (YT)
+plugin://plugin.video.youtube/play/?video_id=MBS1AESUk9U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Raven Nest Cam - Churchill, Wapusk National Park (YT)
+plugin://plugin.video.youtube/play/?video_id=A4Z4ZPyEWuY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sage Grouse Lek Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=v-Wm3-wa53M
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Osprey Nest Branch (YT)
+plugin://plugin.video.youtube/play/?video_id=K1yWDj24Dqs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Deep Sleep Relaxing Music & Aquarium Jellyfish Live (YT)
+plugin://plugin.video.youtube/play/?video_id=azpH0v2MdKw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",GRACE Gorilla Livestream (YT)
+plugin://plugin.video.youtube/play/?video_id=672cUSe69J0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Spirit Bluff Falcons (YT)
+plugin://plugin.video.youtube/play/?video_id=_eggY8kTTLI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Chesapeake Conservancy Great Blue Herons (YT)
+plugin://plugin.video.youtube/play/?video_id=2t3WRyZlYjU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Tundra Connections Live Q&A Session (YT)
+plugin://plugin.video.youtube/play/?video_id=jiG2g-TJfuY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sheep Pasture at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=Ru1E_hSKPLU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Cattle Pasture Panorama at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=fs9sppPWXXo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Wisconsin Pasture Cam at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=HqffCwgE9u0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Anacapa Island Cove - Channel Islands National Park Cams (YT)
+plugin://plugin.video.youtube/play/?video_id=jF_2BWaGdHg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Anacapa Ocean - Channel Islands National Park Cams (YT)
+plugin://plugin.video.youtube/play/?video_id=ueik_Uu4xbo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Danes Outdoor Kennels - Service Dog Project (YT)
+plugin://plugin.video.youtube/play/?video_id=rfR1JFJv3BU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Cape East Camera - Churchill Cam, Wapusk National Park (YT)
+plugin://plugin.video.youtube/play/?video_id=4t1xGfgDPi8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Feeding Station - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=FjT1wbez0Do
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Windsong Memorial Cat Hospital - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=_-ybzKvHz84
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Vacation Rotation - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=QVsbXomMEx8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",spcaLA Cat Room (YT)
+plugin://plugin.video.youtube/play/?video_id=C1ZM6G4MmZU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Redwood River Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=ktPv2E-FmmM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sky Tower cam (YT)
+plugin://plugin.video.youtube/play/?video_id=75XRqQZXyTE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Mount Diablo Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=AlthfCT2j7Q
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Catalina West End Overlook (YT)
+plugin://plugin.video.youtube/play/?video_id=I95I8f928lU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Waimea Bay Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=wnNrd-VjLsQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Nkorho Bush Lodge (YT)
+plugin://plugin.video.youtube/play/?video_id=gUZjDCZEMDA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Frying Pan Ocean Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=vGimsBVpuN8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Frying Pan Sea Level Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=bqaXUYOBf_o
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",OrcaLab Sea Lion Beach (YT)
+plugin://plugin.video.youtube/play/?video_id=f6KyNadD2zs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Rosie's Pan (YT)
+plugin://plugin.video.youtube/play/?video_id=TL0weAv8C9s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Channel Islands Live Adventures (YT)
+plugin://plugin.video.youtube/play/?video_id=H3EeIRQIgmA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sheep Barn Cam at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=tPdKmQyh6W8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Squam Lakes Fox Den (YT)
+plugin://plugin.video.youtube/play/?video_id=SNiysLgjfrM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Chesapeake Conservancy Osprey Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=7oqtyFRHok4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Spirit Bluff Cliff Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=xYInTHcdkWc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Alligator and Spoonbill Swamp Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=EnxRJii_dp8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",The Hummingbird Trees (YT)
+plugin://plugin.video.youtube/play/?video_id=OQLZIojJ-5s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Fraser Point Bald Eagle Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=PtTZIRwGTF0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Honey Bee Hive (YT)
+plugin://plugin.video.youtube/play/?video_id=HOgKDQp2BHE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Honey Bee Landing Zone (YT)
+plugin://plugin.video.youtube/play/?video_id=Snltgg02e30
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",The Mixed Species Flying Fox cam (YT)
+plugin://plugin.video.youtube/play/?video_id=OuW5jvSxRi8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Brooks Falls - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=nprdq03e8yI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Brooks Falls Brown Bears Low (YT)
+plugin://plugin.video.youtube/play/?video_id=C0zf9I2XYrs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Lower River - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=8Rt88lpDdwA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Underwater Salmon Cam - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=mWIzpiBM2yY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",River Watch - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=VhFpQsemOx0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Riffles - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=veh0gN3NyRk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Dumpling Mountain - Katmai National Park, Alaska (YT)
+plugin://plugin.video.youtube/play/?video_id=r0cwB9l-zy0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Northern Lights (YT)
+plugin://plugin.video.youtube/play/?video_id=CwriDd8STdI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Kitten Rescue Cat Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=9Iup70E0Ig0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Panama Fruit Feeder Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=tHKvusCEic4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Tembe Elephant Park (YT)
+plugin://plugin.video.youtube/play/?video_id=48MFrf5ADp8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Happiness Village Baby Panda Park (YT)
+plugin://plugin.video.youtube/play/?video_id=4GsvgKu1060
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Tau (YT)
+plugin://plugin.video.youtube/play/?video_id=sqAdEAH2q_g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Pipeline Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=DY5RYp4sxYc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Rubbing Beach - Underwater (YT)
+plugin://plugin.video.youtube/play/?video_id=5jcU2MVkEy8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",GRACE Gorilla Forest Corridor Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=rgXWDk7rh4w
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Long-Eared Owl (YT)
+plugin://plugin.video.youtube/play/?video_id=-TVBdFkn7I4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Coral Predators Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=vhZPwHyDV9Q
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Big Cat Rescue FunCation (YT)
+plugin://plugin.video.youtube/play/?video_id=_JUD6NunVh0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Shark Lagoon Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=LvfaMv9nbJc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Wolong Grove Panda Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=OObOQ2GElhA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Kitten Rescue Cat Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=pvEuYcM0j6M
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Penguin Habitat (YT)
+plugin://plugin.video.youtube/play/?video_id=muv29jLpEnA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Nursery at Warrior Canine Connection (YT)
+plugin://plugin.video.youtube/play/?video_id=G0IBqtO1K28
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",International Wolf Center South Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=cR_qkHpBHTI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Tropical Reef Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Decorah Eagles (YT)
+plugin://plugin.video.youtube/play/?video_id=UmclL6funN8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",West End Bald Eagle Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=RmmAzrAkKqI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",ECAD Whelping (YT)
+plugin://plugin.video.youtube/play/?video_id=8tjNccpGCTk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Blue Cavern (YT)
+plugin://plugin.video.youtube/play/?video_id=ogMTmdbYaPs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Bella Hummingbird's Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=5rF4LOaa65M
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Puppy Playroom at Warrior Canine Connection (YT)
+plugin://plugin.video.youtube/play/?video_id=XLwYWCzlfIw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",African Animal Lookout Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=xG1fcT7BC1A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Channel Islands Live Adventures (YT)
+plugin://plugin.video.youtube/play/?video_id=H3EeIRQIgmA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Frying Pan Sea Level Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=bqaXUYOBf_o
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Danes - Service Dog Project (YT)
+plugin://plugin.video.youtube/play/?video_id=o7C4_TpcNuA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",West Coast Sea Nettles (YT)
+plugin://plugin.video.youtube/play/?video_id=vUL-RX_aoOg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Olifants River (YT)
+plugin://plugin.video.youtube/play/?video_id=wXYQo09Y2kc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",African Safari Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=0h24K8w1pws
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Horned Owl at Roger’s Place (YT)
+plugin://plugin.video.youtube/play/?video_id=LTz8tav2SCw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Anacapa Peregrine Falcon Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=YmZv8Pfwum4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Shark Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=og8bbxl0iW8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Cattle Pond Pasture at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=0q0TXV8PyNY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Puppy Whelping Room at Warrior Canine Connection (YT)
+plugin://plugin.video.youtube/play/?video_id=HMafZTC8WZ0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Charlotte's Pasture at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=LX3-YLM2fwg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Penguin Beach (YT)
+plugin://plugin.video.youtube/play/?video_id=CTRonVgRe1E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon Boat House Osprey Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=K380RGUXHsw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Happiness Village Baby Panda Garden (YT)
+plugin://plugin.video.youtube/play/?video_id=ePz4BVtUrgk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sea Otters at Moss Landing (YT)
+plugin://plugin.video.youtube/play/?video_id=hjDoreoXaXo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Lake Tahoe West Shore (YT)
+plugin://plugin.video.youtube/play/?video_id=thHgzWlveqs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Santa Monica Beach Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=OWbI6WtlI-k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",OrcaLab Main Cams (YT)
+plugin://plugin.video.youtube/play/?video_id=FiaDOY06VwI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Kitten Rescue - Baby Kittens Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=M5huFQWHyVI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Bison Water Hole - Grasslands National Park (YT)
+plugin://plugin.video.youtube/play/?video_id=8WpGT32xkK0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",International Wolf Center North Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=SQfE_-sSdc4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Decorah Eagles - North Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=eTAsANPVqB8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Kitten Cabana - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=8chd0qHhMWQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",African Watering Hole (YT)
+plugin://plugin.video.youtube/play/?video_id=6NIt6ibAD6I
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",African River Wildlife Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=bGpNSsnSlfo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Gray Owl Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=bt1m1VKO16s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Outside Dog Yard (YT)
+plugin://plugin.video.youtube/play/?video_id=BgRKCeR4KAg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Tiger Lake - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=NVCi9yYwRCY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Turkey Barn at Farm Sanctuary (YT)
+plugin://plugin.video.youtube/play/?video_id=MFy7_uP45S4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Two Harbors Bald Eagle Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=iC1-E0WHbfI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Africam Naledi Cat-EYE (YT)
+plugin://plugin.video.youtube/play/?video_id=8UFA66bi-0g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Homosassa Springs Underwater Manatees (YT)
+plugin://plugin.video.youtube/play/?video_id=Uy1KnGEVpTA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Gengda Valley Panda Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=65JHo3Cy2tY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Mississippi River Flyway Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=DH0VmRsj05c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Homosassa Springs Above Water Manatees (YT)
+plugin://plugin.video.youtube/play/?video_id=MlPYbPeLpLc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Charlo Montana Osprey Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=gYkci0rH8Ac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Sauces Bald Eagle - Channel Islands National Park Cams (YT)
+plugin://plugin.video.youtube/play/?video_id=ZvX4KElPq2k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Rubbing Beach (YT)
+plugin://plugin.video.youtube/play/?video_id=yK5ntRdD1X8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Outdoor Puppy Pen at Warrior Canine Connection (YT)
+plugin://plugin.video.youtube/play/?video_id=cWzkAHB1kT8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Two Harbors Alternate Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=8HMOPKVPk5g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",spcaLA Cat Porch (YT)
+plugin://plugin.video.youtube/play/?video_id=le4AmpsVVB0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Frying Pan Ocean Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=vGimsBVpuN8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Explore Live Events (YT)
+plugin://plugin.video.youtube/play/?video_id=hq39C9wSij0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Bobcat Rehab Intensive Care - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=6VRB2YZdes4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Homewood Mountain Overlook (YT)
+plugin://plugin.video.youtube/play/?video_id=uDzmE7ieP7A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Lower Animal Wellness Adoption Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=L2yQsldTjHI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Siku & his Polar Bear Family (YT)
+plugin://plugin.video.youtube/play/?video_id=HM3Bdpmc9qY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Donkey Hill - Service Dog Project (YT)
+plugin://plugin.video.youtube/play/?video_id=FUkxWre2yRU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Cape West Camera - Churchill Cam, Wapusk National Park (YT)
+plugin://plugin.video.youtube/play/?video_id=tC-J27EF800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Gray Seal Pupping Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=doddZD2j1Ro
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Naknek River Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=pHCaRGbvXtE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",X-Ray Cam - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=jRuBRlo7fBE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Audubon's Rowe Sanctuary's Crane Camera (YT)
+plugin://plugin.video.youtube/play/?video_id=QAU4hZoYimI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Chesapeake Conservancy Peregrine Falcon Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=pDzgu0ihW8g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Bergin University Puppies (YT)
+plugin://plugin.video.youtube/play/?video_id=7b5C2GN8C7s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Underwater Manatee-Cam at Blue Spring State Park (YT)
+plugin://plugin.video.youtube/play/?video_id=fPNGL0xMLkk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Soothing Music & Homosassa Springs Underwater Manatees (YT)
+plugin://plugin.video.youtube/play/?video_id=GwpYqOi7M0s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Senior Dog Gathering Room (YT)
+plugin://plugin.video.youtube/play/?video_id=AGpx0wH0gaM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Lioness Nikita - Big Cat Rescue (YT)
+plugin://plugin.video.youtube/play/?video_id=abaOiRCcy6Y
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Above Water Manatee-Cam at Blue Spring State Park (YT)
+plugin://plugin.video.youtube/play/?video_id=IX9Xi5m45QI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Danes Puppy Hill (YT)
+plugin://plugin.video.youtube/play/?video_id=Fzyf-p8QT0g
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",The Giant Flying Fox Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=2AfYoTHgJbc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Condor Sanctuary in San Simeon (YT)
+plugin://plugin.video.youtube/play/?video_id=1a1z4M80BXg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Big Sur Condors (YT)
+plugin://plugin.video.youtube/play/?video_id=VOFTpk2O-8U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Big Sur Condor Nest (YT)
+plugin://plugin.video.youtube/play/?video_id=U8vEaOd34Pc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Guide Dogs of America Nursery Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=ueazysZYw8E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Guide Dogs Mobility Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=QF2ojZmSTWs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Joe's Camera Lab | Live 360 video! (YT)
+plugin://plugin.video.youtube/play/?video_id=VLED6u0TBWE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Danes Indoor Puppy Room - Service Dog Project (YT)
+plugin://plugin.video.youtube/play/?video_id=SxhvPOvWz9w
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Great Danes Arena Cam - Service Dog Project (YT)
+plugin://plugin.video.youtube/play/?video_id=0mQHoPcA86E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Guide Dogs Mobility Cam (YT)
+plugin://plugin.video.youtube/play/?video_id=SgKZwsoQBHU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5NE8ZH.jpg" group-title="EXPLORE.org",Kentucky Equine Adoption Center (YT)
+plugin://plugin.video.youtube/play/?video_id=AohUh4Wx2ps
+
+###########

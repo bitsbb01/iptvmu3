@@ -1,0 +1,205 @@
+#EXTM3U
+
+# Class101 TV  Pod101 TV  101 TV  https://www.innovativelanguage.com/online-language-courses/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dkUdwz1.jpg" group-title="",★★★★★★★★★★ Inno[COLOR blue]V[/COLOR]ative Language Learning ★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Vhd3Gn.jpg" group-title="",AfrikaansPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoZ83ZMcVPNsm0Jkw3Gn3HQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Vhd3Gn.jpg" group-title="",AfrikaansPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoZ83ZMcVPNsm0Jkw3Gn3HQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W11rmD0.jpg" group-title="",ArabicPod101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5bjJ5x0i_XRGTMHF2IoL8w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W11rmD0.jpg" group-title="",ArabicPod101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5bjJ5x0i_XRGTMHF2IoL8w&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W11rmD0.jpg" group-title="",ArabicPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5bjJ5x0i_XRGTMHF2IoL8w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bk6CMfy.jpg" group-title="",BulgarianPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKJwad7VjIWpJX4MZbqUyrA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bk6CMfy.jpg" group-title="",BulgarianPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKJwad7VjIWpJX4MZbqUyrA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKdtIXv.jpg" group-title="",CantoneseClass101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUSDi1a8z_zh9BKrg8VMNGA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UKdtIXv.jpg" group-title="",CantoneseClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUSDi1a8z_zh9BKrg8VMNGA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhnlRY-oKpanPGSvL8Ml8Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhnlRY-oKpanPGSvL8Ml8Q&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhnlRY-oKpanPGSvL8Ml8Q&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTnJBMt.jpg" group-title="",ChineseClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJhnlRY-oKpanPGSvL8Ml8Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCQjWxU.jpg" group-title="",CzechClass101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJUZWMFD1lQVSYkq47i6tGg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCQjWxU.jpg" group-title="",CzechClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJUZWMFD1lQVSYkq47i6tGg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bM0yfQU.jpg" group-title="",DanishClass101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0lTtMaiVcK7ZwDHGe-9SWg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bM0yfQU.jpg" group-title="",DanishClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0lTtMaiVcK7ZwDHGe-9SWg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TpcUzO.jpg" group-title="",DutchPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCY0BCa9cKhn-V1W52ALrR5Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TpcUzO.jpg" group-title="",DutchPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCY0BCa9cKhn-V1W52ALrR5Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="",EnglishClass101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeTVoczn9NOZA9blls3YgUg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="",EnglishClass101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeTVoczn9NOZA9blls3YgUg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="",EnglishClass101 TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeTVoczn9NOZA9blls3YgUg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTA27Hh.jpg" group-title="",EnglishClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeTVoczn9NOZA9blls3YgUg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zrax78r.jpg" group-title="",FilipinoPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCEul3aIysbBBqaRaVDFKUrg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zrax78r.jpg" group-title="",FilipinoPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEul3aIysbBBqaRaVDFKUrg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Az34bTL.jpg" group-title="",FinnishPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIi9y7gMxqE7aOihrK2VPlA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Az34bTL.jpg" group-title="",FinnishPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIi9y7gMxqE7aOihrK2VPlA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxfhQc9.jpg" group-title="",FrenchPod101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHk14TRSD33vAyx5xKzpcnw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxfhQc9.jpg" group-title="",FrenchPod101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHk14TRSD33vAyx5xKzpcnw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxfhQc9.jpg" group-title="",FrenchPod101 TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHk14TRSD33vAyx5xKzpcnw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxfhQc9.jpg" group-title="",FrenchPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHk14TRSD33vAyx5xKzpcnw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKRjEGp.jpg" group-title="",GermanPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTobWZV_HWGSoaRrhHyrJ-A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKRjEGp.jpg" group-title="",GermanPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTobWZV_HWGSoaRrhHyrJ-A&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKRjEGp.jpg" group-title="",GermanPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCTobWZV_HWGSoaRrhHyrJ-A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzthPBb.jpg" group-title="",GreekPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3ntiYnE2MYWmwyS4mZCH4w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FzthPBb.jpg" group-title="",GreekPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3ntiYnE2MYWmwyS4mZCH4w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjYS33J.jpg" group-title="",HebrewPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHwWXmReTxNWPaGbgfYeQog&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjYS33J.jpg" group-title="",HebrewPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHwWXmReTxNWPaGbgfYeQog/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILDhUFn.jpg" group-title="",HindiPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQjj7y-JGGj12vwhIbuz62Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILDhUFn.jpg" group-title="",HindiPod101 TV(STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQjj7y-JGGj12vwhIbuz62Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUSbShU.jpg" group-title="",HungarianPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC77Ek71sQtv6Jov31R8s4Ww&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUSbShU.jpg" group-title="",HungarianPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC77Ek71sQtv6Jov31R8s4Ww/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O2gZUJ.jpg" group-title="",IndonesianPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCZ5vOkphth5dMFYKbHRBlfw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O2gZUJ.jpg" group-title="",IndonesianPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ5vOkphth5dMFYKbHRBlfw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KfWzDO.jpg" group-title="",ItalianPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb5faEH1hEiLaT_aGMBWeBg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KfWzDO.jpg" group-title="",ItalianPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCb5faEH1hEiLaT_aGMBWeBg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0ox9NuTHYeRys63yZpBFuA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0ox9NuTHYeRys63yZpBFuA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0ox9NuTHYeRys63yZpBFuA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aatg4zK.jpg" group-title="",JapanesePod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P6raQ5Q.jpg" group-title="",KoreanClass101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsgBUobNGksxIKTagZayKEw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P6raQ5Q.jpg" group-title="",KoreanClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsgBUobNGksxIKTagZayKEw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pB33xHI.jpg" group-title="",NorwegianClass101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwCVZQzd6V0KmdbknttMM4Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pB33xHI.jpg" group-title="",NorwegianClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwCVZQzd6V0KmdbknttMM4Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmJjbwc.jpg" group-title="",PersianPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmYJ70wDmepw9mOSdH41CCA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmJjbwc.jpg" group-title="",PersianPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmYJ70wDmepw9mOSdH41CCA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEMzhv5.jpg" group-title="",PolishPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3b6n6hqQPXmSCin87BYxwg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEMzhv5.jpg" group-title="",PolishPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3b6n6hqQPXmSCin87BYxwg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrioeYt.jpg" group-title="",PortuguesePod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCgF23VqDjioQVQqHUzzSe9g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OrioeYt.jpg" group-title="",PortuguesePod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgF23VqDjioQVQqHUzzSe9g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rBKnWG.jpg" group-title="",RomanianPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCAsZIdD5sox9lM5nO4MPGyA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rBKnWG.jpg" group-title="",RomanianPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAsZIdD5sox9lM5nO4MPGyA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G12KixG.jpg" group-title="",RussianPod101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUg_JDaHFAPEiFGDMddoIzA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G12KixG.jpg" group-title="",RussianPod101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUg_JDaHFAPEiFGDMddoIzA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G12KixG.jpg" group-title="",RussianPod101 TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUg_JDaHFAPEiFGDMddoIzA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G12KixG.jpg" group-title="",RussianPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUg_JDaHFAPEiFGDMddoIzA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZncfLo.jpg" group-title="",SpanishPod101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCydVvh3Wg4VPvllLHFoe5_A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZncfLo.jpg" group-title="",SpanishPod101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCydVvh3Wg4VPvllLHFoe5_A&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZncfLo.jpg" group-title="",SpanishPod101 TV 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCydVvh3Wg4VPvllLHFoe5_A&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZncfLo.jpg" group-title="",SpanishPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCydVvh3Wg4VPvllLHFoe5_A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOJQppQ.jpg" group-title="",SwahiliPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDhKC1HkkMzT30hrgsjvWPQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOJQppQ.jpg" group-title="",SwahiliPod101 TV(STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDhKC1HkkMzT30hrgsjvWPQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNCOpJj.jpg" group-title="",SwedishPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCNoD0ZtJ_uJgTtQeoVZhgw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNCOpJj.jpg" group-title="",SwedishPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCNoD0ZtJ_uJgTtQeoVZhgw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7B6GNb.png" group-title="",ThaiPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2xIZS7z1wLkROtMYLmMstw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7B6GNb.png" group-title="",ThaiPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2xIZS7z1wLkROtMYLmMstw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UavWVUr.jpg" group-title="",TurkishClass101 TV 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-HOzxLZiH6MhGU5csLgINA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UavWVUr.jpg" group-title="",TurkishClass101 TV 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-HOzxLZiH6MhGU5csLgINA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UavWVUr.jpg" group-title="",TurkishClass101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-HOzxLZiH6MhGU5csLgINA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE6HN9i.jpg" group-title="",UrduPod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCGiKlOBHnhWnb2hv6IVOb4w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE6HN9i.jpg" group-title="",UrduPod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGiKlOBHnhWnb2hv6IVOb4w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSmqZ7y.jpg" group-title="",VietnamesePod101 TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCbnmwpaIq5Iq6XAg0S98m-A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSmqZ7y.jpg" group-title="",VietnamesePod101 TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbnmwpaIq5Iq6XAg0S98m-A/live
