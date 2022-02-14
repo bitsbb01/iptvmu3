@@ -18,11 +18,6 @@ plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
 
-#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/AMI-audio.png" group-title="",AMIAudio
-http://encodercdn1.frontline.ca/kamino/output/amiaudio_stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/AMI-tv.png" group-title="",AMI Tele
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_AMI-F_AtopItci_2015_01_12_SD/hls_sd.m3u8
 
 # http://m.assnat.qc.ca/fr/index.html
 #EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="Assemblee Nationale CA" tvg-logo="https://i.imgur.com/xKNnoci.png" group-title="Affaires Publiques",Assnat (360p)
@@ -59,9 +54,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/cbc/get_live_url/?item_id=cbc&language=Montreal
-
-#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/CPAC.png" group-title="",CPAC FR
-http://encodercdn1.frontline.ca/yavin/output/CPAC_French_720p/playlist.m3u8
 
 # https://www.cpac.ca/fr/direct/
 #EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC Francais CA" tvg-logo="https://i.imgur.com/5ym6eJS.png" group-title="Affaires Publiques",Cpac (1080p) (Kodi Changez Param Audio)
@@ -141,9 +133,6 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_dv.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-name="ICI Radio Canada RDI CA" tvg-logo="https://i.imgur.com/Bb1ZiR6.jpg" group-title="Actualités",ICI RDI (Audio) (OPT-3)
 https://rcavliveaudio.akamaized.net/hls/live/2006978/RDI_RDI/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/ICI_RDI.png" group-title="",ICI RDI
-http://encodercdn1.frontline.ca/encoder184/output/ICI_RDI_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Est-Quebec (Rimouski) (720p)
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaEstQuebec.ca" tvg-name="ICI Radio Canada Est-Quebec CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Est-Quebec (Rimouski) (720p) (CC&More)
@@ -193,7 +182,7 @@ https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
 #EXTINF:-1 tvg-id="ICIRadioCanadaManitoba.ca" tvg-name="ICI Radio Canada Manitoba CA" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="Généraliste",ICI Tele Manitoba (Winnipeg) (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/icitele/get_live_url/?item_id=icitele&language=Winnipeg
 
-# update link: https://icitelevision.ca/ #
+# https://icitelevision.ca/ #
 #EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-name="ICI Television Montreal CA" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="Généraliste",ICI TV (720p)
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-name="ICI Television Montreal CA" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="Généraliste",ICI TV (720p)
@@ -212,14 +201,17 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN CA" tvg-logo="https://i.imgur.com/6cESMfj.png" group-title="Actualités",LCN (Audio)
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/audio_0_eng.m3u8
 
-#EXTINF:-1 tvg-id="MeteoMedia.ca" tvg-name="Meteo-Media CA" tvg-logo="https://i.imgur.com/nRvOVp3.png" group-title="Météo",MétéoMédia (720p)
-http://encodercdn1.frontline.ca/encoder181/output/Meteo_Media_720p/playlist.m3u8
-
 # http://greektimes.ca/greektv/
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="", Montreal Greek TV (480p)
 http://94.130.180.175:8081/live/greektv/chunks.m3u8
+
+# https://www.youtube.com/channel/UCupiuMa4oN_pQC2xT5HMfIg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCupiuMa4oN_pQC2xT5HMfIg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCupiuMa4oN_pQC2xT5HMfIg/live
 
 # https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg
 #EXTINF:-1 tvg-id="montreal.ca" tvg-name="MTLVille" tvg-logo="https://i.imgur.com/MmsXOOX.jpg" group-title="Affaires publiques",MTLVille (YT) (c_id) (720p) (lorsque diffusion) 
@@ -262,8 +254,6 @@ https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_3/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (720p) (OPT-2)
-https://www.streamaway.net/fra/telequebec/tracks-v1a1/mono.m3u8|Referer=https://www.streamaway.net/fr/Telequebec.php
 #EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-name="Télé Québec CA" tvg-logo="https://i.imgur.com/8R4EaFu.png" group-title="Généraliste",Télé Québec (720p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/telequebec/get_live_url/?item_id=telequebec
 
@@ -281,9 +271,6 @@ plugin://plugin.video.tvone1112/play/2099/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Meteo",The Weather Network (event Only)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/TV5.png" group-title="",TV5
-http://encodercdn1.frontline.ca/vantrix/ltv/ColbaNet_TV5_AtopItci_2015_01_12_SD/hls_sd.m3u8
-
 # https://www.qub.ca/tvaplus/tva/en-direct
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (Adaptative)
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
@@ -299,9 +286,6 @@ https://tvalive.akamaized.net/hls/live/2012413-b/tva01/master.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA CA" tvg-logo="https://i.imgur.com/AvJwjcQ.jpg" group-title="Généraliste",TVA (1080p) (CC&More)
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/ca/tva/get_live_url/?item_id=tva
 
-#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/TVA.png" group-title="",TVA Montreal
-http://encodercdn1.frontline.ca/encoder184/output/TVA_Montreal_720p/playlist.m3u8
-
 # https://www.youtube.com/user/CablevisionTVC9 https://tvc9.cablevision.qc.ca/en-direct # https://mediat.ca/tvc7/ https://tvc7.gnak.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLWdogU.png" group-title="Communautaire",TVC9 (720p) (YT)  (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC0JP0ek-HhcqisiEpsZiQZA&live=1
@@ -313,9 +297,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0JP0ek-Hhcqi
 plugin://plugin.video.youtube/play/?channel_id=UCdppqXtvbns2vdI-eWlbQpw&live=1
 #EXTINF:-1 tvg-id="TVTémis.ca" tvg-name="TV Témis CA" tvg-logo="https://i.imgur.com/eRfMFrK.png"group-title="Communautaire",TV Témis (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdppqXtvbns2vdI-eWlbQpw/live
-
-#EXTINF:-1 tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/UNIS.png" group-title="",UnisTV
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_UNISH_AtopItci_2015_01_12_HD/hls_hd.m3u8
 
 #EXTINF:-1 tvg-id="Yoopa.ca" tvg-name="Yoopa CA" tvg-logo="https://i.imgur.com/mZmU170.png" group-title="Anime",Yoopa (TT1)
 plugin://plugin.video.tvone1112/play/2109/play.pvr
