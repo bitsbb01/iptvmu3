@@ -1091,9 +1091,9 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2UmRbE.png" group-title="USA",NBA TV
-http://45.92.69.76:8000/play/a05v
+# https://www.ksby.com/live
+#EXTINF:-1 tvg-id="KSBY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MTQ5sMP.jpg" group-title="",NBC KSBY 6
+https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dTfi25n.png" group-title="",NBC WTMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
