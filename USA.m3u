@@ -75,57 +75,6 @@ https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
 https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="WKBW-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Buffalo NY (WKBW-TV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ABCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="WXYZTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Detroit MI (WXYZ-TV1) (720p)
-http://encodercdn1.frontline.ca/kamino/output/ABC_Burlington_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KOMOTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Seattle WA (KOMO-TV1) (720p)
-http://encodercdn1.frontline.ca/yavin/output/ABC_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KXLYTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/abc.png" group-title="Local",ABC Spokane WA (KXLY-TV1) (720p)
-http://encodercdn1.frontline.ca/kamino/output/ABC_Spokane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WIVB-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbs.png" group-title="Local",CBS Buffalo NY (WIVB-TV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="WWJ-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbs.png" group-title="Local",CBS Detroit MI (WWJ-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder183/output/CBS_Detroit_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KIRO-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbs.png" group-title="Local",CBS Seattle WA (KIRO-TV1) (720p)
-http://encodercdn1.frontline.ca/geonosis/output/CBS_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cnn.png" group-title="News",CNN (720p)
-http://encodercdn1.frontline.ca/encoder184/output/CNN_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WFXT.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",Fox Boston MA (WFXT1) (720p)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Boston_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",Fox Buffalo NY (WUTV1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOXHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",Fox News Channel (720p)
-http://encodercdn1.frontline.ca/encoder181/output/FOX_News_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WUHF.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",FOX Rochester NY (WUHF-DT1) (720p)
-http://encodercdn1.frontline.ca/encoder184/output/FOX_Rochester_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KCPQ.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",Fox Seattle WA (KCPQ1) (720p)
-http://encodercdn1.frontline.ca/geonosis/output/FOX_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KAYUTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/fox.png" group-title="Local",FOX Spokane WA (KAYU-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder182/output/FOX_Spokane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1" group-title="News",MSNBC (720p)
-http://encodercdn1.frontline.ca/encoder182/output/MSNBC_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WBTS-CD.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Boston MA (WBTS-CD1) (720p)
-http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WGRZ.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Buffalo NY (WGRZ1) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NBCHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="KING-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Seattle WA (KING-TV1) (720p)
-http://encodercdn1.frontline.ca/bespin/output/NBC_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KHQTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nbc.png" group-title="Local",NBC Spokane WA (KHQ-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder184/output/NBC_Spokane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WNED.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png" group-title="Education;Local",PBS Buffalo NY (WNED-TV) (720p)
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_PBSHB_AtopItci_2015_01_12_HD/hls_hd.m3u8
-#EXTINF:-1 tvg-id="KCTSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png" group-title="Education;Local",PBS Seattle WA (KCTS-TV1) (720p)
-http://encodercdn1.frontline.ca/bespin/output/PBS_Seattle_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="KSPSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/pbs.png" group-title="Education;Local",PBS Spokane WA (KSPS-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder183/output/PBS_Spokane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Peachtree.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/320px-WPCH-TV_logo.svg.png" group-title="General",Peachtree TV Atlanta GA (WPCH-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WPIX.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/320px-The_CW.svg.png" group-title="Local",The CW New York NY (WPIX1) (720p)
-http://encodercdn1.frontline.ca/kamino/output/pix11_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WGN-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/wgn-america-us.png" group-title="Local",WGN Chicago IL (WGN-TV1) (720p)
-http://encodercdn1.frontline.ca/encoder182/output/WGN_720p/playlist.m3u8
-
 # https://www.watchdigitv.com/watch-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHg9ydf.png" group-title="",Digi-TV
 https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
@@ -148,6 +97,19 @@ http://cdn.tvmatic.net/funny.m3u8
 http://cdn.tvmatic.net/sport.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic TikTok
 http://cdn.tvmatic.net/tiktok.m3u8
+
+
+#EXTINF:-1 tvg-id="DivineTVEvent.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZJSBX6i.jpg" group-title="Religious",Divine TV Event (720p)
+https://bozztv.com/36bay2/divine-event/index.m3u8
+#EXTINF:-1 tvg-id="DivineTVUK.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZJSBX6i.jpg" group-title="Religious",Divine TV UK (480p)
+https://divineplayout2.tulix.tv/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="DivineTVUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZJSBX6i.jpg" group-title="Religious",Divine TV USA (480p)
+https://divineplayout-us2.tulix.tv/live/Stream1/playlist.m3u8
+# https://www.youtube.com/channel/UCoOKMP6BtOLtl5cYo6rvggw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJSBX6i.jpg" group-title="",Divine TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoOKMP6BtOLtl5cYo6rvggw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJSBX6i.jpg" group-title="",Divine TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoOKMP6BtOLtl5cYo6rvggw/live
 
 #########
 
@@ -379,88 +341,6 @@ https://api.airy.tv/hls/main/5/ECPW%20Wrestling%20TV.m3u8
 https://api.airy.tv/hls/main/5/ECPW%20Wrestling%20TV.m3u8
 https://api.airy.tv/hls/part/1080/5/ECPW%20Wrestling%20TV.m3u8
 https://api.airy.tv/hls/part/360/5/ECPW%20Wrestling%20TV.m3u8
-
-#########
-
-#EXTINF:-1,Gusto
-https://gusto-klowd.amagi.tv/playlist.m3u8
-#EXTINF:-1,The First
-https://thefirst-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bein Xtra ESP
-https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Demand Africa
-https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Dark Matter
-https://darkmatter-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,HNC Free
-https://hncfree-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Redseat The first
-https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,BeinXtra
-https://beinxtra-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Buzzr
-https://buzzr-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Sportsgrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,NewsMax
-https://newsmax-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bamus
-https://bamus-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,ESTV
-https://estv-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,AWE
-http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
-#EXTINF:-1,Fido
-http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8
-#EXTINF:-1,GSN
-http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
-#EXTINF:-1,OAN
-http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:-1,QVC
-http://n1.klowdtv.net/live2/qvclive_720p/chunks.m3u8
-#EXTINF:-1,QVC+
-http://n1.klowdtv.net/live3/qvcplus_720p/chunks.m3u8
-#EXTINF:-1,POP
-http://n1.klowdtv.net/live2/pop_720p/chunks.m3u8
-#EXTINF:-1,Classic Rerun TV (Geo)
-https://classicreruntv-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,FantaWild (Geo)
-https://cinedigm-fantawild-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Samuel Goldwyn Classic (Geo)
-https://samuelgoldwyn-classic-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Samuel Goldwyn Films (Geo)
-https://samuelgoldwyn-films-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Fuse XL (Geo)
-https://fusexl-klowdtv.amagi.tv/playlist.m3u8
-
-#########
-#EXTINF:-1,Con TV -TCL
-https://contv-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Con TV Anime -TCL
-https://contvanime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unbeaten -TCL
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Docurama -TCL
-https://docurama-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Whistle Sports -TCL
-https://whistlesports-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Dove Now -TCL
-https://dovenow-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Young Hollywood -TCL
-https://younghollywood-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bambu -TCL
-https://bambu-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bloody Disgusting -TCL
-https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1, The Bob Ross Channel -TCL
-https://bobross-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Comedy Dynamics -TCL
-https://comedydynamics-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,My time Movies Network -TCL
-https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,So Real -TCL
-https://soreal-tcl.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~~~~  USA TV ~~~~ 
 0.0.0.0
@@ -3175,8 +3055,6 @@ https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 #EXTINF:-1,Football daily
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
 
-#EXTINF:-1,eScapes
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Samsung_Wild_Life_190x190.png?raw=true",Samsung Wildlife
@@ -3273,42 +3151,7 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HKri0kg.jpg" group-title="CBS",ET
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
-#######
 
-#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/naturelive/general/db77d9e6-ee5c-42f5-92b5-9271ab5b5499" group-title="",Nature Live
-0.0.0.0
-
-#EXTINF:-1 tvg-logo="" group-title="",Animal Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Aurora Borealis Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Forest Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Lakes and Ponds Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Mountains Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Rivers and Streams Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Sunsets Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Tropical Nature Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Waterfalls LIVE
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c953910932c837b4939735d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",The Sea Live
-https://stitcher.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-
-#############
 
 #EXTINF:-1 group-title="News",ABC News Digital 1
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
@@ -3911,8 +3754,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 https://5c19aea334357.streamlock.net/tulalip/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1,Us- 360 North
 https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
-#EXTINF:-1,Us- Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1,Us- Channel V6
 https://media.ksl.com/watchit/vod/41534/playlist.m3u8
 #EXTINF:-1,Us- Ditty TV
@@ -3932,10 +3773,6 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playl
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,US- Mo Laughter TV
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
-
-
-#EXTINF:-1,US- Fail Army
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 
 
 #EXTINF:-1,US- WABI 5 Bangor Maine
