@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NcOgln.png" group-title="Radio",Lucas LEMPEREUR
+plugin://plugin.video.dailymotion_com/?url=x7yrzoq&mode=playLiveVideo
+
 # https://www.twitch.tv/stationmillenium
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YMxfqUO.png" group-title="Radio",Station Millenium 102.5 FM (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=stationmillenium
