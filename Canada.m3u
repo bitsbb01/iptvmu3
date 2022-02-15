@@ -159,17 +159,9 @@ https://6ec0e0181a60431a899f1aae5e76a016.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada TV English[/COLOR]★★★★★★★★★★
 0.0.0.0
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",More Live Channel Can Be found in TVTAP and Livenet Addons
-0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AMITV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/AMI-tv.png" group-title="",AMI TV
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_AMItv_AtopItci_2015_01_12_SD/hls_sd.m3u8
-
-#EXTINF:-1 tvg-id="APTN.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/APTN.png" group-title="",APTN
-http://encodercdn1.frontline.ca/geonosis/output/APTN_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGnBg0p.jpg" group-title="",Bible Discovery TV (Monday, Wednesday, and Friday for Live Prayer right here at 3:00pm EST)
 https://2-fss-1.streamhoster.com/pl_122/200226-88032-1/playlist.m3u8
@@ -243,8 +235,6 @@ https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RulfaHI.png" group-title="News",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-id="CBCCBLT.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cbc2015.png" group-title="",CBC Toronto (OPT-2)
-http://encodercdn1.frontline.ca/encoder181/output/CBC_Toronto_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSqpI4g.png" group-title="News",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/03c1GBQ.png" group-title="News",CBC Windsor
@@ -279,8 +269,6 @@ plugin://plugin.video.sendtokodi/?http://link.theplatform.com/s/ExhSPC/I4J5_4HlE
 EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
 
 # https://www.chch.com/live/
-#EXTINF:-1 tvg-id="CHCH.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/chch.png" group-title="",CHCH
-http://encodercdn1.frontline.ca/geonosis/output/CHCH_Hamilton_720p/playlist.m3u8
 
 # https://www.cheknews.ca/live-news-british-columbia/
 #EXTINF:-1 tvg-id="Cheknews.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="News",Cheknews (1080p) [Not 24/7] (STK)
@@ -305,20 +293,13 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CITY TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CityTV Toronto
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CityTVToronto.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/citytv.png" group-title="General",CityTV Toronto
-http://encodercdn1.frontline.ca/bespin/output/City_Toronto_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CMT.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/cmtcanada.png" group-title="",CMT
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_CMTHD_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
 # https://www.youtube.com/channel/UCZ9Z3-VJcSMSqrWRORMlRjQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZE1Z7Wf.jpg" group-title="Legislative",Committee of Adjustment - City of Ottawa (YT) (c_id) (not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCZ9Z3-VJcSMSqrWRORMlRjQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZE1Z7Wf.jpg" group-title="Legislative",Committee of Adjustment - City of Ottawa (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ9Z3-VJcSMSqrWRORMlRjQ/live
 
-#EXTINF:-1 tvg-id="CPACOttawaEn.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/CPAC.png" group-title="",Cpac
-http://encodercdn1.frontline.ca/yavin/output/CPAC_English_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | Floor
@@ -342,17 +323,6 @@ https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVER
 
-#EXTINF:-1 tvg-id="CTVDrama.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/CTV_drama_channel.png" group-title="",CTVDrama
-http://encodercdn1.frontline.ca/encoder183/output/CTV_Drama_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CTVNewsChannel.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/ctvnews.png" group-title="News",CTV News
-http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CTVToronto.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/ctv-2018.png" group-title="General",CTV Toronto
-http://encodercdn1.frontline.ca/encoder183/output/CTV_Toronto_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CKVR.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/ctv2-2018.png" group-title="General",CTV2 Barrie
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_TCTV2_AtopItci_2015_01_12_HD/hls_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV video only
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
@@ -373,12 +343,6 @@ https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/2917038973_cvtv21_247
 #EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="",cvtv Channel 23
 https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/2917038973_cvtv22_247/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/discovery-new.png" group-title="",Discovery Channel
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_DISCH_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
-#EXTINF:-1 tvg-id="EEntertainment.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/E.png" group-title="",E!
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_E!HD_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
@@ -389,8 +353,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QoUWyn.jpg" group-title="Music",Genesis 360 Radio (Concord) (720p)
 https://media.streambrothers.com:1936/8214/8214/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/foodtv.png" group-title="",FoodNetwork
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_FOODH_AtopItci_2015_01_12_HD/hls_hd.m3u8
+
 
 #EXTINF:-1 tvg-id="GlobalNewsBritishColumbia.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/MFsRWIp.jpg" group-title="News",Global News British Columbia (720p)
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
@@ -420,14 +383,6 @@ https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df528024
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="GlobalNewsWinnipeg.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/EyfpCkY.jpg" group-title="News",Global News Winnipeg (720p)
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
-#EXTINF:-1 tvg-id="GlobalNewsToronto.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/global.png" group-title="",Global Toronto (720p)
-http://encodercdn1.frontline.ca/encoder184/output/Global_Toronto_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HGTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/hgtv-usa.png" group-title="",HGTV
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_HGTVH_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
-#EXTINF:-1 tvg-id="HistoryChannel.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/historycanada.png" group-title="",History
-http://encodercdn1.frontline.ca/encoder181/output/History_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oUoz7bo.png" group-title="Local",Jess TV (Lethbridge) (720p) (OFFLINE)
 https://tna5.bozztv.com/jesstv/index.m3u8|Referer=https://ssh101.com/
@@ -497,9 +452,6 @@ plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zE9yWp0.jpg" group-title="",New Glasgow Nova Scotia East River Weather Camera (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwh4LBW-FLuLVjD92NL-Cpw/live
 
-#EXTINF:-1 tvg-id="Nickelodeon.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/nickelodeon.png" group-title="",Nickeloden
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_NICKH_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
 # http://watch.northbaytv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0pvnOZf.png" group-title="",Northbay tv
 http://d3krv8j28xkav1.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -527,8 +479,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCr7gh2Z4NzcMlRdwqavYcgw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgOjE0Y.jpg" group-title="",SaultOnline ONNtv (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr7gh2Z4NzcMlRdwqavYcgw
 
-#EXTINF:-1 tvg-id="OMNI1.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/omni1.png" group-title="",OMNI 1
-http://encodercdn1.frontline.ca/geonosis/output/OMNI1_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/civVGxa.png" group-title="Religious",Quo Vadis TV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
@@ -543,22 +493,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_DweJsPH4mvc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
 https://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="Showcase.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/showcasecanada.png" group-title="",Showcase
-http://encodercdn1.frontline.ca/encoder181/output/Showcase_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/sportsneteast.png" group-title="Sport",Sportsnet East
-http://encodercdn1.frontline.ca/yavin/output/Sportsnet_East_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/sportsnetpacific.png" group-title="Sport",Sportsnet Pacific
-http://encodercdn1.frontline.ca/kamino/output/Sportsnet_Pacific_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/sportsnetontario.png" group-title="Sport",Sportsnet Ontario
-http://encodercdn1.frontline.ca/kamino/output/Sportsnet_Ontario_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",Sportsnet Ontario (TT)
 plugin://script.module.7of9-live/lay/214/play.pvr
-
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/sportsnetwest.png" group-title="Sport",Sportsnet West
-http://encodercdn1.frontline.ca/bespin/output/Sportsnet_West_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",Sportrtsnet One (TT)
 plugin://script.module.7of9-live/play/417/play.pvr
@@ -573,42 +509,26 @@ http://cdn11.live247stream.com/tag/tv/tag/stream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ach8VP4.jpg" group-title="",tsc.ca
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
-#EXTINF:-1 tvg-id="TFO.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/TFO.png" group-title="",TFO
-http://encodercdn1.frontline.ca/encoder183/output/TFO_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
-#EXTINF:-1 tvg-id="TheWeatherNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/twn2015.png" group-title="Weather",The Weather Network
-http://encodercdn1.frontline.ca/kamino/output/The_Weather_Network_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network (OPT-2)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="TMC.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/tcm.png" group-title="",TMC
-http://encodercdn1.frontline.ca/encoder181/output/TCM_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Treehouse.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/treehousetv.png" group-title="",Treehouse
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_TREEH_AtopItci_2015_01_12_HD/hls_hd.m3u8
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/tsn1-2018.png" group-title="Sport",TSN 1
-http://encodercdn1.frontline.ca/encoder183/output/TSN1_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",TSN 1 (TT)
 plugin://script.module.7of9-live/play/233/play.pvr
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/tsn2-2018.png" group-title="Sport",TSN 2
-http://encodercdn1.frontline.ca/encoder182/output/TSN2_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",TSN 2 (TT)
 plugin://script.module.7of9-live/play/234/play.pvr
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/tsn3-2018.png" group-title="Sport",TSN 3
-http://encodercdn1.frontline.ca/encoder183/output/TSN3_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",TSN 3 (TT)
 plugin://script.module.7of9-live/play/235/play.pvr
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/tsn4-2018.png" group-title="Sport",TSN 4
-http://encodercdn1.frontline.ca/encoder183/output/TSN4_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",TSN 4 (TT)
 plugin://script.module.7of9-live/play/412/play.pvr
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/tsn5-2018.png" group-title="Sport",TSN 5
-http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport"TSN 5 (TT)
 plugin://script.module.7of9-live/play/413/play.pvr
 
@@ -617,9 +537,6 @@ http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVO.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/TVO.png" group-title="",TVO
-http://encodercdn1.frontline.ca/encoder181/output/TVO_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
@@ -631,9 +548,6 @@ https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCGPPdIn67ZCLhhHABoQpNUw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="",TVO kids (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live
-
-#EXTINF:-1 tvg-id="Vision.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/vision.png" group-title="",Vision TV
-http://encodercdn1.frontline.ca/vantrix/ltv/Bell_VISON_AtopItci_2015_01_12_SD/hls_sd.m3u8
 
 # https://www.youtube.com/channel/UCHqm6pHW77RGi6nlMvK0yMQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Evn0CD1.jpg" group-title="Weather",WatchWx (YT) (c_id)
@@ -657,12 +571,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjKq-J6gMrDCP
 plugin://plugin.video.youtube/play/?channel_id=UCijum8ufGvG9ydfByx1E8yg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b07Wnic.jpg" group-title="",Winnipeg  Live Weather (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCijum8ufGvG9ydfByx1E8yg/live
-
-#EXTINF:-1 tvg-id="WTN.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/w-copy.png" group-title="",W Network
-http://encodercdn1.frontline.ca/kamino/output/W_Network_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YesTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/yestv.png" group-title="",yes TV
-http://encodercdn1.frontline.ca/kamino/output/YESTV_Hamilton_720p/playlist.m3u8
 
 # https://www.zoomerradio.ca/ https://www.youtube.com/channel/UCon2a9opDXmI-i3Be6PYBQA
 #EXTINF:-1 tvg-logo="https://www.zoomerradio.ca/wp-content/themes/zoomer-catch-box/images/logo-new.png" group-title="",ZoomerRadio (c_id) (YT)
