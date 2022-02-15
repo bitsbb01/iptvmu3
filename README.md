@@ -51,7 +51,6 @@ plugin://plugin.video.streamlink-tester/?action=play&url=URLHERE
 Usefull For many  Site That Use .php ending  EX: .php?id=IDHERE
 
 - DASH .mpd Stream  No DMR + No Referrer
-- IF DMR  use https://github.com/Sphinxroot/IPTVM3U/tree/master/StreamFiles%20In%20Kodi
 
 https://streamlink.github.io/plugin_matrix.html
 
@@ -79,7 +78,7 @@ https://fb.watch/IDHERE/
 
 https://www.facebook.com/IDHERE/videos/IDEHERE/
 
-https://www.youtube.com/channel/IDHERE/live ->  No youtube API required to make it work
+https://www.youtube.com/channel/IDHERE/live ->  No youtube API required to make it work .. handle 1 unique live from same channel
 
 https://www.youtube.com/watch?v=IDHERE
 
@@ -138,4 +137,7 @@ Url Referer of the .m3u8 Stream
 # X-Forwarded-For=
 |X-Forwarded-For=
 Usaly It work without a vpn  by simply finding the proper ISP ip/range of the country that match the geo restriction Stream
+
+
+
 
