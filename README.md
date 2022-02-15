@@ -66,6 +66,9 @@ https://ginikousa.com/ ; https://ginikousa.com/live.php?id=IDHERE
 
 https://www.watchyour.tv/ ; http://www.watchyour.tv/dvr.php?id=IDHERE
 
+https://livestream.com/ ; http://api.new.livestream.com/accounts/IDHERE/events/IDHERE/
+
+
 # Send To Kodi  
 18.9 or matrix see here https://github.com/firsttris/plugin.video.sendtokodi
 
