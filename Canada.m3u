@@ -661,6 +661,12 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://unirtmp.tulix.tv/ektatv/ektatv/playlist.m3u8
 https://unirtmp.tulix.tv/ektatv/ektatv/chunklist_w505927771.m3u8
 
+# https://www.youtube.com/channel/UC2lIlOweF-e7pzBcVnCJYww
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UF2audD.jpg" group-title="",GEC TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2lIlOweF-e7pzBcVnCJYww&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UF2audD.jpg" group-title="",GEC TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2lIlOweF-e7pzBcVnCJYww/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BKlVKdp.png" group-title="Canada",GH Canada TV
 http://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
 http://churchchannelstream.tulix.tv/liveticker/720p/chunklist_w977888254.m3u8
