@@ -2,7 +2,8 @@
 
 # https://anthym.maz.tv/apps/2780/135443 https://www.anthymtv.com/allaccess-americana
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VEDobKB.png" group-title="",★★★★★★★★★★AnthymTV★★★★★★★★★★
-0.0.0.0
+https://2evn4djdndpz-hls-push.5centscdn.com/raw/About%20AnthymTV%20(11_24)%20-%20HD%201080p_MULTI.mp4/playlist.m3u8
+https://2evn4djdndpz-hls-push.5centscdn.com/raw/About%20AnthymTV%20(11_24)%20-%20HD%201080p_MULTI.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmvtYnZ.png" group-title="EPG",TV Guide
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Cranium/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
