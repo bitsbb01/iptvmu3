@@ -1,0 +1,91 @@
+#EXTM3U
+
+# https://www.dailymotion.com/video/x86lhy3
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/g6rH1cs.png" group-title="",Kênh VTC1 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86lhy3&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/g6rH1cs.png" group-title="",Kênh VTC1 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86lhy3
+
+# https://www.dailymotion.com/video/x86lhzu
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/pTRXJnM.jpg" group-title="",Kênh VTC2 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86lhzu&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/pTRXJnM.jpg" group-title="",Kênh VTC2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86lhzu
+
+# https://www.dailymotion.com/video/x86li1d
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/Z6gZuv3.jpg" group-title="",Kênh VTC3 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86li1d&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/Z6gZuv3.jpg" group-title="",Kênh VTC3 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86li1d
+
+# https://www.dailymotion.com/video/x86li3t
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/bBQZ17q.jpg" group-title="",Kênh VTC4 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86li3t&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/bBQZ17q.jpg" group-title="",Kênh VTC4 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86li3t
+
+# https://www.dailymotion.com/video/x86li4n
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/HXkZtdX.png" group-title="",Kênh VTC5 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86li4n&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/HXkZtdX.png" group-title="",Kênh VTC5 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86li4n
+
+# https://www.dailymotion.com/video/x86livh
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/UqHOm41.jpg" group-title="",Kênh VTC6 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86livh&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/UqHOm41.jpg" group-title="",Kênh VTC6 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86livh
+
+# https://www.dailymotion.com/video/x86livu
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/pij7xCw.jpg" group-title="",Kênh VTC7 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86livu&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/pij7xCw.jpg" group-title="",Kênh VTC7 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86livu
+
+# https://www.dailymotion.com/video/x86lj8j
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/b1UUOfI.jpg" group-title="",Kênh VTC8 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86lj8j&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/b1UUOfI.jpg" group-title="",Kênh VTC8 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86lj8j
+
+# https://www.dailymotion.com/video/x86lj91
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/IBKnR1s.jpg" group-title="",Kênh VTC9 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86lj91&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/IBKnR1s.jpg" group-title="",Kênh VTC9 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86lj91
+
+# https://www.dailymotion.com/video/x86lj9b
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/APLdPKQ.jpg" group-title="",Kênh VTC10 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86lj9b&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/APLdPKQ.jpg" group-title="",Kênh VTC10 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86lj9b
+
+# https://www.dailymotion.com/video/x86zk67
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/X83l9Sw.png" group-title="",Kênh VTC11 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86zk67&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/X83l9Sw.png" group-title="",Kênh VTC11 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86zk67
+
+# https://www.dailymotion.com/video/x86zk72
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/AI6n6ux.png" group-title="",Kênh VTC12 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86zk72&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/AI6n6ux.png" group-title="",Kênh VTC12 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86zk72
+
+# https://www.dailymotion.com/video/x86zk72
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/xgR85i1.png" group-title="",Kênh VTC13 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86lj9t&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/xgR85i1.png" group-title="",Kênh VTC13 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86zk72
+
+# https://www.dailymotion.com/video/x86lja1
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/Pbnz2hy.jpg" group-title="",Kênh VTC14 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86lja1&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/Pbnz2hy.jpg" group-title="",Kênh VTC14 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86lja1
+
+# https://www.dailymotion.com/video/x86ljae
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/Kqct45Q.jpg" group-title="",Kênh VTC16 (DM)
+plugin://plugin.video.dailymotion_com/?url=x86ljae&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/Kqct45Q.jpg" group-title="",Kênh VTC16 (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x86ljae
