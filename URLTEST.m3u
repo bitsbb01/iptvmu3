@@ -1,5 +1,21 @@
 #EXTM3U
 
+# https://www.intergalactic.fm/
+# https://hotmixes.net/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOxUjwI.jpg" group-title="",CBS TV
+https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zbnHhv.jpg" group-title="",Murder Capital TV
+https://intergalactic.tv/live/smil:mtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOvsCsz.png" group-title="",Panama Racing TV
+https://intergalactic.tv/live/prc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpBaszC.png" group-title="",Cybernetic Broadcasting System
+https://radio.intergalactic.fm/1aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVVRNVp.png" group-title="",Disco Fetish
+https://radio.intergalactic.fm/2aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75rSkwG.png" group-title="",The Dream Machine
+https://radio.intergalactic.fm/3aac
+
+
 
 # https://robotstreamer.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBONDH.png" group-title="",Stronkbot
