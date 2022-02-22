@@ -7,8 +7,8 @@ plugin://plugin.video.youtube/play/?video_id=F109TZt3nRc
 #EXTINF:-1 ,Update  21/11/22
 0.0.0.0
 
-#EXTINF:-1 tvg-id="AB3.be" tvg-name="AB 3 BE" tvg-logo="https://i.imgur.com/uUsU7ho.jpg" group-title="généraliste",AB3 (720p)
-http://flusonic-4.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
+EXTINF:-1 tvg-id="AB3.be" tvg-name="AB 3 BE" tvg-logo="https://i.imgur.com/uUsU7ho.jpg" group-title="généraliste",AB3 (720p)
+
 
 # https://www.twitch.tv/afm_radiolive http://www.afm-radioamay.be/
 #EXTINF:-1 tvg-logo="http://www.afm-radioamay.be/_frame/extra-small-logo-final-couleur-min.png" group-title="Radio",AFM Radio (106.3 FM) (TWITCH) (C_N)
@@ -63,9 +63,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/MRYkNLF.png" group-title="",CLUB RTL
 
 # https://www.ln24.be/direct
 #EXTINF:-1 tvg-id="ln24.be" tvg-name="LN24 BE" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="actualités",LN24 (1080p)
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:-1 tvg-id="ln24.be" tvg-name="LN24 BE" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="actualités",LN24 (1080p)
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 
 # https://www.matele.be/direct
 #EXTINF:-1 tvg-id="MaTele.be" tvg-name="MA TELE BE" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="régionale",MA Télé (1080p)
@@ -109,8 +107,7 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCMoJ66iMT0uf60KIAnDEtXQ&live=1
 #EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ/live
-#EXTINF:-1 tvg-id="RadioPositive.be" tvg-name="Radio Positive BE" tvg-logo="https://i.imgur.com/m0qGqlR.jpg" group-title="Radio",Radio Positive (720p)
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCMoJ66iMT0uf60KIAnDEtXQ/live
+
 
 # https://www.twitch.tv/radioprimalive https://www.radioprima.be/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCDastT.png" group-title="Radio",Radio Prima (TWITCH) (C_N)
@@ -170,7 +167,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_u
 https://tvl-live.fl.freecaster.net/live/tvcom/tvcom.m3u8|Referer=https://tvcom.fcst.tv/player/embed/3426118?loc=fr_FR
 #EXTINF:-1 tvg-id="TVCom.be" tvg-name="TV Com BE" tvg-logo="https://i.imgur.com/W0NWUzv.png"group-title="régionale",TvCom (1080p)
 https://tvl-live.fl.freecaster.net/live/tvcom/tvcom-audio_fre=128000-video=5200000.m3u8|Referer=https://tvcom.fcst.tv/player/embed/3426118?loc=fr_FR
-#EXTINF:-1 tvg-id="TVCom.be" tvg-name="TV Com BE" tvg-logo="https://i.imgur.com/W0NWUzv.png"group-title="régionale",TvCom (720p)
+
 
 # https://www.tvlux.be/live
 #EXTINF:-1 tvg-id="TVLux.be" tvg-name="TV Lux BE" tvg-logo="https://i.imgur.com/WWzV4cG.jpg" group-title="régionale",TV Lux (Adaptative)
@@ -310,8 +307,7 @@ https://602ccc850c9bb.streamlock.net/Medya/smil:1280.smil/playlist.m3u8
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw/live
 #EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC_KlNwS1QQ9QMPRg9dGNHNw&live=1
-#EXTINF:-1 tvg-id="MedyaHaberTV.be" tvg-country="BE;TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mSXoqQo.png" group-title="News",Medya Haber TV
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw/live
+
 
 # https://mix-myday.be/
 #EXTINF:-1 tvg-id="Mix-Myday.be" tvg-name="Mix-Myday BE" tvg-logo="https://i.imgur.com/EpVEFYI.png" group-title="Radio",MixmydayTV
