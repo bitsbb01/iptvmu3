@@ -60,7 +60,7 @@ http://100komma7--di--nacs-ice-01--01--cdn.cast.addradio.de/100komma7/live/mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ekYPHR0.jpg" group-title="Radio",Radio Aktiv 106.5
 http://zeus.lrb.lu:8000/stream
 
-#EXTINF:-1 tvg-logo=""https://i.imgur.com/zpcfRrT.png group-title="Radio",Rádio Amizade 104.9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zpcfRrT.png" group-title="Radio",Rádio Amizade 104.9
 https://servidor29-2.brlogic.com:8030/
 
 # https://www.ara.lu/live/
