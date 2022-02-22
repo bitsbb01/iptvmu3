@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6Sv2Xv.png" group-title="",★★★★★★★★★★Luxembourg★★★★★★★★★★
+0.0.0.0
+
+# https://www.chd.lu/wps/portal/public/Accueil/Actualite/ChamberTV
+#EXTINF:-1 tvg-id="ChamberTV.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/YldMnap.jpg" group-title="",Chamber TV (1080p)
+https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
+
+# https://www.eldo.lu/radio/livestream
+#EXTINF:-1 tvg-id="Eldotv.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/4ntor8S.png" group-title="",EldoRadio (1080p)
+https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
+
+# https://play.rtl.lu/
+#EXTINF:-1 tvg-id="RTL.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="",RTL Télé Lëtzebuerg (1080p)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="",RTL Tele Letzeburg WebRadio (1080p)
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL2.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/CrDBHzL.png" group-title="",RTL 2 Tele Letzeburg (1080p)
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/dIEcLFY.png" group-title="",RTL Zwee (720p)
+https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8
+
+# https://www.tvlux.be/live	 
+#EXTINF:-1 tvg-id="Tvlux.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/mTJf3eF.png" group-title="",TVLUX (1080p)
+https://tvlux-live.freecaster.com/live/tvlux/tvlux.m3u8
+https://tvlux-live.freecaster.com/live/tvlux/tvlux-audio_fre=128000-video=5200000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6Sv2Xv.png" group-title="",★★★★★★★★★★Radio★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/raAHPGH.jpg" group-title="Radio",EldoRadio - Alternative
+https://eldo-streaming.eldo.lu/radio/eldoalt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5JztDuO.jpg" group-title="Radio",EldoRadio - Chill
+https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tHvhYC4.jpg" group-title="Radio",EldoRadio - Top 25
+https://eldo-streaming.eldo.lu/radio/eldotop25/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GJaDc5.jpg" group-title="Radio",EldoRadio - 80s
+https://eldo-streaming.eldo.lu/radio/eldo80s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CD5719z.jpg" group-title="Radio",EldoRadio - 90s
+https://eldo-streaming.eldo.lu/radio/eldo90s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9dq7WN.jpg" group-title="Radio",EldoRadio - 25 Joer Chartbreaker
+https://eldo-streaming.eldo.lu/radio/eldo25years/playlist.m3u8
+
+# https://www.frl.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1doLmkn.png" group-title="Radio",FRL
+https://listen.radioking.com/radio/66160/stream/103807
+
+# http://www.lessentielradio.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a1eg74m.png" group-title="Radio",L'essentiel Radio
+http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+
+# https://www.100komma7.lu/player
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBoQm8V.jpg" group-title="Radio",Radio 100,7
+http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+http://100komma7--di--nacs-ice-01--01--cdn.cast.addradio.de/100komma7/live/mp3
+
+# https://www.radioaktiv106-5.org/ http://www.surfmusic.de/radio-station/radio-aktiv-106-5,4435.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ekYPHR0.jpg" group-title="Radio",Radio Aktiv 106.5
+http://zeus.lrb.lu:8000/stream
+
+#EXTINF:-1 tvg-logo=""https://i.imgur.com/zpcfRrT.png group-title="Radio",Rádio Amizade 104.9
+https://servidor29-2.brlogic.com:8030/
+
+# https://www.ara.lu/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7QBsvk.jpg" group-title="Radio",Radio ARA 102.9
+https://stream.ara.lu/stream.mp3
+
+# http://www.radiolusitana.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOv3CCx.png" group-title="Radio",Rádio Lusitana
+https://ice.creacast.com/radio-latina-lu-mp3
+
+# https://www.radiopuls.lu/slusaj-uzivo/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qH7Lweh.jpg" group-title="Radio",Radio Puls
+http://82.145.43.92:8312/stream
+
+#EXTINF:-1 tvg-logo="https://stock.rtl.lu/rtl/900/play/livestream_rtl-radio.jpg" group-title="Radio",RTL Radio
+https://rtlradio-streaming.rtl.lu/radio/rtl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://stock.rtl.lu/rtl/900/play/livestream_rtl-radio.jpg" group-title="Radio",RTL Radio (OPT-2)
+https://shoutcast.rtl.lu/rtl
+#EXTINF:-1 tvg-logo="https://stock.rtl.lu/rtl/900/play/livestream_rtl-lx.jpg" group-title="Radio",RTL LX
+https://rtlradio-streaming.rtl.lu/radio/rtllx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://stock.rtl.lu/rtl/900/play/livestream_rtl-gold_v3.jpg" group-title="Radio",RTL Gold
+https://rtlradio-streaming.rtl.lu/radio/rtlgold/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6Sv2Xv.png" group-title="",★★★★★★★★★★WebCam★★★★★★★★★★
+0.0.0.0
+
+# https://www.cita.lu/fr/live-stream/a1.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43Bz5T.png" group-title="",A1 : Autoroute Luxembourg - Trèves
+https://live-edge.rtl.lu/cita/cita_a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43Bz5T.png" group-title="",A3 : Autoroute Luxembourg - Metz
+https://live-edge.rtl.lu/cita/cita_a3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43Bz5T.png" group-title="",A4 : Autoroute Luxembourg - Esch/Alzette
+https://live-edge.rtl.lu/cita/cita_a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43Bz5T.png" group-title="",A6 : Autoroute Luxembourg - Arlon
+https://live-edge.rtl.lu/cita/cita_a6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43Bz5T.png" group-title="",A7 : Autoroute du Nord
+https://live-edge.rtl.lu/cita/cita_a7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43Bz5T.png" group-title="",A13 : Autoroute de la Sarre
+https://live-edge.rtl.lu/cita/cita_a13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/934Yixm.png" group-title="",Berdorf - Aquatower
+http://88.207.200.192/axis-cgi/mjpg/video.cgi?resolution=640x480&dummy=1613633335706
+
+#EXTINF:-1 tvg-logo="" group-title="",Webcam-SIT-Bourscheid 
+http://cambou.selfhost.eu:10001/cgi-bin/faststream.jpg?stream=full&fps=1&rand=150556
+
+#EXTINF:-1 tvg-logo="" group-title="",1
+http://178.254.90.55/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER
+
+#EXTINF:-1 tvg-logo="" group-title="",2
+http://88.207.200.192/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="" group-title="",3
+http://213.135.244.47/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER
+
+#EXTINF:-1 tvg-logo="" group-title="",4
+http://213.135.240.172:8081/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER
+
+#EXTINF:-1 tvg-logo="" group-title="",5
+http://213.135.240.172:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER
