@@ -11,6 +11,10 @@ https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Eldotv.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/4ntor8S.png" group-title="",EldoRadio (1080p)
 https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/playlist.m3u8
 
+# http://www.radiomcj.com/index.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIDaFmv.png" group-title="",Radio MCJ
+https://srv1.video.xradios.com.br/joka/joka/playlist.m3u8
+
 # https://play.rtl.lu/
 #EXTINF:-1 tvg-id="RTL.lu" tvg-country="LU" tvg-language="Luxembourgish;French" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="",RTL Télé Lëtzebuerg (1080p)
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
@@ -29,6 +33,14 @@ https://tvlux-live.freecaster.com/live/tvlux/tvlux-audio_fre=128000-video=520000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6Sv2Xv.png" group-title="",★★★★★★★★★★Radio★★★★★★★★★★
 0.0.0.0
+
+# https://www.antenamaisradio.pt/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGV78tB.jpg" group-title="Radio",Antena Mais
+https://sp0.redeaudio.com/8084/stream
+
+# http://www.countryradio.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1cVZiZ8.png" group-title="Radio",Country Radio Gilsdorf 103.9
+http://5.35.250.101:8000/crgilsdorf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/raAHPGH.jpg" group-title="Radio",EldoRadio - Alternative
 https://eldo-streaming.eldo.lu/radio/eldoalt/playlist.m3u8
@@ -60,20 +72,61 @@ http://100komma7--di--nacs-ice-01--01--cdn.cast.addradio.de/100komma7/live/mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ekYPHR0.jpg" group-title="Radio",Radio Aktiv 106.5
 http://zeus.lrb.lu:8000/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zpcfRrT.png" group-title="Radio",Rádio Amizade 104.9
-https://servidor29-2.brlogic.com:8030/
-
 # https://www.ara.lu/live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7QBsvk.jpg" group-title="Radio",Radio ARA 102.9
 https://stream.ara.lu/stream.mp3
 
-# http://www.radiolusitana.lu/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KOv3CCx.png" group-title="Radio",Rádio Lusitana
+# http://www.radiocents.lu/player/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JlcjO3.png" group-title="Radio",Radio Cents Only The Hits!
+http://onairradio.dyndns.org:8000/live
+
+# https://www.radiodiddeleng.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aVU6oon.png" group-title="Radio",Radio DidDeleng 103.6
+https://listen.mixlr.com/efdaa53a385306337fd731fbadd69c85
+
+# https://www.radiodudelange.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UyIc2zY.png" group-title="Radio",Rádio Dudelange 103.6
+http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+
+# https://www.wort.lu/pt/latina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SujKjM6.png" group-title="Radio",Radio Latina
 https://ice.creacast.com/radio-latina-lu-mp3
+
+# https://radiolarochette.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuIFukF.jpg" group-title="Radio",Rádio Larochette
+https://servidor14-3.brlogic.com:8150/live
+
+# https://www.lnw.lu/index.php/radio-lnw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlHiYPA.png" group-title="Radio",Radio LNW
+mms://213.135.229.13:80/
+
+# https://www.lrb.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TYUXmXm.png" group-title="Radio",Radio LRB 103.9
+http://zeus.lrb.lu:8000/lrb.live
+
+# http://www.radiomcj.com/index.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIDaFmv.png" group-title="Radio",Radio MCJ
+http://207.180.239.211:9300/;
+
+# https://radios.lu/play/peiting/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQcu3Hs.jpg" group-title="Radio",Péiteng on Air
+http://stream.petangeonair.lu:9000/live
 
 # https://www.radiopuls.lu/slusaj-uzivo/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qH7Lweh.jpg" group-title="Radio",Radio Puls
 http://82.145.43.92:8312/stream
+
+# https://rbv.lu/wp/index.php/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNbhBjm.jpg" group-title="Radio",Radio RBV 107.0
+http://radio.rbv.lu:8002/;stream.mp3
+
+# https://www.rgl.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNi4s2I.jpg" group-title="Radio", Radio RGL 96.6
+https://streams.radio.co/sa631ff66a/listen
+
+# https://www.rom.lu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wjJITD.gif" group-title="Radio",Radio R.O.M. 101.5
+http://rs1.radiostreamer.com:8270/;
 
 #EXTINF:-1 tvg-logo="https://stock.rtl.lu/rtl/900/play/livestream_rtl-radio.jpg" group-title="Radio",RTL Radio
 https://rtlradio-streaming.rtl.lu/radio/rtl/playlist.m3u8
