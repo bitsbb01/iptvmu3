@@ -298,15 +298,6 @@ https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Pacific (1080p)
 https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kt0R7ua.jpg" group-title="Education",PBS MPT Baltimore MD (WMPB) (1088p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png" group-title="Education",PBS National East (1080p) [Geo-blocked]
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png" group-title="Education",PBS National West (1080p) [Geo-blocked]
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-
 # https://www.youtube.com/channel/UCngkVoq8aayyK6qX9JJitRg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mG74D1O.jpg" group-title="Kids",Peter Rabbit (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCngkVoq8aayyK6qX9JJitRg&live=1
@@ -336,6 +327,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275
 plugin://plugin.video.twitch/?mode=play&channel_name=randomcartoons
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkYcTWV.png" group-title="Kids",Random Cartoons (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/randomcartoons
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0nszMv8.jpg" group-title="Kids",RetroCrush (720p)
+https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
 
 # https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bb8h5uR.jpg" group-title="Kids",Robocar POLI TV (YT) (c_id)
