@@ -97,6 +97,9 @@ https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p14DjHo.png" group-title="Kids",Country Boy Kids (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/APKCZHg.jpg" group-title="Kids",Craction TV (1080p)
+https://palatinmedia-cractiontv-lg.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="Kids",Cute Zone (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
 
