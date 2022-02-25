@@ -435,6 +435,12 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5IueKF.png" group-title="Kids",TVO Kids (360p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+# https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEKFIQ2.jpg" group-title="Kids",TVOkids (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCGPPdIn67ZCLhhHABoQpNUw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEKFIQ2.jpg" group-title="Kids",TVOkids (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGPPdIn67ZCLhhHABoQpNUw/live
+
 # https://www.youtube.com/channel/UCvh1WRSaV66pRnkHMf0by_g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMchZxQ.jpg" group-title="Kids",TVO Kids PAW PATROL (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCvh1WRSaV66pRnkHMf0by_g&live=1
