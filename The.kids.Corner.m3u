@@ -1,0 +1,511 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner★★★★★★★★★★
+0.0.0.0
+
+# https://www.twitch.tv/acmeclassics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm3Zg6r.jpg" group-title="Kids",Acme Classics (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=acmeclassics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm3Zg6r.jpg" group-title="Kids",Acme Classics (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/acmeclassics
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RYiXW.jpg" group-title="Kids",AKILI KIDS TV Main (DM)
+plugin://plugin.video.dailymotion_com/?url=x7tfayd&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RYiXW.jpg" group-title="Kids",AKILI KIDS TV Main (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7tfayd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RYiXW.jpg" group-title="Kids",AKILI KIDS TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x7tcqmp&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RYiXW.jpg" group-title="Kids",AKILI KIDS TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7tcqmp
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="Kids",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7u2fN9.png" group-title="Kids",BabyFirst TV (1080p)
+https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYF8PAM.png" group-title="Kids",Baby Shark TV (EU)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1MGJg18.jpg" group-title="Kids",Baby Shark (1080p)
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" group-title="Kids",Baby Shark TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Kids",Battery Pop (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb00b4b6455d0007493b0b/colorLogoPNG.png" group-title="Kids",BBC Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/44/GBBA330002536_20210209T093447.png" group-title="Kids",Beano TV
+https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zo3ONr.jpg" group-title="Kids",Cartoons 4U
+https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
+
+# https://www.twitch.tv/cartoonblast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqlnqxV.png" group-title="Kids",Cartoon Blast (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=cartoonblast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqlnqxV.png" group-title="Kids",Cartoon Blast (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonblast
+
+# https://www.twitch.tv/cartoonchaos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQUjQVJ.jpg" group-title="Kids",Cartoon Chaos (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=cartoonchaos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQUjQVJ.jpg" group-title="Kids",Cartoon Chaos (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonchaos
+
+# https://www.twitch.tv/cartoondystopia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NrWusdS.png" group-title="Kids",Cartoon Dystopia (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=cartoondystopia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NrWusdS.png" group-title="Kids",Cartoon Dystopia (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoondystopia
+
+# https://www.twitch.tv/pdcagbfhiceoiladq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNuyV4x.png" group-title="Kids",Cartoon Power Hour (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=pdcagbfhiceoiladq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNuyV4x.png" group-title="Kids",Cartoon Power Hour (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/pdcagbfhiceoiladq
+
+# https://www.twitch.tv/cartoonrevolution2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvtM7RU.png" group-title="Kids",Cartoon Revolution 2 (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=cartoonrevolution2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvtM7RU.png" group-title="Kids",Cartoon Revolution 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonrevolution2
+
+# https://www.twitch.tv/cartoonrewind
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4WJpMd.png" group-title="Kids",Cartoon Rewind (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=cartoonrewind
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4WJpMd.png" group-title="Kids",Cartoon Rewind (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cartoonrewind
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="Kids",Classic Toons TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Kids",Cocoro (1080p)
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p14DjHo.png" group-title="Kids",Country Boy Kids (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="Kids",Cute Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+# https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHRESKu.jpg" group-title="Kids",DC Kids (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyu8StPfZWapR6rfW_JgqcA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHRESKu.jpg" group-title="Kids",DC Kids (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live
+
+# https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HS1dhjb.jpg" group-title="Kids",Disney Junior (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNcdbMyA59zE-Vk668bKWOg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HS1dhjb.jpg" group-title="Kids",Disney Junior (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg/live
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids",Dora TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV (720p)
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV (EU)
+https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uRess78.png" group-title="Kids",FGTV (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60faf9368c7ad900082bc9a8/colorLogoPNG.png" group-title="Kids",Find Out Why
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9368c7ad900082bc9a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# https://www.youtube.com/channel/UC0OpkQP5u0oUI0ejUzzEZYQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qplXFJt.jpg" group-title="Kids",Fire City Wheels (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0OpkQP5u0oUI0ejUzzEZYQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qplXFJt.jpg" group-title="Kids",Fire City Wheels (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0OpkQP5u0oUI0ejUzzEZYQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umyEio1.jpg" group-title="Kids",Fireman Sam (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids",Forever Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfJuMjV.png" group-title="Kids",Fun Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="Kids",Garfield and Friends
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CvbLApY.png" group-title="Kids",Giggle Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7IMycQ7.png" group-title="Kids",HappyKids (1080p)
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bivTSji.png" group-title="Kids",HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+# https://www.youtube.com/channel/UC26BfMVe6FdXKz67AX2DH4w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KNZp0FU.jpg" group-title="Kids",Heroes Cartoon - DINO CORE (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KNZp0FU.jpg" group-title="Kids",Heroes Cartoon - DINO CORE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC26BfMVe6FdXKz67AX2DH4w
+
+# https://www.youtube.com/channel/UCPM69g6gEGR7hd3hs2p89og
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viCbRMg.jpg" group-title="Kids",Hooplakidz Toons - Funny Cartoons (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPM69g6gEGR7hd3hs2p89og&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viCbRMg.jpg" group-title="Kids",Hooplakidz Toons - Funny Cartoons (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPM69g6gEGR7hd3hs2p89og/live
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Kids",Inspector Gadget
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ybvtlg.png" group-title="Kids",kabillion (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZKnHQK.png" group-title="Kids",Kartoon Circus (720p)
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/33/GBBB2000004BQ_20220209T012254.png" group-title="Kids",Ketchup TV
+https://aa8019675b784a8f86008d57eaefb016.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Ketchup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/kid-central.png" group-title="Kids",Kid Central (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://ginikousa.com/live.php?id=776
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5eKpd5.png" group-title="Kids",KidsClick (720p)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="Kids",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=JtSQxELECN8K14JJcFjX&content_series=5eea605574085f0040ddc797&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=JtSQxELECN8K14JJcFjX&custom_7=5eea605574085f0040ddc797
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="Kids",KidsFlix (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids",Kids Movie Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidspangtv_logo_dark.png" group-title="Kids",Kids Pang TV
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8?ads.wurl_channel=841&ads.wurl_name=KidsPangTV&ads.coppa=1&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=JtSQxELECN8K14JJcFjX&ads.plex_id=60d4eddfb2fdec002c141139&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge (720p)
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (EU)
+https://futuretoday-thelegochannel-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="Kids",LEGO Kids TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb01a24795a6000762fe83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxHOu8m.png" group-title="Kids",Lego Toons (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+# https://www.youtube.com/channel/UC6COuR-qwl4HJZWcA4ejLsQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z3WCWfO.jpg" group-title="Kids",Leo the Truck (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6COuR-qwl4HJZWcA4ejLsQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z3WCWfO.jpg" group-title="Kids",Leo the Truck (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6COuR-qwl4HJZWcA4ejLsQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqvWDU4.jpg" group-title="Kids",Lets Play Minecraft (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60cc68f4b2591a0007f0ac65/colorLogoPNG.png" group-title="Kids",Little Baby Bum
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc68f4b2591a0007f0ac65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids",Little Stars Universe
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# https://www.youtube.com/channel/UCH2cMLriCDcvb9Uq_2kf17A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHt1eP2.jpg" group-title="Kids",Loco Nuts - Cartoon (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCH2cMLriCDcvb9Uq_2kf17A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHt1eP2.jpg" group-title="Kids",Loco Nuts - Cartoon (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCH2cMLriCDcvb9Uq_2kf17A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQsAdB4.png" group-title="Kids",Master Builder (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/13/USBB11000015Q_20210323T125515.png" group-title="Kids",Moonbug
+https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/17YuOMj.png" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e44d0d659db600074cbb49/colorLogoPNG.png" group-title="Kids",Morphle
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e44d0d659db600074cbb49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# https://www.youtube.com/channel/UC9qgVkKRZUXcgHdf35Z-8dw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4sw8uG1.jpg" group-title="Kids",My Little Pony Official (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9qgVkKRZUXcgHdf35Z-8dw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4sw8uG1.jpg" group-title="Kids",My Little Pony Official (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9qgVkKRZUXcgHdf35Z-8dw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Kids",New Kid TV (1080p)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids",Nick Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# https://www.youtube.com/channel/UC74bcC7aGRNz4KoRpJsJNEw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VWBmgQU.jpg" group-title="Kids",Nickelodeon Cartoon Universe (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC74bcC7aGRNz4KoRpJsJNEw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VWBmgQU.jpg" group-title="Kids",Nickelodeon Cartoon Universe (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC74bcC7aGRNz4KoRpJsJNEw/live
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Kids",No Parents Allowed
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# https://www.youtube.com/channel/UCOlSkLGHRG-Xg_S4Tit9sWw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YshZM7K.jpg" group-title="Kids",Oddbods & FRIENDS (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOlSkLGHRG-Xg_S4Tit9sWw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YshZM7K.jpg" group-title="Kids",Oddbods & FRIENDS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOlSkLGHRG-Xg_S4Tit9sWw/live
+
+# https://www.youtube.com/channel/UCSVSJ1OCSv5ClFgKFTHIDew
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rT2kS1C.jpg" group-title="Kids",PAW Patrol Official & Friends (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSVSJ1OCSv5ClFgKFTHIDew&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rT2kS1C.jpg" group-title="Kids",PAW Patrol Official & Friends (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSVSJ1OCSv5ClFgKFTHIDew/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Hawaii (1080p)
+https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kt0R7ua.jpg" group-title="Education",PBS MPT Baltimore MD (WMPB) (1088p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png" group-title="Education",PBS National East (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png" group-title="Education",PBS National West (1080p) [Geo-blocked]
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+
+# https://www.youtube.com/channel/UCngkVoq8aayyK6qX9JJitRg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mG74D1O.jpg" group-title="Kids",Peter Rabbit (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCngkVoq8aayyK6qX9JJitRg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mG74D1O.jpg" group-title="Kids",Peter Rabbit (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngkVoq8aayyK6qX9JJitRg/live
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619b893895e225000729e67a/colorLogoPNG.png" group-title="Kids",Pluto TV Gaming Heroes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b893895e225000729e67a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="Kids",Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Entertainment",Pluto TV Retro Toons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USAJ3000009N9_20200819T020330.png" group-title="Kids",pocket.watch
+https://a44326c5f2c840b7b385a98ca9db9677.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PocketWatch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="Kids",Pocket Watch (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png" group-title="Kids",Rainbow Squad
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# https://www.twitch.tv/randomcartoons
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkYcTWV.png" group-title="Kids",Random Cartoons (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=randomcartoons
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkYcTWV.png" group-title="Kids",Random Cartoons (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/randomcartoons
+
+# https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bb8h5uR.jpg" group-title="Kids",Robocar POLI TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCr-rCvgg21KqfrnGopaQeGw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bb8h5uR.jpg" group-title="Kids",Robocar POLI TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw/live
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="Kids",Ryan and Friends
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb584b7613a31000789de5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d94a5451754e6a4298d1059/colorLogoPNG.png" group-title="Kids",Sabrina Teenage Witch
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# https://www.youtube.com/channel/UCoookXUzPciGrEZEXmh4Jjg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI3AUPn.jpg" group-title="Kids",Sesame Street (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoookXUzPciGrEZEXmh4Jjg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI3AUPn.jpg" group-title="Kids",Sesame Street (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoookXUzPciGrEZEXmh4Jjg/live
+
+# https://www.youtube.com/channel/UCMAGJ9Hhe_IjsiuYHrns8ag
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJpLlqP.jpg" group-title="Kids",Simon Super Rabbit (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMAGJ9Hhe_IjsiuYHrns8ag&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJpLlqP.jpg" group-title="Kids",Simon Super Rabbit (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMAGJ9Hhe_IjsiuYHrns8ag/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sv7WkKe.png" group-title="Kids",SKWAD (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+
+# https://www.youtube.com/channel/UCx27Pkk8plpiosF14qXq-VA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz8DEfc.jpg" group-title="Kids",SpongeBob SquarePants Official (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCx27Pkk8plpiosF14qXq-VA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz8DEfc.jpg" group-title="Kids",SpongeBob SquarePants Official (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCx27Pkk8plpiosF14qXq-VA/live
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/GBBA3300032S9_20201208T050212.png" group-title="Kids",SuperToons TV
+https://ba60d73b54dd41b68ae2a0601454ed52.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SuperToonsTV/playlist.m3u8
+
+# https://www.youtube.com/channel/UCL4xLe_SjcDccfpVeSRFGYQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kNyIPVu.jpg" group-title="Kids",Super Toons TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCL4xLe_SjcDccfpVeSRFGYQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kNyIPVu.jpg" group-title="Kids",Super Toons TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCL4xLe_SjcDccfpVeSRFGYQ/live
+
+# https://www.youtube.com/channel/UCwC-DciMGGk9AgpJ3hpreHw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXYhiue.jpg" group-title="Kids",Talking Tom Heroes (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwC-DciMGGk9AgpJ3hpreHw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXYhiue.jpg" group-title="Kids",Talking Tom Heroes (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwC-DciMGGk9AgpJ3hpreHw/live
+
+# https://www.youtube.com/channel/UC76coTu-NujCTqe5rPLWKNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJnQAmE.jpg" group-title="Kids",Tatty and Misifu (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC76coTu-NujCTqe5rPLWKNA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJnQAmE.jpg" group-title="Kids",Tatty and Misifu (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC76coTu-NujCTqe5rPLWKNA/live
+
+# https://www.youtube.com/channel/UC9CsZoTaHZqZjnNZv7v3T1g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25LJqec.jpg" group-title="Kids",Tayo the Little Bus (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9CsZoTaHZqZjnNZv7v3T1g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25LJqec.jpg" group-title="Kids",Tayo the Little Bus (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9CsZoTaHZqZjnNZv7v3T1g/live
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" group-title="Kids",Team Spirit
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="Kids",Teletubbies 1 (EU)
+https://dhx-teletubbies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="Kids",Teletubbies 2 (EU)
+https://dhx-teletubbies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="Kids",Teletubbies 3 (EU)
+https://dhx-teletubbies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="Kids",Teletubbies (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/90/GBBA33000286F_20210526T015713.png" group-title="Kids",Teletubbies
+https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2eqlIqa.jpg" group-title="",The Pet Collective International (EU)
+https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8
+
+# https://www.youtube.com/channel/UC0qrcKuayvbMtPj-WXNFylA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvnorIx.jpg" group-title="Kids",Thomas & Friends (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0qrcKuayvbMtPj-WXNFylA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvnorIx.jpg" group-title="Kids",Thomas & Friends (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0qrcKuayvbMtPj-WXNFylA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcUyOYd.jpg" group-title="Kids",Toon Krazy TV
+https://broadcast.mytvtogo.net/toonkrazy/toonkrazy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="Kids",Toon Goggles (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB1900004J9_20211117T100452.png" group-title="Kids",Toon Goggles
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/31/USBB3600001R6_20211117T100454.png" group-title="Kids",Toon Goggles Junior
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids",TOTALLY TURTLES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uRxkOD1.jpg" group-title="Kids",Toy Zone (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5IueKF.png" group-title="Kids",TVO Kids (360p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+# https://www.youtube.com/channel/UCvh1WRSaV66pRnkHMf0by_g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMchZxQ.jpg" group-title="Kids",TVO Kids PAW PATROL (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvh1WRSaV66pRnkHMf0by_g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMchZxQ.jpg" group-title="Kids",TVO Kids PAW PATROL (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvh1WRSaV66pRnkHMf0by_g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Kids",TVS Hi Tops (720p)
+https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Kids",TVS Pinball Network (480p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+
+# https://www.twitch.tv/vcr_toons1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLAturx.png" group-title="Kids",vcr_toons1 (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=vcr_toons1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLAturx.png" group-title="Kids",vcr_toons1 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_toons1
+
+# https://www.twitch.tv/vcr_toons2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FXMbROQ.png" group-title="Kids",vcr_toons2 (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=vcr_toons2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FXMbROQ.png" group-title="Kids",vcr_toons2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_toons2
+
+# https://www.twitch.tv/vigilantscout
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6B7aeB.png" group-title="Kids",VigilantScout (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=vigilantscout
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6B7aeB.png" group-title="Kids",VigilantScout (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vigilantscout
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="Kids",Watch It Kid (486p)
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+
+# https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GhRIJU3.jpg" group-title="Kids",WB Kids (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9trsD1jCTXXtN3xIOIU8gg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GhRIJU3.jpg" group-title="Kids",WB Kids (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
+
+# https://www.youtube.com/channel/UCWGVQIspqW2j9M3-qLQ0HDg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b7Z48lF.jpg" group-title="Kids",Wolfoo Channel (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWGVQIspqW2j9M3-qLQ0HDg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b7Z48lF.jpg" group-title="Kids",Wolfoo Channel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWGVQIspqW2j9M3-qLQ0HDg/live
+
+# https://www.youtube.com/channel/UC1g0ug0QX3XQN8peyrNVCTg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cMsxgMg.jpg" group-title="Kids",Wolf Pica Channel (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1g0ug0QX3XQN8peyrNVCTg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cMsxgMg.jpg" group-title="Kids",Wolf Pica Channel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1g0ug0QX3XQN8peyrNVCTg/live
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/63/GBBA3300030OP_20211208T025514.png" group-title="Kids",YAAAS!
+https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_YAAAS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RwxgFfb.jpg" group-title="Kids",Yo Gabba Gabba! (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+
+# https://www.youtube.com/channel/UC7Vp-b36J4o5Nl6s7hBPaNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eO9qeKz.jpg" group-title="Kids",Zip Zip (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7Vp-b36J4o5Nl6s7hBPaNA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eO9qeKz.jpg" group-title="Kids",Zip Zip (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7Vp-b36J4o5Nl6s7hBPaNA/live
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/16/USAK3508720A20200730102745.png" group-title="Kids",ZooMoo
+https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Zoomoo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
