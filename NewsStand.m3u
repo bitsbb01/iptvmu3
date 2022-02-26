@@ -378,9 +378,6 @@ plugin://plugin.video.twitch/?mode=play&channel_name=twit
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="News",TYT Network - USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/13797035/content/1625690096623_tv_ch_256X256_UK_News.png" group-title="News",U.K. News - UK
-https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-UKNews/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BA0asHd.png" group-title="News",USA Today - USA
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png" group-title="News",USA TODAY - USA (OPT-2)
@@ -391,9 +388,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 plugin://plugin.video.youtube/play/?channel_id=UC5O114-PQNYkurlTg6hekZw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
-
-#EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/13797033/content/1625681252387_tv_ch_256X256_World_News.png" group-title="News",Video Elephant World News
-https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-VidElephantWorldNews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OCYQsxN.png" group-title="News",WION News - India
 https://dqkpvuuvaruk2.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index_5.m3u8
