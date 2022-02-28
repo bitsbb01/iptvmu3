@@ -5,8 +5,8 @@
 0.0.0.0
 
 # https://tvpworld.com/51656539/our-stream  https://tvpworld.com/sess/TVPlayer2/embed.php?ID=51656539
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x6RIXC6.png" group-title="News",TVP World - Poland (UDP)
-https://rsdt-krk202-7.tvp.pl/token/video/live/51656539/20220226/2925311049/12489811-4e4f-4bc9-a80c-d8dd26ff83e4/master.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/x6RIXC6.png" group-title="News",TVP World - Poland (UDP)
+
 
 #####
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qVYHHG6.png" group-title="News",ABC News - Australia
@@ -45,6 +45,8 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lwj7v6G.png" group-title="News",Australia Channel - Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News - UK
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News - UK
 http://ott-cdn.ucom.am/s24/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 
@@ -211,6 +213,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFQgi22Ht00Cp
 # https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOMgZvF.png" group-title="News",JoyNews - Ghana (STK)
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7w7197
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huRbGhy.jpg" group-title="News",JoyNews - Ghana (STK) (OPT-2)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NS6EMEA.png" group-title="News",KTN News - Kenya (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg/live
@@ -220,6 +224,9 @@ https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 # https://www.youtube.com/channel/UCWCEYVwSqr7Epo6sSCfUgiw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGw31LG.jpg" group-title="News",Mirror Now  - India (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWCEYVwSqr7Epo6sSCfUgiw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhDo6U4.png" group-title="News",MITV - Myanmar International TV - Burma (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/7063221/events/9340397/
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1" group-title="News",MSNBC - USA
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
@@ -262,6 +269,9 @@ https://itvoign.multitvsolution.com/hls/newsx.m3u8
 https://newsy.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy - USA (OPT-2)
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy Top Stories - USA
+https://content.uplynk.com/channel/387c33ce09da4de699668c0c7d1244a8.m3u8
 
 # https://www.youtube.com/channel/UC670qPRftLGmm29kZYSDCig
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLShJ0pBiLjkEtFBGjLfaX7T0o8s7DkQD6Cs2VRI=s88-c-k-c0x00ffffff-no-rj" group-title="",News Update (STK)
@@ -409,126 +419,126 @@ https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8We8lU.jpg" group-title="",★★★★★★★★★★Business News - Stock Market - Crypto★★★★★★★★★★
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_daTfgc4u3k
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="",30A Investment Pitch
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="Business",30A Investment Pitch
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="",ausbiz TV - Australia
+#EXTINF:-1 tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="Business",ausbiz TV - Australia
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="",Bloomberg Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="Business",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="",Bloomberg Asia Event
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="Business",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/90vvgua.jpg" group-title="",Bloomberg Australia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90vvgua.jpg" group-title="Business",Bloomberg Australia
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="",Bloomberg Europe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="Business",Bloomberg Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="",Bloomberg Europe Event
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="Business",Bloomberg Europe Event
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noNHhnL.png" group-title="",Bloomberg Politics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noNHhnL.png" group-title="Business",Bloomberg Politics
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L1yvuKi.jpg" group-title="",Bloomberg QuickTake Explained (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1yvuKi.jpg" group-title="Business",Bloomberg QuickTake Explained (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCU1Pp4a-TwbrB40ja-4JG_Q/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NH91EXs.jpg" group-title="",Bloomberg QuickTake Global Financial News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NH91EXs.jpg" group-title="Business",Bloomberg QuickTake Global Financial News
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnRKh7h.jpg" group-title="",Bloomberg QuickTake Now (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnRKh7h.jpg" group-title="Business",Bloomberg QuickTake Now (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1ddbaY.png" group-title="",Bloomberg TV+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1ddbaY.png" group-title="Business",Bloomberg TV+
 https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o1ddbaY.png" group-title="",Bloomberg TV+ (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1ddbaY.png" group-title="Business",Bloomberg TV+ (OPT-2)
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xEDkIBr.png" group-title="",Bloomberg US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEDkIBr.png" group-title="Business",Bloomberg US
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xEDkIBr.png" group-title="",Bloomberg US Event
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEDkIBr.png" group-title="Business",Bloomberg US Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgxvEex.jpg" group-title="",Business Rockstars
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CgxvEex.jpg" group-title="Business",Business Rockstars
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbYGN3Q.jpg" group-title="",CoinGecko Directory (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbYGN3Q.jpg" group-title="Business",CoinGecko Directory (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cLrUK6mgSGWkW4G5_XvHQ/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OH1AmU9.jpg" group-title="",Crypto Miki : Ethereum (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OH1AmU9.jpg" group-title="Business",Crypto Miki : Ethereum (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_i68tipo4IpVBsS_x6eDMQ/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pp0mZtK.png" group-title="",Decentric Media
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pp0mZtK.png" group-title="Business",Decentric Media
 https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rl4nROp.png" group-title="",DeFinance
 https://decentric-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f7656f4095fd738e74dbc53_defiance-live/b67fe0d4-a8eb-45c9-b750-c58119ae477e/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KbDOQsS.png" group-title="",ET Now - India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KbDOQsS.png" group-title="Business",ET Now - India
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LrGBkOh.png" group-title="",Fat Pig Signals Trading Live : Bitcoin Live Algorithm and Cryptocurrency (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LrGBkOh.png" group-title="Business",Fat Pig Signals Trading Live : Bitcoin Live Algorithm and Cryptocurrency (STK)
 plugin://plugin.video.sendtokodi/https://www.youtube.com/channel/UCqSyTmrtDHEkOJca6h92hoA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="Business",Bitcoin / Cryptocurrency Live
 https://tx.flv.nimo.tv/live/su2449511729040r40cfc3650e424dbfdd6264bad6a79200.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (TWITCH)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="Business",Bitcoin / Cryptocurrency Live (TWITCH)
 plugin://plugin.video.twitch/?channel_id=192354183&amp;mode=play
 # https://www.youtube.com/channel/UCqSyTmrtDHEkOJca6h92hoA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="",Bitcoin / Cryptocurrency Live (YT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmgGbz4.png" group-title="Business",Bitcoin / Cryptocurrency Live (YT)
 plugin://plugin.video.youtube/play/?video_id=7jH535uXB74
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Live Trading DOW (US30) & S&P (US500) Signals (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="Business",ForexLia : Live Trading DOW (US30) & S&P (US500) Signals (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC53vvfdlTgtACVRbusR1u7Q/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : EURUSD & GBPUSD M5 Scalping System Live Forex Signals 24/7 (UDP) (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="Business",ForexLia : EURUSD & GBPUSD M5 Scalping System Live Forex Signals 24/7 (UDP) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=cOsxqcp1lSk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Gold Live Signals - XAUUSD TIME FRAME 5 Minute M5 (UDP) (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="Business",ForexLia : Gold Live Signals - XAUUSD TIME FRAME 5 Minute M5 (UDP) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=63ujCFWrC8k
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Live Bitcoin - Ethereum 24/7 Signals - 5 Minute Candles (UDP) (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="Business",ForexLia : Live Bitcoin - Ethereum 24/7 Signals - 5 Minute Candles (UDP) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=fijq8NOvb7M
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="",ForexLia : Gold XAUUSD Intraday Live Signals - XAU/USD M1 H1 Forex Scalping Signals (UDP) (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaAhZ6.jpg" group-title="Business",ForexLia : Gold XAUUSD Intraday Live Signals - XAU/USD M1 H1 Forex Scalping Signals (UDP) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=bifTKjKwMWE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="",Forex Signals : Gold Market - XAUUSD - DXY (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="Business",Forex Signals : Gold Market - XAUUSD - DXY (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUzLC52WcYBRNiw7yvtai8Q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="",Forex Signals : XAUUSD TIMEFRAMES M5-M15-H1 TREND & POWER INDICATORS (STK) (UDP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="Business",Forex Signals : XAUUSD TIMEFRAMES M5-M15-H1 TREND & POWER INDICATORS (STK) (UDP)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=3TRNoUxnY_4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="",Forex Signals : GOLD SPOT MARKET FORECAST CRONOS SIGNALS (STK) (UDP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ij8yOzy.jpg" group-title="Business",Forex Signals : GOLD SPOT MARKET FORECAST CRONOS SIGNALS (STK) (UDP)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=emP2_42yODA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ptMFe1V.jpg" group-title="",Global Market Coverage (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ptMFe1V.jpg" group-title="Business",Global Market Coverage (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCphlOCvEn2FbNjTMutlHEGg/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tu8IS7F.jpg" group-title="",Himurafx Official (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tu8IS7F.jpg" group-title="Business",Himurafx Official (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7O2MfJaDVPUXA7Saej2nBg/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgEKj6t.jpg" group-title="",Kalkine TV : Business News - Australia (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jgEKj6t.jpg" group-title="Business",Kalkine TV : Business News - Australia (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCqqvuhldqUbRrvfek50N9w/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8XNVkrJ.png" group-title="",NDTV Profit - India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8XNVkrJ.png" group-title="Business",NDTV Profit - India
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="",Real Vision - USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="Business",Real Vision - USA
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itAmJ1w.jpg" group-title="",Secure Trading Institute (STI) (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itAmJ1w.jpg" group-title="Business",Secure Trading Institute (STI) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9voNLQa-0dTZFRgK8O3fMw/live
 
-#EXTINF:-1 tvg-logo="https://d.stockcharts.com/img/scc-logo-light.png" group-title="",StockCharts TV
+#EXTINF:-1 tvg-logo="https://d.stockcharts.com/img/scc-logo-light.png" group-title="Business",StockCharts TV
 https://iptv-all.lanesh4d0w.codes/united-states/stockchartstv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwMBiKJ.png" group-title="",TastyTrade - USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwMBiKJ.png" group-title="Business",TastyTrade - USA
 https://bcovlive-a.akamaihd.net/r85c9d6fdf4a549089fcbd16f45b4cf3a/us-west-2/6057994532001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="",TD Ameritrade
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="Business",TD Ameritrade
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="",TD Ameritrade (STK) (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ay5jSQn.png" group-title="Business",TD Ameritrade (STK) (OPT-2)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqoSrYgusd8ZddtMoWhjHYA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Oq3Le9Q.jpg" group-title="",TFNN LIVE - Stocks and Options Trading News and Education (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oq3Le9Q.jpg" group-title="Business",TFNN LIVE - Stocks and Options Trading News and Education (STK)
 plugin://plugin.video.sendtokodi/https://www.youtube.com/channel/UCq7gWVoeUqWZhPjiel9bAdg/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wfuklsn.png" group-title="",Yahoo! Finance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfuklsn.png" group-title="Business",Yahoo! Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZJ1hp4.png" group-title="",Yahoo! Finance (OPT-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZJ1hp4.png" group-title="Business",Yahoo! Finance (OPT-2)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4k3Iiq.jpg" group-title="",★★★★★★★★★★Earth Monitoring★★★★★★★★★★
