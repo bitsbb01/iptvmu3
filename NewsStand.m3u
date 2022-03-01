@@ -421,6 +421,9 @@ https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/abqLvJN.png" group-title="News",24 Horas - Spain
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BfogfFj.jpg" group-title="News",24 TV (STK) - Turkey
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCN7VYCsI4Lx1-J4_BtjoWUA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZYovWB.jpg" group-title="News",92 News - Pakistan
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
@@ -442,6 +445,9 @@ https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J3y5nBP.jpg" group-title="News",Al Yaum Tv - United Arab Emirate
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdpM0Q2.png" group-title="News",Akit TV - Turkey
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1tBORF5.png" group-title="",Az News TV - Azerbaijan
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 
@@ -460,11 +466,14 @@ http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcuKBx4.jpg" group-title="News",Channel 2 News - Israel
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKiZnUH.jpg" group-title="News",CNN TÜRK (STK) - Turkey
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live
+
 # https://ct24.ceskatelevize.cz/#live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NGinZQ4.png" group-title="",CT24 - Czech Republic (SLT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NGinZQ4.png" group-title="",CT24 (SLT) - Czech Republic
 plugin://plugin.video.streamlink-tester/?action=play&url=https://ivys-vst08-5.o2tv.cz/atip/a505ced39b83afa52ba6216218af5a12/1646100858645/2402-tv-pc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wsdq2eP.png" group-title="News",DVB - Norway (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wsdq2eP.png" group-title="News",DVB (STK) - Norway
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x852wwl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzL8p83.jpg" group-title="News",Di Tv - Sweden
@@ -473,8 +482,17 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHicWug.jpg" group-title="News",Dunya News - Pakistan
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJW7a6G.png" group-title="News",Eesti Televisioon (ETV) - Estonia
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnlEXi3.png" group-title="News",El Toro TV - Spain
+https://fake-live-eltorotv.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLxa2e3.jpg" group-title="News",Expressen TV - Sweden
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIw38Nh.png" group-title="Gen;News",Gledaj TVCG SAT - Montenegro
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiAOVCz.png" group-title="News",GKSat - Kurdistan
 https://live.bradosti.net/live/GaliKurdistan/index.m3u8
@@ -488,11 +506,20 @@ https://stream.hirtv.hu/delayed.php.m3u8|Referer=https://hirtv.hu/?block=Video_H
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkTgxUY.png" group-title="News",KRT Kirkuk - kurdistan
 https://5ab29cc78f681.streamlock.net/IHTV/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFLy9Yb.png" group-title="News",Kurir TV - Serbia
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUITVpj.jpg" group-title="News",Libertad Digital TV (STK) - Spain
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/xnm032
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyfbWpk.png" group-title="News",Libya 218 News
 https://218tv.akamaized.net/615c6485275a8057847e0026/live_3982873027cc11ec86950df2beca5773/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxfGh6U.png" group-title="News",M24 TV - Morocco
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SWWPWaB.png" group-title="News",Moskva 24 (STK) - Russia
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIme7og-uTpdRXRgm0zzA2A/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5EiuyP.jpg" group-title="News",Nabaa TV - Lebanon
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
@@ -500,16 +527,70 @@ http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHrjz8U.jpg" group-title="News",News 24 - Albania
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVBAFVW.png" group-title="News",Nova24TV (STK) - Slovenia
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjYCgkpX1eQCTne99oT63yA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7aUgv6.jpg" group-title="News",OE24.TV (STK) - Austria
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyQpfuhftLvrmjxgEzVH78Q/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIqHKFj.jpg" group-title="News",Palitra News - Georgia
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vAu3Uo.png" group-title="News",Pro TV - Romania
+https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/fWCZmLtPnkchrDUleISFOQ==,1646116846/channels/cme-ro-voyo-news/playlist-live_lq.m3u8|Referer=https://media.cms.protvplus.ro/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqxyV4F.jpg" group-title="News",Publika TV - Moldova
+https://livebeta.publika.md/LIVE/P/6810.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TsX9Zhr.png" group-title="News",Rai New 24 - Italy
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jJeaBW.png" group-title="News",RBC (РБК) (STK) - Russia
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWAK-dRtTEjnQnD96L6UMsQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugEWrUm.png" group-title="News",Realitatea - Romania
+https://edge.realitatea.net/livestream/new/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uBfv2s4.png" group-title="News",ReTV - Latvia
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VAZp6OQ.jpg" group-title="News",RLIVE TV - Moldova
+https://hls.rlive.md/chanel/tv/rlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSEHZ27.jpg" group-title="News",România TV (RTV) - Romania
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8|Referer=https://www.romaniatv.net/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZKYBqn.jpg" group-title="News",RTP3 - Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQPgiQ3.jpg" group-title="News",RTVS - Slovakia
+https://n5.stv.livebox.sk/stv-tv/053187fcd22eb2f51c849b0b671aa737/stv3.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcBlHJu.png" group-title="News",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Oq8jmBS.png" group-title="",VG TV - Norway
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvsSsGv.jpg" group-title="News",Russia 24 (Россия 24) (STK) - Russia
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_IEcnNeHc_bwd92Ber-lew/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1teKdIf.png" group-title="News",TA3 - Slovakia
+https://n16.stv.livebox.sk/ta3/9364a3274cd55419abe2ae00bdc7ec5d/1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bt2F76S.jpg" group-title="News",Tagesschau24 - Germany
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mw4vJcb.jpg" group-title="News",Telewizja Republika - Poland
+https://ec28-waw1.waw2.cache.orange.pl/jupiter/o2-cl7/ssl/live/tvrepublika/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLrzzJP.jpg" group-title="News",Telewizja wPolsce (STK) - Poland
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGVuEOW.png" group-title="News",TGRT Haber (STK) - Turkey
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzgrZ-CndOoylh2_e72nSBQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pK9bYr6.jpg" group-title="News",TRT Haber (STK) - Turkey
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBgTP2LOFVPmq15W-RH-WXA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oq8jmBS.png" group-title="News",VG TV - Norway
 https://vgtvlive-lh.akamaized.net/hls/live/2014162/vgtv/En3q3HhsJQ3174hYTAeoC/master7000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BFRydiF.png" group-title="News",Voa - Iran
@@ -520,6 +601,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I70kVxd.jpg" group-title="News",Україна 24 - Ukraine
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+
+
+##########
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8We8lU.jpg" group-title="",★★★★★★★★★★Business News - Stock Market - Crypto★★★★★★★★★★
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_daTfgc4u3k
