@@ -418,6 +418,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYku
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IxBJ2bX.png" group-title="News",Washington Post (STK) - USA (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHd62-u_v4DvJ8TCFtpi4GA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OCYQsxN.png" group-title="News",WION News - India
 https://dqkpvuuvaruk2.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index_5.m3u8
 
@@ -495,6 +498,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGCZAYq5Xxojl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfsRxBk.jpg" group-title="News",Apostrophe TV (Апостроф TV)  (STK) - Ukraine
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0lnIB2qcArjFJPtq79WGZA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54ceRlS.jpg" group-title="News",Argus News (STK) - India
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwBK7Cdk0wq8rCjxcvaoHzg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ryZXGV7.jpg" group-title="News",ARY News (STK) - Pakistan
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg/live
