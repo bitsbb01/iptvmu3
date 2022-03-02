@@ -403,7 +403,7 @@ plugin://plugin.video.twitch/?mode=play&channel_name=twit
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLhbuCn.png" group-title="News",UA News eng (STK) - Ukraine
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCt0FfhbnvnlPnJntjYwRUbw/live
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOmfcmDrWs7iJrXx7V5Cnwg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BA0asHd.png" group-title="News",USA Today - USA
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
