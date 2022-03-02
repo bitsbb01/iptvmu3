@@ -415,6 +415,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 plugin://plugin.video.youtube/play/?channel_id=UC5O114-PQNYkurlTg6hekZw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OCYQsxN.png" group-title="News",WION News - India
 https://dqkpvuuvaruk2.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index_5.m3u8
@@ -427,13 +429,13 @@ https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 
 # https://video.gjirafa.com/drejteperdrejt
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gfxdJvY.png" group-title="",T7 (Gazeta Express Official) - Kosovo (UDP)
-https://ub1doy938d.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/yzg0yt.m3u8
+https://ub1doy938d.gjirafa.net/live/6rgklscjRSjkIb3cFcFiyCmOrcQ7AWeB/yzg0yt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7cNG1Yf.jpg" group-title="",A2 CNN - Kosovo (UDP)
-https://ub1doy938d.gjirafa.net/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y11g0y.m3u8
+https://ub1doy938d.gjirafa.net/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/y1q1zt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQWi079.jpg" group-title="",Arta News - Kosovo (UDP)
-https://ub1doy938d.gjirafa.net/live/oEZi1otQqIHglY0tzZidyCPWhxrS5WgO/yt1q1x480/index.m3u8
+https://ub1doy938d.gjirafa.net/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/yt1q1x.m3u8
 
 #####
 
@@ -686,6 +688,51 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIme7og-uTpdR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5EiuyP.jpg" group-title="News",Nabaa TV - Lebanon
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q5MssTN.png" group-title="News",News 18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yn7Lff0.jpg" group-title="News",News 18 Bengali
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f5YfKav.png" group-title="News",News 18 Chhattisgarh
+https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5gRXRY.jpg" group-title="News",News 18 Gujarati
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sdg32Tr.jpg" group-title="News",News 18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZaDf4y.jpg" group-title="News",News 18 Jharkhand
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xOT5dmx.jpg" group-title="News",News 18 Kannada
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8?rebase=on&sd=10
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMo6JnI.jpg" group-title="News",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiKJ1Je.jpg" group-title="News",News 18 Malayalam
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sp2WCv.jpg" group-title="News",News 18 Odia
+https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3IHPj95.jpg" group-title="News",News 18 Punjab
+https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/662E1ve.jpg" group-title="News",News 18 Rajasthan
+https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWjDGu.jpg" group-title="News",News 18 Tamil
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HlDNrZJ.jpg" group-title="News",News 18 Urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMjftEG.jpg" group-title="News",News 18 Uttarakhand
+https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_5_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EHrjz8U.jpg" group-title="News",News 24 - Albania
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
@@ -811,6 +858,9 @@ https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mWey4hp.png" group-title="News",UA: Pershyi (UA:Перший) (STK) - Ukraine
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPY6gj8G7dqwPxg9KwHrj5Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bW0hYLT.png" group-title="News",UNews Press Agency - Lebanon
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oq8jmBS.png" group-title="News",VG TV - Norway
 https://vgtvlive-lh.akamaized.net/hls/live/2014162/vgtv/En3q3HhsJQ3174hYTAeoC/master7000.m3u8
