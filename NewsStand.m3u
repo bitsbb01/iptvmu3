@@ -509,6 +509,12 @@ https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbT0zBS.jpg" group-title="News",Band Jornalismo (STK) - Brasil
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTkqq7J.jpg" group-title="News",BBC News AR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCelk6aHijZq-GJBBB9YpReA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTkqq7J.jpg" group-title="News",BBC News Persian  (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHZk9MrT3DGWmVqdsj5y0EA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1rK5Tg.png" group-title="News",Belarus 24 - Belarus
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
@@ -549,6 +555,12 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZHicWug.jpg" group-title="News",Dunya News - Pakistan
 https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Il7qMIg.jpg" group-title="News",DW AR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC30ditU5JI16o5NbFsHde_Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Il7qMIg.jpg" group-title="News",DW ES (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dJW7a6G.png" group-title="News",Eesti Televisioon (ETV) - Estonia
 https://sb.err.ee/live/etv.m3u8
 
@@ -557,6 +569,37 @@ https://fake-live-eltorotv.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLxa2e3.jpg" group-title="News",Expressen TV - Sweden
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews Albania (AL) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews Deutsch (DE)
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews Deutsch (DE) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCACdxU3VrJIJc7ujxtHWs1w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews Italiano (IT) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1mX9vuLOYf8fhaXS_KcDRg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews Italiano (IT)
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",euronews español (ES) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",euronews español (ES)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews português (PT) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUmEPYxmnyQDeRUcFkslmQw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews português (PT)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews русски (RU) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews ελληνικά (GR) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8HJZNfDPoySgW9DN3YGNaA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews magyarul (HU) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Rakuten Euronews (FR)
+https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews English (UK)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews ჯორჯია (GE)
+https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnzkjv6.png" group-title="News",Factor tv (STK) - Armenia
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA/live
@@ -569,6 +612,13 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClIfopQZlkkSp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVBX3oI.jpg" group-title="News",Formula News (STK) - Georgia
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkG71vWzNWVt7RTXTYy-oow/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="News",France 24 AR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdTyuXgmJkG_O8_75eqej-w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iuk391R.png" group-title="News",FRANCE 24 ES (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naaYVig.png" group-title="News",France 24 FR (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIw38Nh.png" group-title="Gen;News",Gledaj TVCG SAT - Montenegro
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
@@ -749,6 +799,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj6PcyLvpnIRT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK9bYr6.jpg" group-title="News",TRT Haber (STK) - Turkey
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBgTP2LOFVPmq15W-RH-WXA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WdvoAG1.jpg" group-title="News",TV100 (STK) - Turkey
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCndsdUW_oPLqpQJY9J8oIRg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tN4AFvs.jpg" group-title="News",TVBS NEWS (STK) - Taiwan
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live
