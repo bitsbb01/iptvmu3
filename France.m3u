@@ -5,6 +5,13 @@
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Pays/FRA.png?raw=true",★★★★★★★★★★[COLOR blue]France[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
+
+# https://www.sqooltv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAwlbwi.png" group-title="",SQOOL TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaEqMbRYYOmI3WrALMhxuIg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAwlbwi.png" group-title="",SQOOL TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaEqMbRYYOmI3WrALMhxuIg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NcOgln.png" group-title="Radio",Lucas LEMPEREUR
 plugin://plugin.video.dailymotion_com/?url=x7yrzoq&mode=playLiveVideo
 
