@@ -142,6 +142,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids",Forever Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58oqAbE.jpg" group-title="Kids",Fugget About It (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyycMsGv1HlY4SQoOBB8xdg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SfJuMjV.png" group-title="Kids",Fun Zone (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
 
@@ -512,3 +515,86 @@ https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#######
+
+# https://www.youtube.com/c/KawaiiGames
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S775l7q.jpg" group-title="Gaming",24/7 Sega Classic Games TV [Genesis/Mega Drive/Saturn/Master System/Game Gear](STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=8Ni6QgAEDYc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNBBbN4.jpg" group-title="Gaming",24/7 Original Playstation TV [PS1 Classic Games](STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=VK_UTNi0Jyk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4lOAv7.jpg" group-title="Gaming",24/7 Lara Croft: Tomb Raider TV [TR1,TR2,TR3,TRLR,TRC,TRAOD,TRL,TRA,TRU] 25th ANNIVERSARY (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=3nqsiB97Vso
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDjysLW.jpg" group-title="Gaming",24/7 Classic Arcade Video Games TV [Best of 80' & 90' & 00'] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=a3yOOMEUBAA
+
+# https://www.youtube.com/c/luanprestes1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfiYbuk.jpg" group-title="Gaming",24/7 Nintendo GameCube TV - [CLASSIC NGC GAMES] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=jhxV0lQwsYI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbWh2Fo.jpg" group-title="Gaming",24/7 Nintendo Wii TV - [CLASSIC Wii GAMES] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=QZ5eWoQNA8E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0tx4ju5.jpg" group-title="Gaming",24/7 Nintendo 64 TV - [CLASSIC N64 GAMES] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=Uhcue4G2YfA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0BpxGd.jpg" group-title="Gaming",24/7 Nintendo TV - [CLASSIC NINTENDO GAMES] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=d2WLaHx4Rew
+
+# https://www.youtube.com/channel/UCfaGAL4sfmpOFEFjQeteJQA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WqtGq5.jpg" group-title="Gaming",24/7 - Playstation 1 TV - [CLASSIC PS1 GAMES] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=IIvEm5-EQ8s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1CUHhj.jpg" group-title="Gaming",24/7 RETRO GAMES 【PLAYSTATION TV】 PS1/PSX Classic Games by Weiss Network TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=dOe2skfZrNk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0qurao.jpg" group-title="Gaming",24/7 FPS GAMES 【CALL OF DUTY TV】 COD CAMPAIGNS by Weiss Network TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=x2HY1OuF4JM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GLUVDgG.jpg" group-title="Gaming",24/7 HORROR GAMES 【CLASSIC HORROR TV】 Silent Hill/Fatal Frame and more! by Weiss Network TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=YEHgez4W_I8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/peJHztg.jpg" group-title="Gaming",24/7 ACTION RPG 【METAL GEAR TV】 1-2-3-4-GZ-TTS-PO-PW-REV by Weiss Network TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_1U-BiYIc1k
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfuIKqN.jpg" group-title="Gaming",24/7 JRPG GAMES 【FINAL FANTASY TV】 1-2-3-4-7-8-9-10-X2-12-13 by Weiss Network TV  (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=DCgrKNRG3zg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIKhh9R.jpg" group-title="Gaming",24/7 GRAND THEFT AUTO TV (GTA Classics)  3-4-5-VC-SA-LCS-VCS by Weiss Network TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=Kjc7Ma8LicU
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZebFKa.jpg" group-title="Gaming",24/7 RESIDENT EVIL TV  RE0-1-2-3-4-5-6-7-8-CVX-REV-OBK.... by Weiss Network TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=GpaTE6Kg9Ow
+
+# https://www.youtube.com/channel/UCzV3Xt_qXi8KaaBR58q-qFg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fXinpW.jpg" group-title="Gaming",24/7 Final Fantasy Community Stream (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=FaXe7LL5VWU
+
+# https://www.youtube.com/channel/UCyAZpSXoWCYE_FFHs-juRcw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQpgVLU.jpg" group-title="Gaming;Radio",Video Game Radio [24/7] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=djCIvFdG5Po
+
+# https://www.youtube.com/channel/UCL5FK77d1MCeTtqEQMmmAnw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c27SxEp.jpg" group-title="Gaming;Radio",NINTENDO RADIO [24/7 Nintendo Music Live Stream] (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=MBA_x8kP-yo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9mzjGX.jpg" group-title="Gaming;Radio",Best of 8-bit and 16-bit Video Game Music | VGM Radio 24/7 | Rhythm and Pixels (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=dxKR3-gsHNM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jr4YIzq.png" group-title="Gaming;Radio",The SID Station
+http://ams1.reliastream.com:8054/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxN2uE0.png" group-title="Gaming;Radio",SLAY Radio - 128kbps, relay1 [shoutcast - elpost]
+http://relay1.slayradio.org:8000/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxN2uE0.png" group-title="Gaming;Radio",SLAY Radio - 128kbps, relay2 [shoutcast - kork]
+http://relay2.slayradio.org:8000/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxN2uE0.png" group-title="Gaming;Radio",SLAY Radio - 128kbps, relay3 [shoutcast - farsan]
+http://relay3.slayradio.org:8000/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkCYrVK.jpg" group-title="Gaming;Radio",c64.com
+http://www.c64.com:8000
