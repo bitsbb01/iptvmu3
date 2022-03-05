@@ -24,6 +24,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCshCsg1YVKli8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lp6PoH6.jpg" group-title="News",Al Jazeera - Qatar
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lp6PoH6.jpg" group-title="News",Al Jazeera - Qatar (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="News",Americas Voice - USA
 https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
@@ -55,10 +57,8 @@ http://ott-cdn.ucom.am/s24/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone
 https://bbc.newscdn.org/vcwGGW1UplYsEbWdyolrLg==,1634613178/LS-ATL-54548-6/index.m3u8
 
 # https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="News",BBC World Service (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCQXHTFnQYFTqN0MqmNh9EIA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kyf8TvX.png" group-title="News",BBC World Service (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQXHTFnQYFTqN0MqmNh9EIA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqWo1w0.png" group-title="News",BeritaSatu - Indonesia
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
@@ -252,8 +252,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 # https://newscentral.africa/watch-live/ https://www.youtube.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="News",News Central TV - Africa
 https://helga.iptv2022.com/news_central/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="News",News Central TV - Africa (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UCPLKy4Ypb4mfblbjJI8Aljw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFJFglA.jpg" group-title="News",News Central TV - Africa (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPLKy4Ypb4mfblbjJI8Aljw/live
 
@@ -411,8 +409,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatoday/CDN/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eUhMzubzCLEWpUricwcK&channelId=60df3e18541143002f3b8607
 
 # https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=UC5O114-PQNYkurlTg6hekZw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d6b57P8.png" group-title="News",United Nations
@@ -481,8 +477,20 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJRC73k.png" group-title="News",Al Alam News Network - Iran
 https://live2.alalam.ir/alalam.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PcMSPPd.jpg" group-title="News",Al Jazeera Balkans
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic - Qatar
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera Arabic (STK)  - Qatar
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcMSPPd.jpg" group-title="News",Al Jazeera Balkans  - Qatar
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PcMSPPd.jpg" group-title="News",Al Jazeera Balkans (STK)  - Qatar
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_yXEx3-Gk5drg9qhPzSQSg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher - Qatar
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News",Al Jazeera Mubasher (STK)  - Qatar
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCv1Pd24oPErw5S7zJWltnQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbNwMff.jpg" group-title="News",Al Rafidain - Irak
 https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
