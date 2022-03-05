@@ -162,9 +162,11 @@ https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 # https://home.frankspeech.com/live-stream/lindell-tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eq0ufqD.png" group-title="News",Frank Speech - Lindell TV - USA
-https://cdn3.wowza.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/live/playlist.m3u8
+https://frnksocial.mmdlive.lldns.net/frnksocial/bb457320325b4676930a00ef6f8b0407/manifest.m3u8
+#https://cdn3.wowza.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eq0ufqD.png" group-title="News",Frank Speech - Lindell TV - USA
-https://live-dl.frankspeech.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/live/playlist.m3u8
+https://frnksocial.mmdlive.lldns.net/frnksocial/fdc4ddd878764582aa2d72dad787c4ab/manifest.m3u8
+# https://live-dl.frankspeech.com/1/b3JJSjBvNWovcEdp/SVVPQXNk/hls/live/playlist.m3u8
 # https://home.frankspeech.com/live-stream/overcomerstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXszxei.png" group-title="News",Frank Speech - Overcomers.TV - USA
 https://frnksocial.mmdlive.lldns.net/frnksocial/a5e6157524ce49e3a0653d5841619ac3/manifest.m3u8
