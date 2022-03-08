@@ -622,6 +622,9 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kObK9ob.jpg" group-title="News",Euronews ჯორჯია (GE)
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPMaV2Y.jpg" group-title="News",eXtra news (STK) - Egypt
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnzkjv6.png" group-title="News",Factor tv (STK) - Armenia
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkI5KAJDh9S-BQFc6QzSUiA/live
 
@@ -650,6 +653,9 @@ https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTktpJ0.jpg" group-title="News",Halab Today - Syria
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkvlG9v.png" group-title="",Hamburg 1 - Germany
+https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1tJuXU.png" group-title="News",Hír TV - Hungary
 https://stream.hirtv.hu/delayed.php.m3u8|Referer=https://hirtv.hu/?block=Video_Hirtv_Kesleltetett_Embed&ajax=1
 
@@ -658,6 +664,12 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNZOrs1QBt8cJ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhgchpB.jpg" group-title="News",Informativo 24 (STK) - Colombia
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCf5zW2CUCcJFogTw3liJcoQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0wqg5d.png" group-title="News",I News TV - Irak
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u3sKHrD.png" group-title="News",INews - Indonesia
+https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8|Referer=https://embed.rctiplus.com/live/inews/inewsid
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fZX1qr.jpg" group-title="News",Jamuna TV (STK) - Bangladesh
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCN6sm8iHiPd0cnoUardDAnw/live
