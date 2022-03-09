@@ -9,60 +9,60 @@
 plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KPDFCub.jpg" group-title="",Very Local (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9IL83T8.jpg" group-title="",Very Alabama by WVTM (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7Vw6oq2LCbzAhdxF_UcIWg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q2hap0H.jpg" group-title="",Very Arkansas by 40/29 (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-b1JdevG6fVeb06rRN_Xhw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wuYKg00.jpg" group-title="",Very Baltimore by WBAL-TV (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpmb83_U37eDBlgEezsxK7w/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXvNnPs.jpg" group-title="",Very Boston by WCVB (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC72UssJ1DNQcakZXm-B2-zw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZhkgaG.jpg" group-title="",Very Carolina by WXII (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0ZsHHC_frpcqneDpMiteCQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J1DDTFo.jpg" group-title="",Very Central Coast by KSBW (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwPzlQU2MqEQJWgqM_0VFKQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5EOWilS.jpg" group-title="",Very Champlain Valley by NBC 5 (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3KF4ZlaGjyels6A7riZug/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7v6vBUt.jpg" group-title="",Very Cincinnati by WLWT (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkr9qZ5tj9dGd7JvE3a8X4Q/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EwgRVIt.jpg" group-title="",Very Iowa by KCCI (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKATGvvbOznaWNZcOBCLGng/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BXNBqVZ.jpg" group-title="",Very Jackson by 16 WAPT (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCq6jYgbPEh-lttcUsvPCbsg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jygP31t.jpg" group-title="",Very Kansas City by KMBC/KCWE (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWTkpYvniGIUe1jeCncFzKw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lgtnBfZ.jpg" group-title="",Very Louisville by WLKY (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCojNA7ZvnmGuIvYnm44wl3Q/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/szlxdKz.jpg" group-title="",Very Maine by WMTW (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqvtjfI2zzRl_2W_KpEnuMg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dYPBh6Q.jpg" group-title="",Very Milwaukee by WISN 12 (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8Tm7Xuz8QekHzjsDxgFNnw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T5OeZmf.jpg" group-title="",Very New Hampshire by WMUR (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwuZjWoiT30kDTz0G41Y8gQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/awlZ9OH.jpg" group-title="",Very New Mexico by KOAT (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC41xJSNY2xCPC4-gOsRcDcg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A54o66q.jpg" group-title="",Very New Orleans by WDSU (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCh6B4Wr5marHaAhH27VR9GA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fGjMR1s.jpg" group-title="",Very Oklahoma by KOCO (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoIhMkbeDRBImkGiA5mZp5A/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mgTaRgy.jpg" group-title="",Very Omaha by KETV (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCczdiIilpYSmiF074WMCNiA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4PO6Mu.jpg" group-title="",Very Orlando by WESH 2 (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCD9nZ3qeRGbPuHJaJduiQxA/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vl4LfQf.jpg" group-title="",Very Pennsylvania by WGAL (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaqEHP76q9TblVUO3sHFSQQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HUsRMwR.jpg" group-title="",Very Pittsburgh by WTAE (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWAsWgFVqxDzwExfOdYjAcg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsz5yKF.jpg" group-title="",Very Sacramento by KCRA (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-BSVXejMFhhml4V_VyoGxg/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7cWugAL.jpg" group-title="",Very Savannah by WJCL (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4DGZQHLsQRK3v8lKTGu_Uw/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3V7QKz4.jpg" group-title="",Very South Florida by WPBF 25 (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeD5NwvPbEZKcu02_v8tUZQ/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ksq6mif.jpg" group-title="",Very Tampa Bay by WMOR (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC78ljVeAIqWrvIy-EG4lB7w/live
+#EXTINF:-1 ,News4JAX+
+https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 ,WCBI (News)
+https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
+#EXTINF:-1 ,KITV (News)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
+#EXTINF:-1 ,WTWC (News)
+https://content.uplynk.com/channel/aa92b664ac5941de81cd410803329da2.m3u8
+#EXTINF:-1 ,WBBJ (News)
+https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
+
+# https://www.vicetv.com/en_us/schedule
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QiofEob.jpg" group-title="",Vice TV
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+
+# https://vpodtv.com/  https://www.ontvtonight.com/guide/listings/channel/1718696570/wchu-vpod-tv.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0EnJMum.png" group-title="",VPOD TV - WAOE Chicago
+https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711eb99623595db260c33/index.m3u8
+
+# http://victorvalleytv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKPjfJZ.jpg" group-title="",Victor Valley TV (LMG TV - 24.4)
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Bx8NaEnRelcRTcpdosCCYggM3Xd-bMZu0d9whL9SKd2V9DDa0_0663RIgpTQr5mVBpfY3ajysjdh" group-title="",KET
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:1 ,GoodLife 45 (720p)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXlwICo.png" group-title="",GLC TV
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+
+#EXTINF:-1,Trinity Tv
+http://1-fss29-s0.streamhoster.com/lv_trinitytv/_definst_/broadcast1/chunklist.m3u8
+
+# http://nowallstv.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxkwhnN.jpg" group-title="",No Walls TV
+https://2-fss-2.streamhoster.com/pl_120/205552-2115790-1/playlist.m3u8
+# https://ntxdtv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5FzeS.jpg" group-title="",NTXD-TV
+https://2-fss-1.streamhoster.com/pl_122/201794-1397050-1/playlist.m3u8
+
+# https://www.kvvb.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8zF4pan.png" group-title="",KVVB TV CH 33.1
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",NewNet CH 33.3 
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
 
 
 #EXTINF:-1 tvg-id="WCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.nicepng.com/png/full/443-4431727_cbs-logo-png.png" group-title="Local",CBS Tallahassee FL (WCTV1) (720p)
@@ -74,7 +74,6 @@ https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WTWC-TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/320px-NBC_Peacock_1986.svg.png" group-title="Local",NBC Tallahassee FL (WTWC-TV1) (720p)
 https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
 
-
 # https://www.watchdigitv.com/watch-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHg9ydf.png" group-title="",Digi-TV
 https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
@@ -82,22 +81,6 @@ https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
 # https://watchseinfeld.net/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWQzrZc.jpg" group-title="",Seinfeld 24/7
 https://2.watchseinfeld.net/hls/seinfeld/src/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Comedy
-http://cdn.tvmatic.net/comedy.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Crafts
-http://cdn.tvmatic.net/crafts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Facebook
-http://cdn.tvmatic.net/facebook.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Fight
-http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Funny
-http://cdn.tvmatic.net/funny.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic Sport
-http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="",TVMatic TikTok
-http://cdn.tvmatic.net/tiktok.m3u8
-
 
 #EXTINF:-1 tvg-id="DivineTVEvent.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZJSBX6i.jpg" group-title="Religious",Divine TV Event (720p)
 https://bozztv.com/36bay2/divine-event/index.m3u8
@@ -113,7 +96,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoOKMP6BtOLtl
 
 #########
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77oBlt3.png" group-title="",FreightWavesTV (1080p)
 https://bcovlive-a.akamaihd.net/a3312b4294b843ceba9545a373e9c147/us-east-1/6149438623001/e6ad5d4bf7c2463990a0b903a6fe6294/playlist_ssaiM.m3u8
 
@@ -122,6 +104,8 @@ https://barakyah-hls.secdn.net/barakyah-channel/play/mp4:misports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtsVjbT.png" group-title="",Twit TV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=5959099&amp;mode=play
+
+####
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gd9j5iK.png" group-title="FilmRise",FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
@@ -196,151 +180,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8?p=roku
 
 
-
-
-
-
 #########
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T4anKUn.jpg" group-title="airy.tv",Payam Javan TV
-https://playout4multirtmp.tulix.tv/live1/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6XnZB9u.png" group-title="airy.tv",Kayhan TV
-https://playout4multirtmp.tulix.tv/live2/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",3
-https://playout4multirtmp.tulix.tv/live3/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",4
-https://playout4multirtmp.tulix.tv/live4/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fZ0SIk.png" group-title="airy.tv",Fight TV Plus
-https://playout4multirtmp.tulix.tv/live5/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8yfrXO8.jpg" group-title="airy.tv",Sports TV Plus
-https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvxPYgi.jpg" group-title="airy.tv",Camera Smile TV
-https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNjiwOP.jpg" group-title="airy.tv",Celebrity Scene TV
-https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",9
-https://playout4multirtmp.tulix.tv/live9/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",10
-https://playout4multirtmp.tulix.tv/live10/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",11
-https://playout4multirtmp.tulix.tv/live11/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xIoUlnC.jpg" group-title="airy.tv",ESPN XEPE Radio 1700am
-https://playout4multirtmp.tulix.tv/live12/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",13
-https://playout4multirtmp.tulix.tv/live1/Stream13/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",wrestling tv
-https://playout4multirtmp.tulix.tv/live14/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0WPxVv7.jpg" group-title="airy.tv",iRead2Know tv
-https://playout4multirtmp.tulix.tv/live15/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",16
-https://playout4multirtmp.tulix.tv/live16/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",17
-https://playout4multirtmp.tulix.tv/live17/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",18
-https://playout4multirtmp.tulix.tv/live18/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Travel & Food
-https://playout4multirtmp.tulix.tv/live19/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",20
-https://playout4multirtmp.tulix.tv/live20/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0prwaY.png" group-title="airy.tv",Crown of Life Global TV
-https://playout4multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CgdrA3Z.jpg" group-title="airy.tv",Race Central TV
-https://playout4multirtmp.tulix.tv/live22/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aNY24oZ.jpg" group-title="airy.tv",Atlanta United Fan TV
-https://playout4multirtmp.tulix.tv/live23/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGwQgl1.jpg" group-title="airy.tv",Capitol Wrestling TV
-https://playout4multirtmp.tulix.tv/live24/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Plj8yPh.jpg" group-title="airy.tv",Billy C Boxing TV
-https://playout4multirtmp.tulix.tv/live25/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BORrkMf.png" group-title="airy.tv",Mad Dog & Merrill TV
-https://playout4multirtmp.tulix.tv/live26/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",27
-https://playout4multirtmp.tulix.tv/live27/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",28
-https://playout4multirtmp.tulix.tv/live28/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBN4eY9.jpg" group-title="airy.tv",CES Boxing TV
-https://playout4multirtmp.tulix.tv/live29/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",30
-https://playout4multirtmp.tulix.tv/live30/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rKxqwE0.jpg" group-title="airy.tv",No Huddle TV
-https://playout4multirtmp.tulix.tv/live31/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",32
-https://playout4multirtmp.tulix.tv/live32/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",33
-https://playout4multirtmp.tulix.tv/live33/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",34
-https://playout4multirtmp.tulix.tv/live34/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",35
-https://playout4multirtmp.tulix.tv/live35/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",36
-https://playout4multirtmp.tulix.tv/live36/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",37
-https://playout4multirtmp.tulix.tv/live37/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dKH4eCL.jpg" group-title="airy.tv",Hot Rock TV
-https://playout4multirtmp.tulix.tv/live38/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7hwoc7F.jpg" group-title="airy.tv",IIPC
-https://playout4multirtmp.tulix.tv/live39/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",40
-https://playout4multirtmp.tulix.tv/live40/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Lone Ranger TV
-https://api.airy.tv/hls/main/3/Lone%20Ranger%20TV.m3u8
-https://api.airy.tv/hls/part/360/3/Lone%20Ranger%20TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Airy Westerns TV 1
-https://api.airy.tv/hls/main/4/Airy%20Westerns%201.m3u8
-https://api.airy.tv/hls/part/1080/4/Airy%20Westerns%201.m3u8
-https://api.airy.tv/hls/part/720/4/Airy%20Westerns%201.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Airy Action Movies
-https://api.airy.tv/hls/part/1080/7/Airy%20Action%20Movies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Wrestling TV
-https://api.airy.tv/hls/main/5/ECPW%20Wrestling%20TV.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pKv1LAc.png" group-title="airy.tv",Rope 2 Rope
-https://api.airy.tv/hls/main/5/ECPW%20Wrestling%20TV.m3u8
-https://api.airy.tv/hls/part/1080/5/ECPW%20Wrestling%20TV.m3u8
-https://api.airy.tv/hls/part/360/5/ECPW%20Wrestling%20TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~~~~  USA TV ~~~~ 
 0.0.0.0
