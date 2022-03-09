@@ -498,6 +498,9 @@ plugin://plugin.video.youtube/play/?channel_id=UC1g0ug0QX3XQN8peyrNVCTg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMsxgMg.jpg" group-title="Kids",Wolf Pica Channel (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1g0ug0QX3XQN8peyrNVCTg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XsMenW.jpg" group-title="Kids",Woody Woodpecker (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCB2aeGGPNj7l5Z71bYNqX-Q/live
+
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/63/GBBA3300030OP_20211208T025514.png" group-title="Kids",YAAAS!
 https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_YAAAS/playlist.m3u8
 
