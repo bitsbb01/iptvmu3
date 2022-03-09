@@ -531,7 +531,8 @@ https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Kids",Zoo Moo (Australia) (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#######
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmjG9j0.png" group-title="",★★★★★★★★★★The Kids Corner Gaming★★★★★★★★★★
+0.0.0.0
 
 # https://www.youtube.com/c/KawaiiGames
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S775l7q.jpg" group-title="Gaming",24/7 Sega Classic Games TV [Genesis/Mega Drive/Saturn/Master System/Game Gear](STK)
