@@ -4,10 +4,13 @@
 0.0.0.0
 
 
-# https://www.youtube.com/channel/UCju5Bpr3NY63ZBZoKDrCTbg #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff7qiyL.jpg" group-title="",US National Debt Clock LIVE (YT)
-plugin://plugin.video.youtube/play/?video_id=wb8lhNWRxDM
+# https://watc.tv/wp-content/uploads/2022/02/WATC-TV-Program-Grid-Generic.pdf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PuDhU0k.jpg" group-title="",WATC TV 57.1 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 
+# https://watc.tv/wp-content/uploads/2022/02/WATC-TOO-Program-Grid-Generic.pdf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTxSBxA.jpg" group-title="",WATC TV 57.2 Atlanta
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 
 #EXTINF:-1 ,News4JAX+
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
