@@ -1019,12 +1019,6 @@ https://p12w.pac-12.com/v1/master/b6988789cc420a523cc8393d9c7e629c76fece84/p12w-
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/108.png" group-title="USA",Paramount Network 
 http://espn.tmedia.me/cache/spikeus.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT) (Opt-1)
-http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png" group-title="USA",PBS (WPBT) (Opt-2)
-http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
-
 #EXTINF:-1 tvg-logo="http://pets.tv/files/2018/09/pets_logo-300x132.png" group-title="USA",Pets.TV
 http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8?fluxustv.m3u8
 
