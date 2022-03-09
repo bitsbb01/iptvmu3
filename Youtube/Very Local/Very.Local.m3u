@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xViV3g.png" group-title="",★★★★★★★★★★Very Local★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZReexrV.jpg" group-title="Main",Flagship Channel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yFLV5B.jpg" group-title="Central",Very Iowa by KCCI : Des Moines - Iowa (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKATGvvbOznaWNZcOBCLGng/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8oZ6tsG.jpg" group-title="Central",Very Arkansas by 40/29 : Ft Smith - Arkansas (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-b1JdevG6fVeb06rRN_Xhw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqodjhS.jpg" group-title="Central",Very Jackson by 16 WAPT : Jackson - Mississippi (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCq6jYgbPEh-lttcUsvPCbsg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33qTkHU.jpg" group-title="Central",Very Kansas City by KMBC / KWCE : Jackson - Mississippi (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWTkpYvniGIUe1jeCncFzKw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ym7aFwc.jpg" group-title="Central",Very Milwaukee by WISN 12 : Milwaukee - Wisconsin (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8Tm7Xuz8QekHzjsDxgFNnw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l15cHCM.jpg" group-title="Central",Very New Orleans by WDSU : New Orleans - Louisiana (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCh6B4Wr5marHaAhH27VR9GA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yB1e5o6.jpg" group-title="Central",Very Oklahoma by KOCO : Oklahoma City - Oklahoma (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoIhMkbeDRBImkGiA5mZp5A/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8MJYkQ.jpg" group-title="Central",Very Omaha by KETV : Omaha - Nebraska (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCczdiIilpYSmiF074WMCNiA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54b4pCL.jpg" group-title="East",Very Baltimore by WBAL-TV : Baltimore - Meryland (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpmb83_U37eDBlgEezsxK7w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNZyulT.jpg" group-title="East",Very Alabama by WVTM : Birmingham - Alabama (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7Vw6oq2LCbzAhdxF_UcIWg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cmPZg8I.jpg" group-title="East",Very Boston by WCVB : Boston - Massachusetts (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC72UssJ1DNQcakZXm-B2-zw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VbFlAhJ.jpg" group-title="East",Very Cincinnati by WLWT : Cincinnati - Ohio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkr9qZ5tj9dGd7JvE3a8X4Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbrJIt8.jpg" group-title="East",Very Champlain Valley by NBC 5 : Burlington - Vermont (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCO3KF4ZlaGjyels6A7riZug/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1wOwJL.jpg" group-title="East",Very Carolina by WXII : Winston-Salem - North Carolina (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0ZsHHC_frpcqneDpMiteCQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bpvi5sW.jpg" group-title="East",Very Carolina by WYFF 4 : Greenville - South Carolina (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3UxJWrUACd2Hk4dMAQKOyw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33iZ77X.jpg" group-title="East",Very Pennsylvania by WGAL : Lancaster - Pennsylvania (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaqEHP76q9TblVUO3sHFSQQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EcEDXZ4.jpg" group-title="East",Very Louisville by WLKY : Louisville - Kentucky (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCojNA7ZvnmGuIvYnm44wl3Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EyiB3Eo.jpg" group-title="East",Very New Hampshire by WMUR : Manchester - New Hampshire (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwuZjWoiT30kDTz0G41Y8gQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMNQUDL.jpg" group-title="East",Very Orlando by WESH 2 : Orlando - Florida (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCD9nZ3qeRGbPuHJaJduiQxA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q1hPV9G.jpg" group-title="East",Very Pittsburgh by WTAE : Pittsburgh - Pennsylvania (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWAsWgFVqxDzwExfOdYjAcg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33eo48C.jpg" group-title="East",Very Maine by WMTW 8 : Portland - Maine (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqvtjfI2zzRl_2W_KpEnuMg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXquXOp.jpg" group-title="East",Very Savannah by WJCL : Savannah - Georgia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4DGZQHLsQRK3v8lKTGu_Uw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLEaPi6.jpg" group-title="East",Very Tampa Bay by WMOR : Tampa - Florida (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC78ljVeAIqWrvIy-EG4lB7w/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acFpvxD.jpg" group-title="East",Very South Florida by WPBF 25 : West Palm Beach - Florida (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeD5NwvPbEZKcu02_v8tUZQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBV3mzX.jpg" group-title="West",Very New Mexico by KOAT : Albuquerque - New Mexico (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC41xJSNY2xCPC4-gOsRcDcg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVswUUE.jpg" group-title="West",Very Central Coast by KSBW : Monterey - California (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwPzlQU2MqEQJWgqM_0VFKQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzBc24o.jpg" group-title="West",Very Sacramento by KCRA : Sacramento - California (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-BSVXejMFhhml4V_VyoGxg/live
