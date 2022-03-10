@@ -939,6 +939,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIzXayRP7-P0A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbVMke7.jpg" group-title="News",Todo Noticias (TN) (STK) - Argentina
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsdnrLM.jpg" group-title="News",Top News - Albania
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x6inuzo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK9bYr6.jpg" group-title="News",TRT Haber (STK) - Turkey
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBgTP2LOFVPmq15W-RH-WXA/live
 
