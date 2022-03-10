@@ -132,3 +132,7 @@ https://v-ny.theus6tv.tk/hls/48.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows 
 https://v-ny.theus6tv.tk/hls/11.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTINF:-1 tvg-id="WFUTDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XzZcyyc.png" group-title="",WFUT-DT1 (Unimas Nueva York)
 https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1 tvg-id="WWORDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dHaddf8.png" group-title="",WWOR-DT1 (my9)
+https://v-ny.theus6tv.tk/hls/9.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QPtF3kA.png" group-title="",WNJU-DT1 (Telemundo 47)
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
