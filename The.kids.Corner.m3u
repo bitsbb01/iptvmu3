@@ -343,6 +343,9 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/randomcartoons
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0nszMv8.jpg" group-title="Kids",RetroCrush (720p)
 https://digitalmediarights-retrocrush-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UP3WQth.jpg" group-title="Kids",Ricky Zoom - Official Channel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7UD8F6WC7GGmsKmpPvE7lA/live
+
 # https://www.youtube.com/channel/UCr-rCvgg21KqfrnGopaQeGw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bb8h5uR.jpg" group-title="Kids",Robocar POLI TV (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCr-rCvgg21KqfrnGopaQeGw&live=1
