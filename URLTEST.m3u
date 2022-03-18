@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="",TEST 1+1
+https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/TRT.m3u
+
 # https://www.intergalactic.fm/
 # https://hotmixes.net/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOxUjwI.jpg" group-title="",CBS TV
