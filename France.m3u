@@ -6,6 +6,11 @@
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 
+# https://www.albi-tv.fr/
+#EXTINF:-1 tvg-id="Albi-TV.fr" tvg-name="AlbiTV FR" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/rFcLxa5.png" group-title="",Albi TV
+https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
+
+
 # https://www.sqooltv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vAwlbwi.png" group-title="",SQOOL TV (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCaEqMbRYYOmI3WrALMhxuIg&live=1
